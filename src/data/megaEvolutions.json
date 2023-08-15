@@ -1,0 +1,236 @@
+[
+	{
+		"types": ["Grass", "Poison"],
+		"imgUrl": "https://lh3.googleusercontent.com/5RPih2MSRopmh89QgpF32itm_i1T51s2-wsq3XnJk-ODnnDwW8SPd7aq60CEXOJWejfBpfIvJMKhycmBbQVyldB34KFw_x3C0IX4advutLGpaQ=s0",
+		"name": "Mega Venusaur",
+		"boostedTypes": ["Grass", "Poison"]
+	},
+	{
+		"types": ["Fire", "Dragon"],
+		"imgUrl": "https://lh3.googleusercontent.com/dginwZmYsM7f4zdUBPOklpzHf7OGL-DRc_lYUI_E8RVRaby-q_1F9Jyc2yYuPmAm2m2i_5uqThI_CztIfAIMV58eY9lNG2Zr_IHy21PjPw1r_g=s0",
+		"name": "Mega Charizard X",
+		"boostedTypes": ["Fire", "Dragon"]
+	},
+	{
+		"types": ["Fire", "Flying"],
+		"imgUrl": "https://lh3.googleusercontent.com/goNaKyrPKkr5ET1ZeRR5fqmEPCbgis-nXueGBZ_bfzEDU6s05R0oEFmqUxNfuuGIBfHUp8Tv5W_mGZU47NfQaQkRZ4dMF3CdG1fnMvyjsuS5ow=s0",
+		"name": "Mega Charizard Y",
+		"boostedTypes": ["Fire", "Flying"]
+	},
+	{
+		"types": ["Water"],
+		"imgUrl": "https://lh3.googleusercontent.com/7YHahPvkBaIWGkV1W7n7XsH9R23xfh_pHHhx0CdKMDCF4KTFCfCZwRIr7e_-geVX7BV4ZFWyzOhfIhPGZXOB5ug5OgXO-_1Od_YqPZlvDb-u=s0",
+		"name": "Mega Blastoise",
+		"boostedTypes": ["Water"]
+	},
+	{
+		"types": ["Bug", "Poison"],
+		"imgUrl": "https://lh3.googleusercontent.com/97PNKp2FN4c3Z9XHuz_yoSM6TqfdWSWNcOpODbP2M1hTD9EGMiH5ge7Cp_BqL1coBrSF47Inwl5pgghQ4QaBuKjhyg7wWEFmeGLcvWgj1AUwKw=s0",
+		"name": "Mega Beedrill",
+		"boostedTypes": ["Bug", "Poison"]
+	},
+	{
+		"types": ["Flying", "Normal"],
+		"imgUrl": "https://lh3.googleusercontent.com/JYg0w4qgQ2JdrcC9oRExUh38AWVWWfTrX-KWBula-10wqFyibTYjAdikm6SHwBlEDu3XWh3YVrILZnaa-yx4YXjjcbI3jePlc4SNOXupGQ-uRA=s0",
+		"name": "Mega Pidgeot",
+		"boostedTypes": ["Flying", "Normal"]
+	},
+	{
+		"types": ["Psychic"],
+		"imgUrl": "https://lh3.googleusercontent.com/LCYWIhU0qmYPD7KVyougTepbjcsuXRGVJJqkzc4Ozm9KKMkVo5yLjxYxLaeSDllSHA8iONiU9dph99O6PKvydmNGJuivq31h3VHys3ZejnmW0oQ=s0",
+		"name": "Mega Alakazam",
+		"boostedTypes": ["Psychic"]
+	},
+	{
+		"types": ["Water", "Psychic"],
+		"imgUrl": "https://lh3.googleusercontent.com/FDBSs_1ud2XBgq1UHK7SfMMBcTIAnX9jzWt4JrRvdDteaqKLSdY2eqPDwaW9asQsfRydKrzV2EobUyvixGq0Ys_z3JqU6X9wlOQlJSb9_I_7Wg=s0",
+		"name": "Mega Slowbro",
+		"boostedTypes": ["Water", "Psychic"]
+	},
+	{
+		"types": ["Ghost", "Poison"],
+		"imgUrl": "https://lh3.googleusercontent.com/XGhVGodyXELnUAK8FyOAblPf9883WbsvH6K-LXLt5Fj6i8DDN05tiDq8sTsHQIHdBYMv51QrAjmSfw0cfgzWtpyMTJWmoOYvzrzG_9SQqg6E=s0",
+		"name": "Mega Gengar",
+		"boostedTypes": ["Ghost", "Poison"]
+	},
+	{
+		"types": ["Normal"],
+		"imgUrl": "https://lh3.googleusercontent.com/7WCqILvZ6WcTzmPuUEHGgx6XDlzDf4qVwT9LpaytxTZIlLwCOgW3HN8O89p6cAy6PljpPqIVMK8OKRyl8W6MCLPKOlqIZcp-ys322yQ7yGWn=s0",
+		"name": "Mega Kangaskhan",
+		"boostedTypes": ["Normal"]
+	},
+	{
+		"types": ["Bug", "Flying"],
+		"imgUrl": "https://lh3.googleusercontent.com/RyqqDcbm4nT79MxFl83wxdwCLzdZhzBDr1Oo79UFonOHR0kekW45SXp1P07FQkDjNXQrucHAOXBW32U9Cx5lGftvclzKI3LTZFCWyWueoHLTuew=s0",
+		"name": "Mega Pinsir",
+		"boostedTypes": ["Bug", "Flying"]
+	},
+	{
+		"types": ["Water", "Dark"],
+		"imgUrl": "https://lh3.googleusercontent.com/ZcBNIWWiL2J69XvwU88johBfCTwmww4OxWbBnfhezzzAScakYqMlSkpSfP4t90ee2BbpNb87kqTYbf7tCB7TO3ipCMHIj9q63gGGy1DFv8W27sc=s0",
+		"name": "Mega Gyarados",
+		"boostedTypes": ["Water", "Dark"]
+	},
+	{
+		"types": ["Rock", "Flying"],
+		"imgUrl": "https://lh3.googleusercontent.com/f5fDN_rIbAhpDDFYGvgAd-eMDTFMyx3qSDq6Phy_Tj0-4USRGrUOi-j-XPgao5Bd2Ps7C0LurK37OZCrLz6B5LwwQb2kvLe4Kn0TV2f4dlO1Cg=s0",
+		"name": "Mega Aerodactyl",
+		"boostedTypes": ["Rock", "Flying"]
+	},
+	{
+		"types": ["Electric", "Dragon"],
+		"imgUrl": "https://lh3.googleusercontent.com/_gGY_rBERVRll3rJXrtxEcLlWxs3UAqD0xXLA0G0mN9LgAOGoMOtyjHdo0-7JyGxIXhvjfyYjEyXEaPttasK3W340thPRhX4FeCzo-AnfcK7rg=s0",
+		"name": "Mega Ampharos",
+		"boostedTypes": ["Electric", "Dragon"]
+	},
+	{
+		"types": ["Steel", "Ground"],
+		"imgUrl": "https://lh3.googleusercontent.com/4PX5ywpveyMNxcF4yg2nb9RVaaoO5GITSUOieEj8eeKMbSfx4RVbFEkEoXwFcUXuZBzxjYVFC2sc-vowElaltFcXVXyY7jSeh6sN0tdXQGVo-g=s0",
+		"name": "Mega Steelix",
+		"boostedTypes": ["Steel", "Ground"]
+	},
+	{
+		"types": ["Bug", "Steel"],
+		"imgUrl": "https://lh3.googleusercontent.com/zO93U13oP-76VHil6JL78Pzp_y_VaHtLtv7955xWT9T8xfzJpBIicXiYozjmXkw4xsdHBUgQM1i0P2ruXUvbH-jTxilCIq5yyWhDURiRqw1k4Q=s0",
+		"name": "Mega Scizor",
+		"boostedTypes": ["Bug", "Steel"]
+	},
+	{
+		"types": ["Dark", "Fire"],
+		"imgUrl": "https://lh3.googleusercontent.com/m5Y9XKYwWqcj4XHCyLoqNY8N1g3LPuCyGFD2NjKWEX1D9qdccRT1vFH8NQEUwwOWEX1jiP6KOQhDyTQpyuyjqjivCdcqMnwZ5jBZw2AtaFUr=s0",
+		"name": "Mega Houndoom",
+		"boostedTypes": ["Dark", "Fire"]
+	},
+	{
+		"types": ["Rock", "Dark"],
+		"imgUrl": "https://lh3.googleusercontent.com/fd8v1OVyXB_SYRvUJu7rsEOMSPv9L9zdi_QekDsf7XlFSbXyhbKk5AipmMWt528OqI-iwup3guhkZ7TRwsHVzVYGgkHO8QxxiBdn9JnTckAHew=s0",
+		"name": "Mega Tyranitar",
+		"boostedTypes": ["Rock", "Dark"]
+	},
+	{
+		"types": ["Grass", "Dragon"],
+		"imgUrl": "https://lh3.googleusercontent.com/nt4A_Bj9uuxAd_uvk06OXvApjeYMnw8wG30IuFpB-igtVZxbxj-VIV5M4vPkKNiyY6k-xRa9zBTh8-P-vLoUvsenjSQbPeLq4HFVpQkjdKdYwVc=s0",
+		"name": "Mega Sceptile",
+		"boostedTypes": ["Grass", "Dragon"]
+	},
+	{
+		"types": ["Fire", "Fighting"],
+		"imgUrl": "https://lh3.googleusercontent.com/cf9WKz0RLdGyDnmtJpNboCpzJfe6orVHX_uUmfuT1wCFPoXUxCvmN7NlkJm_0hhIbhhTITdzuGmkh2vYEUBrR5hksMWuP4PZIjxrAyI81lyTtYc=s0",
+		"name": "Mega Blaziken",
+		"boostedTypes": ["Fire", "Fighting"]
+	},
+	{
+		"types": ["Water", "Ground"],
+		"imgUrl": "https://lh3.googleusercontent.com/SD0MtHy3EBLto8tTk8ua-h5IyvO_6AjB4qQv_UdCq7CSdimFrjbjpJDdHx9vD4g5pFUfI2Duvsuu8MPuUNKWKuAQxVC2l_nChqsRXjxrzfxjb2A=s0",
+		"name": "Mega Swampert",
+		"boostedTypes": ["Water", "Ground"]
+	},
+	{
+		"types": ["Psychic", "Fairy"],
+		"imgUrl": "https://lh3.googleusercontent.com/kA8WXYpaeW5c2wOiYqt4viT-Yd0izinHf3AEXDNz5SXhKxGf4-QCS5Bza04XJFja7oDXDykRxeVqa7dLZ_L5o05OsKgyMBvRY6qAqBfJ1KHW=s0",
+		"name": "Mega Gardevoir",
+		"boostedTypes": ["Psychic", "Fairy"]
+	},
+	{
+		"types": ["Dark", "Ghost"],
+		"imgUrl": "https://lh3.googleusercontent.com/DATBguWtfF1rqnkPe3g9mv7Jnl0R4zthE102llFej5OymaUMy_2OxirvsakBJMWeIjNOkoZgdcx7OAT-_N59UT5dn8kICM0AglM_CUWa4THb=s0",
+		"name": "Mega Sableye",
+		"boostedTypes": ["Dark", "Ghost"]
+	},
+	{
+		"types": ["Steel"],
+		"imgUrl": "https://lh3.googleusercontent.com/ZyXXljRuU9pBJKbYjQGbpp-13gA03Hi4hNn0eg_qio9QmASmc0pmnJUG0t10chAzmXmNEuzPv-Iolvdz9jcyN95ak23imayJjfLm2MIJ9k4z=s0",
+		"name": "Mega Aggron",
+		"boostedTypes": ["Steel", "Rock"]
+	},
+	{
+		"types": ["Fighting", "Psychic"],
+		"imgUrl": "https://lh3.googleusercontent.com/9yFvF_0SBFacCJ9KN5WM2R7x94NV0LmNSrPnscdUhhqbhyKWgLO3nN6K9Vthd-zGuJhXkLTMepap4KxY41FkO5a1-ILVLP2PpibN5Hb5wwGFrUQ=s0",
+		"name": "Mega Medicham",
+		"boostedTypes": ["Fighting", "Psychic"]
+	},
+	{
+		"types": ["Electric"],
+		"imgUrl": "https://lh3.googleusercontent.com/p9zZIyaFuVD2ZlrNiwk5v8TKRUc6-f2C7APveRKXn9HTSjbnpP66SwoyfIm18Y6IOQH4O55lzAf3pH8lk2_k8BkUrD-rwHey0duEUbbe8L3ibA=s0",
+		"name": "Mega Manectric",
+		"boostedTypes": ["Electric"]
+	},
+	{
+		"types": ["Dragon", "Fairy"],
+		"imgUrl": "https://lh3.googleusercontent.com/mJ28xMl_Ag7qW9SvQB5AYB0b8Ukjf42P9pEQbWS-wqq19Dy6KX8gBYV2CLU-0Gg1zPLHJQVt2CsMc8j-2f7en9Q6lR_Dc9gQarsCWQFIzYyf=s0",
+		"name": "Mega Altaria",
+		"boostedTypes": ["Dragon", "Fairy"]
+	},
+	{
+		"types": ["Ghost"],
+		"imgUrl": "https://lh3.googleusercontent.com/Js2SeGfZ5NQX_iM4b_8YCLhHesEUcJjuNz6c3fx6T59EWx5ojri_nsuR0GGa9wEYg-DUPHSniq6_9_l6Wf-Yi2l_2qMvuHenuSWI4i4zTdseOA=s0",
+		"name": "Mega Banette",
+		"boostedTypes": ["Ghost"]
+	},
+	{
+		"types": ["Dark"],
+		"imgUrl": "https://lh3.googleusercontent.com/OCnn8u72Hxf5zO9atTUoxEsKXomYGprmA9F7p8_LhdRdg22RWG54iTlyLEgChbHFEHN1C8Zvj1-rYhDP_VcYdfXpK_GMUhk-TZAKjwGwAk-niTA=s0",
+		"name": "Mega Absol",
+		"boostedTypes": ["Dark"]
+	},
+	{
+		"types": ["Ice"],
+		"imgUrl": "https://lh3.googleusercontent.com/ScUXushnjF4CzS-SiY_PTnV8WvgYODjYUYVJ4CpBuzxR4fEdz1HsHMWZuIjumJdMWfXgMq76InTzIgH6CrghH0P86NABcVGq6IFGIdRK58gEyA=s0",
+		"name": "Mega Glalie",
+		"boostedTypes": ["Ice"]
+	},
+	{
+		"types": ["Dragon", "Flying"],
+		"imgUrl": "https://lh3.googleusercontent.com/4qFLB6fkh4RQRpaAt1Nda7YwIvpLIApmByv3jPfTRJrBbZSQdoZ33Xstcrm572WgaJ-ueB5fuRVJG7Mz92MC6TWWww0kGEK2j-ahU4OBgpgldWE=s0",
+		"name": "Mega Salamence",
+		"boostedTypes": ["Dragon", "Flying"]
+	},
+	{
+		"types": ["Dragon", "Psychic"],
+		"imgUrl": "https://lh3.googleusercontent.com/csVun9LrzWUBgUJ2hxSQk8ypKipC6m0nzJfDOusxMOn8H7_W6O8lukqsnV7pskiNT66JuFdOkopTrqVSkVACR3GRF8xIOFg35AdagnDGWcYolg=s0",
+		"name": "Mega Latias",
+		"boostedTypes": ["Dragon", "Psychic"]
+	},
+	{
+		"types": ["Dragon", "Psychic"],
+		"imgUrl": "https://lh3.googleusercontent.com/csVun9LrzWUBgUJ2hxSQk8ypKipC6m0nzJfDOusxMOn8H7_W6O8lukqsnV7pskiNT66JuFdOkopTrqVSkVACR3GRF8xIOFg35AdagnDGWcYolg=s0",
+		"name": "Mega Latios",
+		"boostedTypes": ["Dragon", "Psychic"]
+	},
+	{
+		"types": ["Dragon", "Flying"],
+		"imgUrl": "https://lh3.googleusercontent.com/PRNQ7DGrgPsPAjOf4kRYiy0_XeO1MLmlpsgPwMrbIha1RWlrgH90t5a8knEVZuPGYOWXY6kvYcMH7sBjGbpaASjlv1f5wPbilFZ81iNCoXpLZg=s0",
+		"name": "Mega Rayquaza",
+		"boostedTypes": ["Dragon", "Flying"]
+	},
+	{
+		"types": ["Grass", "Ice"],
+		"imgUrl": "https://lh3.googleusercontent.com/hziZbzfnu-q-BfNKFlaiJvnTW8Uh9xEFxXi-vL6-_9ECTvwQxA_SzxhT0YfXPN-7Dl7uwZlgQYinWTm6IM5in2sevTNdiaOli4yagIwbOxvnDEc=s0",
+		"name": "Mega Abomasnow",
+		"boostedTypes": ["Grass", "Ice"]
+	},
+	{
+		"types": ["Rock", "Fairy"],
+		"imgUrl": "https://lh3.googleusercontent.com/97PNKp2FN4c3Z9XHuz_yoSM6TqfdWSWNcOpODbP2M1hTD9EGMiH5ge7Cp_BqL1coBrSF47Inwl5pgghQ4QaBuKjhyg7wWEFmeGLcvWgj1AUwKw=s0",
+		"name": "Mega Diancie",
+		"boostedTypes": ["Rock", "Fairy"]
+	},
+	{
+		"types": ["Water"],
+		"imgUrl": "https://lh3.googleusercontent.com/cNBrMpaMz0Brn8r9WvYSfqhhU3HIm2dfmMVCfN9pQTANbvccl1zIXarNyMxpf3bNaiq3s3wMKk1rc_HKuDprG9HQD93Nw4V-te62rbUzTr-XPX8=s0",
+		"name": "Primal Kyogre",
+		"boostedTypes": ["Water", "Electric", "Bug"]
+	},
+	{
+		"types": ["Fire", "Ground"],
+		"imgUrl": "https://lh3.googleusercontent.com/XVSKDWiuG9ucZ-3XNjPj3y6-YEerMsCxMBcU48z7E3F_EQfrT32S9ZM1qbsYo1QJOnhVK6lWowusSoFNd8wD6tCWA9g_m5efK202FKd4DRhqHw=s0",
+		"name": "Primal Groudon",
+		"boostedTypes": ["Fire", "Ground", "Grass"]
+	},
+	{
+		"types": ["Normal", "Fighting"],
+		"imgUrl": "https://lh3.googleusercontent.com/_0zSb5KbmRAWep5LH8LiqZwk5brYq5wwbTuQuoigSh89qXQkTay-TO66x8yq6s1Gi2EMeiRA01o5M2drv5rYwHnlBxZRc1oAP6vls7cYme1dgQ=s0",
+		"name": "Mega Lopunny",
+		"boostedTypes": ["Normal", "Fighting"]
+	}
+]

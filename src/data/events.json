@@ -1,0 +1,139 @@
+[
+	{
+		"wildEncounters": [
+			{
+				"name": "Machop",
+				"types": ["Fighting"],
+				"imgUrl": "https://lh3.googleusercontent.com/Vjcq9iVQXZc8hrSmCbhL_24WdUWE2BvJRt2iYILZ9UYvcy41mLpzzxWvy7dn1bcEVaIJ6C_Yc0Isn6QpRXGyaoshuNKCoVKb81UkhkVATQOTaA=s0"
+			},
+			{
+				"name": "Chinchou",
+				"types": ["Electric", "Water"],
+				"imgUrl": "https://lh3.googleusercontent.com/r6189298v1gZQSQgUmdBuoRpR7QH_zuXlU-SZD-q291_kv9moKxg3ujvPYQGBoSPyQOz25TRXjc075xkyqBHS8ESJMjBe1kSRaceogzVK1ORWg=s0"
+			},
+			{
+				"name": "Wooper",
+				"types": ["Ground", "Water"],
+				"imgUrl": "https://lh3.googleusercontent.com/fUg0P9djLRRsBr1kTs2LLLUEu57CiJBPErTK3zzb08DXu7ibBpL51qSe1OGeQNZ95QsjbQ7xqJyfMX1ZtxSYeDKBB93_2fKlA9hYXR3OZfZq9w=s0"
+			},
+			{
+				"name": "Sableye",
+				"types": ["Dark", "Ghost"],
+				"imgUrl": "https://lh3.googleusercontent.com/wYt7s9b84gnS1Q4ZL3P-N0gWgDbXnTHpuNYOd05VP_4PrKLkK9a3W_O0kn46JDjCdJyF2ZEPIHJnwQ-s46W8s8fbHc4ZDCquGzxz3Gt7otqBVw=s0"
+			},
+			{
+				"name": "Meditite",
+				"types": ["Fighting", "Psychic"],
+				"imgUrl": "https://lh3.googleusercontent.com/3VtrP6XhlmqtagUcyUgkxPpW8Xf4e6jF7vasHfCN5r_LaA_SyRxR_X8jTv6-FbUES4BSOyqQwB1ZotYbGpRj1GBNp7XH3GXZ53eEyoL8I4zASw=s0"
+			},
+			{
+				"name": "Spheal",
+				"types": ["Ice", "Water"],
+				"imgUrl": "https://lh3.googleusercontent.com/cTKW3clPGjSXiyuTs2dj3W3Y5Ncd7CVFDXr4dgBzyoe5Q89-0RlDl-86Z8g-RWjK-Wn2qVedHk8-oe1b11rC-aWByDQDmMjxYshVP741j4dfJGg=s0"
+			},
+			{
+				"name": "Drilbur",
+				"types": ["Ground"],
+				"imgUrl": "https://lh3.googleusercontent.com/Pr6ngar-iYEBmEZhZVo9eSdlmx6XLoR9f9ZZhpnaPKp3_9KxTO2S99kps7hvZte1539Oxs0LgLjl40LchiEwNljxkrnxpxomsgydMKN9PlKh6g=s0"
+			},
+			{
+				"name": "Scraggy",
+				"types": ["Dark", "Fighting"],
+				"imgUrl": "https://lh3.googleusercontent.com/bFf1dsLtmS8OCAUnvbBIGN0Loh4yD-LQyi8fq6zUKP8MY3A9b8DnTw3k8kxI8EMhqLAvdeYVUgkXoX4I0gpeluCJv82U2JLYf5wozC_--75M_A=s0"
+			},
+			{
+				"name": "Bunnelby",
+				"types": ["Normal"],
+				"imgUrl": "https://lh3.googleusercontent.com/YClkT_oIjWD6QvGf7r54rgbIcyAJ4TOnceECGoL1rlZdgBBL8cWvNM84pjm9AcUx748vquME5OUc7FctsUpgwVz0n9vAdl2ZX4ddzWbMhD-1KB8=s0"
+			},
+			{
+				"name": "Wooloo",
+				"types": ["Normal"],
+				"imgUrl": "https://lh3.googleusercontent.com/l156uhHpsMCiUI1wqr5bU5tVlzgShlvNyr-uRffPsc2d3xK2YLvpECrxGXogSg2n7aDH1ounewzvgmSOBmAhRd4a2oejcQz_8nkX5zAwXlXmfw=s0"
+			},
+			{
+				"name": "Onix",
+				"types": ["Ground", "Rock"],
+				"imgUrl": "https://lh3.googleusercontent.com/x1BwyRrOMz180UcGdw5SIl55NCj9N946EYFtCNoFOiSlnPq0tSmNUN_HUp7rssC7CbeCXwBRJPowdhxG6R6hW2jUjlSofZYz8w9tC_FB3tbL=s0"
+			},
+			{
+				"name": "Lickitung",
+				"types": ["Normal"],
+				"imgUrl": "https://lh3.googleusercontent.com/2zUWxMEuyZRxFG7M8fc3C36KMwuIKqzT3tY9swgzdvsJQGnYL3WpAcUqlvHnvv7zlCabvphYnH5ZofTOBiK5wFkb1so5gXQMztR_6S5v1_kL0Ok=s0"
+			}
+		],
+		"startDate": "11.08.2023",
+		"endDate": "15.08.2023",
+		"backgroundColor": "#ffe63c",
+		"textColor": "#535453",
+		"tileBackgroundColor": "#009e96",
+		"tileTextColor": "#ffffff",
+		"name": "Championship Spawns"
+	},
+	{
+		"wildEncounters": [
+			{
+				"name": "Zubat",
+				"types": ["Poison", "Flying"],
+				"imgUrl": "https://lh3.googleusercontent.com/lMTFCBvmItCpySI-2_WSQcaxSruhRsv2gJysd18V6lzIWkgG-ZH_6b8gW8SLDBFIQw8yzlcYvEoPiV-3UuSl9eF_Ni_MvwRZc38ua8kojiV9DA=s0"
+			},
+			{
+				"name": "Venonat",
+				"types": ["Bug", "Poison"],
+				"imgUrl": "https://lh3.googleusercontent.com/jWX09h2vhx_qo5uI5twr2nH8zIccsAPzVv_xi_HVRI6QzeEQVINEnJmf7-7MWlpJqYHAQuP-9wNw7O1Ihr-WeJYlUPjLuOhudk7pS1CMTMHH=s0"
+			},
+			{
+				"name": "Tentacool",
+				"types": ["Water", "Poison"],
+				"imgUrl": "https://lh3.googleusercontent.com/9VEGG7hc7wxv21ukWK5NZ9PFzsXQRT0-j96q37hhxr-fPHXOlHQvN5uDpAReKR4TxWk-_JkhI7qUxUkVVTzVLfRJoaWGgIhDOKsJ_IJ3fdrIOUw=s0"
+			},
+			{
+				"name": "Dratini",
+				"types": ["Dragon"],
+				"imgUrl": "https://lh3.googleusercontent.com/-Ogh9CZqEvpVSyotNjbq8HG_lPKvsYjIS9J2WHivX55PnlE_Wn4cQTAbYkuyx73ecCOmvvAugIEN5XbqEAXW9QxtMFaOfMsETDHY7p1qGYmFZg=s0"
+			},
+			{
+				"name": "Surskit",
+				"types": ["Bug", "Water"],
+				"imgUrl": "https://lh3.googleusercontent.com/1d1HVaFN4q1nB5Pk5OdhsFmlKAftcaQ3xY7QMcNO9r6AJ9aVETAJTCQ0PU_HRaFUA9sz14wbh3EaPg3imjfvAdacOi4S8wLVNXJQjhyeVhP9Qg=s0"
+			},
+			{
+				"name": "Gulpin",
+				"types": ["Poison"],
+				"imgUrl": "https://lh3.googleusercontent.com/pUjGqRZWEbzWt-1djOKM8bNpx7WHCDYjun-cin5xc3ZimFbHcroGsoETf6VZYDCERi21CBIfPB-bBajhdZ89bxwPKFc1CLMCcXz7R-vKjh7ByQ=s0"
+			},
+			{
+				"name": "Skorupi",
+				"types": ["Poison", "Bug"],
+				"imgUrl": "https://lh3.googleusercontent.com/KgD946GhZXjU6kqqHJQSNmiCaX3Ojk-0-H0PyowIcfled85C7Oympt-CGOqkzDRzRaimuHzTB6StB6iNodDfT0mstgB5nfR_LbviIrB6f1Bc=s0"
+			},
+			{
+				"name": "Axew",
+				"types": ["Dragon"],
+				"imgUrl": "https://lh3.googleusercontent.com/VpxSY46GsBpVKPkSNYGFtwmcOGEwuye84bFqCdB5VSawQCIavSO7D7SCgx7_cYofvqeXJCxstAl4pVXXjFKFUl1zS73qtxnDGwlR2A22YFnFORk=s0"
+			},
+			{
+				"name": "Skrelp",
+				"types": ["Poison", "Water"],
+				"imgUrl": "https://lh3.googleusercontent.com/u-rXnVfhvNdXQVkD8BD7pav_zJmWfWU8BiwieeEF8N4znccFsGMp3qX2Yy3bKiAv1o52S-UgWBizN5oQZnflBvmVGId_-ziFWsMCkrKQU3eLuQ=s0"
+			},
+			{
+				"name": "Tyrunt",
+				"types": ["Rock", "Dragon"],
+				"imgUrl": "https://lh3.googleusercontent.com/6cbtxVKdDkj3iTNPCFlF_HOgUM-5pSo9pCJrW1A71Wc50z8Gg-27sWIfPOQhUuC7atfWS7sqZIsuGGHFjrC1Wc5csIbzK9tEx8UFjI-8iczpqsc=s0"
+			},
+			{
+				"name": "Noibat",
+				"types": ["Flying", "Dragon"],
+				"imgUrl": "https://lh3.googleusercontent.com/9fK6Ro74E-EdSOSs4ccU_A_we_-TRKKGdV1ESiSXCTT_sLERHrZxEd0J5dkw4400StCMyurdg5dxSx1sOODt5oEMRnjGz9K1XtBAX3ijDKN44Q=s0"
+			}
+		],
+		"startDate": "19.08.2023",
+		"endDate": "22.08.2023",
+		"backgroundColor": "#3C005A",
+		"textColor": "#DAF7A6",
+		"tileBackgroundColor": "#4F7942",
+		"tileTextColor": "#DAF7A6",
+		"name": "Noxious Swamp Spawns"
+	}
+]
