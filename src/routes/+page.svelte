@@ -33,7 +33,7 @@
 	}
 	.introduction {
 		font-size: 1.5rem;
-		margin-bottom: 3rem;
+		margin: 3rem;
 	}
 	.explanation {
 		font-size: 1.5rem;
