@@ -1,0 +1,124 @@
+import requests
+from bs4 import BeautifulSoup
+from pprint import pprint
+
+
+def change_url_language_to_english(url):
+    questionmark_index = url.index("?")
+    english_url = f"{url[:questionmark_index]}?hl=en"
+    return english_url
+
+
+def get_html(url):
+    response = requests.get(url)
+    if response.ok:
+        return response.text
+
+
+def get_wild_encounters_container(soup):
+    wild_encounters_headline = soup.find(id="wild-encounters")
+    return wild_encounters_headline
+
+
+def find_all_wild_encounters(
+    container,
+    pokemon_grid_class="PokemonImageGridBlock__grid__pokemon",
+    pokemon_name_class="PokemonImageGridBlock__grid__pokemon__caption",
+):
+    wild_encounters = []
+    wild_encounters_html = container.findAll(class_=pokemon_grid_class)
+    for wild_encounter in wild_encounters_html:
+        pokemon = {}
+        pokemon["name"] = wild_encounter.find(class_=pokemon_name_class).text
+        pokemon["imgUrl"] = wild_encounter.find("img")["src"]
+        wild_encounters.append(pokemon)
+    return wild_encounters
+
+
+def get_pokemon_types(pokemon_name):
+    URL = f"https://pokeapi.co/api/v2/pokemon/{pokemon_name.lower()}/"
+    response = requests.get(URL)
+    if not response.ok:
+        print(f"No types found for {pokemon_name}!\n")
+        types = ["TODO", "TODO"]
+    else:
+        types = [type["type"]["name"].capitalize() for type in response.json()["types"]]
+    return types
+
+
+def combine_website_and_api_data(wild_encounters):
+    pokemon_list = list()
+    for wild_encounter in wild_encounters:
+        pokemon = dict(wild_encounter)
+        pokemon["types"] = get_pokemon_types(pokemon["name"])
+        pokemon_list.append(pokemon)
+    return pokemon_list
+
+
+def get_colors(soup):
+    background_style = [
+        style.strip().replace("--", "").split(":") for style in soup.find(class_="ContainerBlock")["style"].split(";")
+    ]
+    background_color = [value.strip() for prop, value in background_style if prop == "background"][0]
+    background_text_color = [value.strip() for prop, value in background_style if prop == "textColor"][0]
+    tile_style = [
+        style.strip().replace("--", "").split(":") for style in soup.find(id="wild-encounters")["style"].split(";")
+    ]
+    tile_background_color = [value.strip() for prop, value in tile_style if prop == "background"][0]
+    tile_text_color = [value.strip() for prop, value in tile_style if prop == "textColor"][0]
+
+    return {
+        "backgroundColor": background_color,
+        "textColor": background_text_color,
+        "tileBackgroundColor": tile_background_color,
+        "tileTextColor": tile_text_color,
+    }
+
+
+def get_event(soup):
+    container = get_wild_encounters_container(soup)
+    wild_encounters = find_all_wild_encounters(container)
+    combined_wild_encounters = combine_website_and_api_data(wild_encounters)
+    colors = get_colors(soup)
+    event = dict(wildEncounters=combined_wild_encounters, **colors)
+    event["name"] = "TODO"
+    event["startDate"] = "TODO"
+    event["endDate"] = "TODO"
+
+    pprint(event)
+
+
+def get_go_fest(soup):
+    names = ["Quartz Terrarium", "Pyrite Sands", "Malachite Wilderness", "Aquamarine Shores"]
+    events = []
+    for name in names:
+        id = name.replace(" ", "-").lower()
+        print(id)
+        container = soup.find(id=id)
+        wild_encounters = find_all_wild_encounters(
+            container,
+            pokemon_grid_class="alola__pokemonGrid__pokemon",
+            pokemon_name_class="alola__pokemonGrid__pokemon__label",
+        )
+        combined_wild_encounters = combine_website_and_api_data(wild_encounters)
+        colors = {
+            "backgroundColor": "rgb(169, 121, 172)",
+            "textColor": "black",
+            "tileBackgroundColor": "rgb(41, 104, 206)",
+            "tileTextColor": "white",
+        }
+        event = dict(wildEncounters=combined_wild_encounters, **colors)
+        event["name"] = f"Go Fest - {name}"
+        event["startDate"] = "26.08.2023"
+        event["endDate"] = "26.08.2023"
+        events.append(event)
+    pprint(events)
+
+
+if __name__ == "__main__":
+    url = "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=de"
+    url = "https://gofest.pokemongolive.com/global?hl=en"
+    english_url = change_url_language_to_english(url)
+    soup = BeautifulSoup(get_html(english_url), "html.parser")
+    # get_event(soup)
+    get_go_fest(soup)
