@@ -459,5 +459,203 @@
 				"types": ["Poison", "Water"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#CBE878",
+		"endDate": "08.08.2023",
+		"name": "Glittering Garden ",
+		"startDate": "05.08.2023",
+		"textColor": "#1D5B03",
+		"tileBackgroundColor": "#1D5B03",
+		"tileTextColor": "#CBE878",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/jFd3FRwE83zp3PtD_wXT_wnc3hDtREGtrz3rU1P-q2UdJs65Gh8RDaFEJqAvl2MkrOE--OS_fQ_6TMcLgRb65ReiRwvnRJgqfVaM4jvdTzhFxQ=s0",
+				"name": "Bulbasaur",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/-Cyfc2Cbyll7txbGJ-AGwrzPCA5NcRr9IPWesLc5lTezehziDQnkBCJE7PE-liEL25blXok7bAisUUrKtUIvBM3irpbIQMLYXcYnMA1SXnoOWns=s0",
+				"name": "Jigglypuff",
+				"types": ["Normal", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/eigeOMV4VZFcznz_TvjgG0g9-rkQCaWo-MBBmuKabmSnyWsiSu3BF6wv4UGOmaPFdvs9StF5zMvOKLKuEGsoeCye9cYziaOObwl_r6uw2GEDWw=s0",
+				"name": "Oddish",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/gYcBoWA-vxQz1V956jqjFS_8xR1kJ-097lkZloAg9yAZyW0s13lcBV_kM3JHFpAIYtY43AZAz8qLavc25YgfKmlq6aZM6yc5PqOvJOPkW_wV=s0",
+				"name": "Hoppip",
+				"types": ["Grass", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/U4ddzmSeuoB48-CxpW-ZNUwusCRZs21luZ7z7LTh2HdGgaxCENkIfXSpiz4-f9DNlZ5AAGp-oNRuTbYpuhKmFEqGLf0HSG2f2MfQAyvxgaZA=s0",
+				"name": "Seedot",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ZkEh5gdSKA5yz03tlYmXE-62tjiACctgCXdefyWWIiE_3p3umcrm-nPCOrvQT1Ru60mVPj1z9bnvH3L0gIa8zFM7hsYB2bAzRRqflcobmOp2Pw=s0",
+				"name": "Cacnea",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/tXlJUvDPoar3KODNU0mT5uu-BvMP6_BQzStI892ScXGpFPiR_ogQLS0wYfotwygI38zXnDHUlTiv5RlldB2NxVeVNk1ARmTN8aIHmmWRpYG0=s0",
+				"name": "Petilil",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qoiBkurXjpzx1gM56hq5eQjm9M5I4XslTG7Zdfn8Qv-ELoPs8ESMSdrBWe9msmB89_6KMMrJg34My__zv4GsQcdjc94grEPjFmZTOBffgjfxWQ=s0",
+				"name": "Ferroseed",
+				"types": ["Grass", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/lrwRcKnIhIVHe-hy8uYTz3UIQ8fqm8tEWyYrckgyFZaptT4FVcSTVmNvuFbmhuvLYMdNoZJVy_NLcJ89zvY10O2u2SYcTsGAZ-2fmSeezR248Q=s0",
+				"name": "Spritzee",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/5kD5uZaXYlaw1T54aRvxkuNNF_ChBw-k2Izy5Oiy_YFTpUSXuCeQ_jaJIW54k6j-ktuAUEpgocq9Z75SbkwBULrjKDh9uH0fHhhG6c5v2Yzp-g=s0",
+				"name": "Swirlix",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/N-2XLaEq8n_NyIGMH-b6i_Ohy_5TAbhRDzaevTqw2Dsqksmg9lLLiH1fKyrUWAuE5Tr4dyIRDWDF5zAiMqjMJFJNFt_qJBDqrxiOzrzyDhpZvg=s0",
+				"name": "Dedenne",
+				"types": ["Electric", "Fairy"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ea3413",
+		"endDate": "02.07.2023",
+		"name": "Dark Flames ",
+		"startDate": "29.06.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#000000",
+		"tileTextColor": "#ea3413",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pcMK-cDxmH5hCMtJX1DpLjcZnxBrr2FEALLYJrLZzlxN99DSq1I4bmXKkL-_m2gdG9Zo1oR10F5saDAv5QAZbIDKiLdmKtMT4H2vk-XgRi0PNe0=s0",
+				"name": "Vulpix",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/IFylx9pkCIwGI4o8ZKi1-Q18WScLSTD13E9p54pSoEzPqCCvDau_Jg8hQSfVH6-m7RJwSIZqnqK7VnAywAtUgiqYPkqGoTLnpBlxyQahGAIGgw=s0",
+				"name": "Houndour",
+				"types": ["Dark", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/UzyG7oh-7ixJLoy7IJYFWbMOs9KW5lbmTkhczy-bBb_WxNe4GJlFSo8Ph3qZaUPT9yBx8uDP2ghTN86t-I-mztGvs7mWvf22Z6u08tLf1hnp=s0",
+				"name": "Poochyena",
+				"types": ["Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/WZccvPkiGR71gG_DaI-OcFsPXS6J5uT3wTYsKY9fiSgWVgChW0GWEnh1pMyvrp54DV7RK-jLzXtXIT7Dtw5Vt-Iv-tciFPIpPgsRoVb2ZSrQQQ=s0",
+				"name": "Galarian Zigzagoon",
+				"types": ["Dark", "Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6C2zIUGm84NZ_GWjI2B2gH-lC36K69KWBwzRFp2qR2yGmwOOsS9suSNFFdolsXx-gYAEAiGGQirEmNI_7NkAS2xFC5bsQNmCnlgDZmWFLGyhQQ=s0",
+				"name": "Carvanha",
+				"types": ["Water", "Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/t5uWZQ_C5SGSJlg6lEA6NT_2G1-5QntpiEAWBTSYnkAHBYIItcec7vko3DakQlI6UmTDEkyJlxWocd3EY2Eb6QPXGDu2Aa8_jHfzHyB_HnNrYw=s0",
+				"name": "Numel",
+				"types": ["Fire", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/exXoE4iqvwLsUGTx_lAw7veXk7oM1cwEV8tvVWmsVuknu5IpYmGWsaQ0fGuE-I16SfEgpRIfh3rph2lWX5_1g8s85VCN-qfajV_HmFYSoNz9PQ=s0",
+				"name": "Stunky",
+				"types": ["Poison", "Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8B_yLhNrra4fNeWGfAA0RENBPFma_OUNGMHUW0fY9a6E2qCZsNPIYeO1Y-3Bl4Cnt92WDqDaxiU64QNZgB7o_vr4OAU_smjFzvA-BpVTEo3hmQ=s0",
+				"name": "Litwick",
+				"types": ["Ghost", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/77kD_xfogItb9srRBuZn5AURvWPBnoh6HxJ5975FdW6uRlnnuUMyV7xdBAVhcInPdCp-j75SPVvfReI2HuvjGczREdl1F3TILlin_ZqdHnUNeA=s0",
+				"name": "Litten",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/OBHbUVxxuHD3lYpTwHS9ReoIjEm0d4caMnjIpNuyHevXV6SrDyzD45tJpvo1yCbGvKNjSaICGZ8QZepZ_QXQxgW_9sHEFfDgpQNnuIrEPo1d8g=s0",
+				"name": "Houndoom",
+				"types": ["Dark", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/DghedQxZ9oV2D_7eV5DgJX5NqaF1XHd_1z0Iv03h2nhMVAYptvcLDyTu858l4FM-EZuRXAhK6iZtFHSN8_zFkoTluKnn1ONv31syn_xMVtN39w=s0",
+				"name": "Sableye",
+				"types": ["Dark", "Ghost"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#a8abab",
+		"endDate": "02.08.2023",
+		"name": " Adventure Week ",
+		"startDate": "27.07.2023",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#0d325f",
+		"tileTextColor": "#ffffff",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/5NP0ZgNdxUJnW9NAXKRET-RIC2pweryDnK1GS7EDJM_st_7rmboJTCNwMg0YBZ21_VGgHMNbsp6-GNWTA712A5A7oODg-E9Cx1lcEXXwPogmCZo=s0",
+				"name": "Omanyte",
+				"types": ["Rock", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Vkd4vsWUlB52JhvNedCo5UmY-_pZ-2nKufWDqonoeqwFGophdx_oygZoWCDV2iEMeWWMhskoRh3t_YXNGywS460tlw1JqrgWFhrEyO85d20r=s0",
+				"name": "Kabuto",
+				"types": ["Rock", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/q_UxB4c0B8Ojbmm_sSZksvkXYtWtXclKj37SjBLmL5W2tkhS-W1PdzoJPypgKjqAJvKEePdunR-FOEM-E2jl3MSf3uMGQ8iTzq8MjsquEpXjhQ=s0",
+				"name": "Aerodactyl",
+				"types": ["Rock", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/WEr7cDpQ2VMbY9kg-gJzoY30JPXdWg-SrUxOodK9u5MaFJwBezzaDetsnrplvL2euj3_RF1Ciop71gqWIZG5JZm8nILhWa1twZuofrmKPI7eYA=s0",
+				"name": "Lileep",
+				"types": ["Rock", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/YTc_IZHZvPO4I2AantLcAS6OxVqzsdmoKYMON-sVu2134kZ7-7bzL5gqYJ9BFToEkKJ4LDbHV_jnLdlFIP4S0BPLoW00aUR3lSmSFA_vZ_adlg=s0",
+				"name": "Anorith",
+				"types": ["Rock", "Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/EjynOora3Ogjbai4leuUeG88qcEvb39brEsCiZ2goNsuWr9HrDu5uTvSiQMLXPqyr8S1H60vkYQfo8PcHLS5ZvNyUubC7XR21yvU7zYR0kGYOg=s0",
+				"name": "Cranidos",
+				"types": ["Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Cm0gMObMDNSe2Hs3L4FnC5gDkta9EeEWzJanOHeybZ-hvYnD_Erstqo_4LzkRoamvDyPeGQ0Aw9SJRLriwYaXTQOxLB96hWRpWzWgrUg8EUu=s0",
+				"name": "Shieldon",
+				"types": ["Rock", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fj0hzjV4Z6843AfXySnqg97NZOg2UgSLmo-3el8rlf3pEBn-X0mTiQaCHR7mnGmwugG81tuDqwdZZzUxLzU8VbgQyLZiWzvqKuHoFLfYVUcTsQ=s0",
+				"name": "Tirtouga",
+				"types": ["Water", "Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hPJw32yI9DfH2kNyq1Dgi7ao2AI4XaozGGL91VtGI8kmKjE_b4Gq1fe9XBdGb_1uwLdQ7UNct6ZNOtMxYYMZ0sQBxGBqGNekgLFTY5B4Zxjb=s0",
+				"name": "Archen",
+				"types": ["Rock", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CZpBJw4nLuibrjCXB_LwBC3Feemf_URZxoANhXXrs1T-K8cLxetRL5OHZ0y4qaZZmrTCexLVLPLjG2fQ8hiQ4WgsAcAqQcXc7XPXSLJVODFp_A=s0",
+				"name": "Tyrunt",
+				"types": ["Rock", "Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/OerHmvyS-jr3Ums_6JKX1LgW5KiP3GTRDevDkum8UmD80IJkpxrJQPb4yTMCxlkZy147JL0TxVJp1JCKjg0EkB4CkDx8IZnVjSe0qWxnFx6cyw=s0",
+				"name": "Amaura",
+				"types": ["Rock", "Ice"]
+			}
+		]
 	}
 ]
