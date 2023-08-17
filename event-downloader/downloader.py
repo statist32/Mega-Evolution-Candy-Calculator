@@ -16,8 +16,9 @@ def get_html(url):
 
 
 def get_wild_encounters_container(soup):
-    wild_encounters_headline = soup.find(id="wild-encounters")
-    return wild_encounters_headline
+    wild_encounters_container = soup.find(
+        string="Wild encounters").parent.parent.parent
+    return wild_encounters_container
 
 
 def find_all_wild_encounters(
@@ -42,7 +43,8 @@ def get_pokemon_types(pokemon_name):
         print(f"No types found for {pokemon_name}!\n")
         types = ["TODO", "TODO"]
     else:
-        types = [type["type"]["name"].capitalize() for type in response.json()["types"]]
+        types = [type["type"]["name"].capitalize()
+                 for type in response.json()["types"]]
     return types
 
 
@@ -56,16 +58,24 @@ def combine_website_and_api_data(wild_encounters):
 
 
 def get_colors(soup):
+    background_style_container, tile_style_container = [container_block["style"] for container_block in soup.findAll(
+        class_="ContainerBlock") if container_block.has_attr("style") and container_block["style"]][:2]
+
     background_style = [
-        style.strip().replace("--", "").split(":") for style in soup.find(class_="ContainerBlock")["style"].split(";")
+        style.strip().replace("--", "").split(":") for style in background_style_container.split(";")
     ]
-    background_color = [value.strip() for prop, value in background_style if prop == "background"][0]
-    background_text_color = [value.strip() for prop, value in background_style if prop == "textColor"][0]
+
+    background_color = [
+        value.strip() for prop, value in background_style if prop == "background"][0]
+    background_text_color = [
+        value.strip() for prop, value in background_style if prop == "textColor"][0]
     tile_style = [
-        style.strip().replace("--", "").split(":") for style in soup.find(id="wild-encounters")["style"].split(";")
+        style.strip().replace("--", "").split(":") for style in tile_style_container.split(";")
     ]
-    tile_background_color = [value.strip() for prop, value in tile_style if prop == "background"][0]
-    tile_text_color = [value.strip() for prop, value in tile_style if prop == "textColor"][0]
+    tile_background_color = [
+        value.strip() for prop, value in tile_style if prop == "background"][0]
+    tile_text_color = [value.strip()
+                       for prop, value in tile_style if prop == "textColor"][0]
 
     return {
         "backgroundColor": background_color,
@@ -89,7 +99,8 @@ def get_event(soup):
 
 
 def get_go_fest(soup):
-    names = ["Quartz Terrarium", "Pyrite Sands", "Malachite Wilderness", "Aquamarine Shores"]
+    names = ["Quartz Terrarium", "Pyrite Sands",
+             "Malachite Wilderness", "Aquamarine Shores"]
     events = []
     for name in names:
         id = name.replace(" ", "-").lower()
@@ -100,7 +111,8 @@ def get_go_fest(soup):
             pokemon_grid_class="alola__pokemonGrid__pokemon",
             pokemon_name_class="alola__pokemonGrid__pokemon__label",
         )
-        combined_wild_encounters = combine_website_and_api_data(wild_encounters)
+        combined_wild_encounters = combine_website_and_api_data(
+            wild_encounters)
         colors = {
             "backgroundColor": "rgb(169, 121, 172)",
             "textColor": "black",
@@ -116,9 +128,8 @@ def get_go_fest(soup):
 
 
 if __name__ == "__main__":
-    url = "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=de"
-    url = "https://gofest.pokemongolive.com/global?hl=en"
+    url = "https://pokemongolive.com/post/adventure-week-2023?hl=de"
     english_url = change_url_language_to_english(url)
     soup = BeautifulSoup(get_html(english_url), "html.parser")
-    # get_event(soup)
-    get_go_fest(soup)
+    get_event(soup)
+    # get_go_fest(soup)
