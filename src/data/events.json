@@ -147,7 +147,7 @@
 		"wildEncounters": [
 			{
 				"imgUrl": "https://lh3.googleusercontent.com/fwWgR0HFAsonH0xmi5LWanz0j1Fn0BbKoFGQJ_Y6XHZsq_HUo9byh6HFBJnE0UnrrbV89wXbDoi6aZhN6Ye0ASCGFCmoQwig-YNpRikUvSoJAw=e365-w125",
-				"name": "Pikachu wearing a quartz crown",
+				"name": "Pikachu-quartz crown",
 				"types": ["Electric"]
 			},
 			{
@@ -228,7 +228,7 @@
 		"wildEncounters": [
 			{
 				"imgUrl": "https://lh3.googleusercontent.com/Uixod77pUkgSGpcSUDKeN8gmLKfc3Q9PHt-nYwCbSdVZAglEVSUPDB45ft2i8Tux4jTqFstf-WlAWZRlX_6WSLBQbvbiT5gfZQwOXrrD5UJp5g=e365-w125",
-				"name": "Pikachu wearing a pyrite crown",
+				"name": "Pikachu-pyrite crown",
 				"types": ["Electric"]
 			},
 			{
@@ -314,7 +314,7 @@
 			},
 			{
 				"imgUrl": "https://lh3.googleusercontent.com/bxs4PhSyXIzaSAM-3E-hdhwDl1HhsJt_l5jq0RzyJvAJZARcG1geFUhIS2tXWO_yskAFmgBxPTLmcWz0lIhKv4bOePwkS3WP5OCFTjSOcVrw1A=e365-w125",
-				"name": "Pikachu wearing a malachite crown",
+				"name": "Pikachu-malachite crown",
 				"types": ["Electric"]
 			},
 			{
@@ -329,7 +329,7 @@
 			},
 			{
 				"imgUrl": "https://lh3.googleusercontent.com/Zg0er7S9NY0EEpIBOOjS0alCYb6HznVCw0fNUwzgiYVtf-cz3FGN5Sn1tCWGiSgl1OI__iIWG8f01xiIx1en-EbACGbrZqer24BKDANSHGgT=e365-w125",
-				"name": "Snorlax wearing a cowboy hat",
+				"name": "Snorlax-cowboy hat",
 				"types": ["Normal"]
 			},
 			{
@@ -390,7 +390,7 @@
 		"wildEncounters": [
 			{
 				"imgUrl": "https://lh3.googleusercontent.com/yTPYmsXIrZ6wPqhQUn0QoCkucvuqYa5sZutLAN7j8V4U6yXRQe35fzfOdr2zTHyb0gmOu2KKLOemK_ayFyM2eRtYMFojafAczp-iLyXVa5xN=e365-w125",
-				"name": "Pikachu wearing an aquamarine crown",
+				"name": "Pikachu-aquamarine crown",
 				"types": ["Electric"]
 			},
 			{
