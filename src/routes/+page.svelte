@@ -1,6 +1,35 @@
 <script>
 	import EventTile from './EventTile.svelte';
 	import events from '../data/events.json';
+
+	function compareEventDateString(a, b) {
+		const aUTC = Date.UTC(...a.startDate.split('.').reverse());
+		const bUTC = Date.UTC(...b.startDate.split('.').reverse());
+		return bUTC - aUTC;
+	}
+	function getCurrentUTCDate() {
+		return Date.UTC(new Date().getFullYear(), new Date().getMonth() + 1, new Date().getDate());
+	}
+	function isCurrentEvent(event) {
+		const startDate = Date.UTC(...event.startDate.split('.').reverse());
+		const endDate = Date.UTC(...event.endDate.split('.').reverse());
+		const currentDate = getCurrentUTCDate();
+		return startDate < currentDate && currentDate < endDate;
+	}
+	function isFutureEvent(event) {
+		const startDate = Date.UTC(...event.startDate.split('.').reverse());
+		const currentDate = getCurrentUTCDate();
+		return startDate > currentDate;
+	}
+	function isPastEvent(event) {
+		const endDate = Date.UTC(...event.endDate.split('.').reverse());
+		const currentDate = getCurrentUTCDate();
+		return endDate < currentDate;
+	}
+	const sortedEvents = events.sort((a, b) => compareEventDateString(a, b));
+	const currentEvents = sortedEvents.filter((event) => isCurrentEvent(event));
+	const futureEvents = sortedEvents.filter((event) => isFutureEvent(event));
+	const pastEvents = sortedEvents.filter((event) => isPastEvent(event));
 </script>
 
 <svelte:head>
@@ -21,14 +50,24 @@
 	</p>
 </section>
 
-{#each events.reverse() as event, i}
-	<EventTile {event} isOpen={i === 0} />
+<h2>Current Events</h2>
+{#each currentEvents as event}
+	<EventTile {event} isOpen={true} />
+{/each}
+<h2>Future Events</h2>
+{#each futureEvents as event}
+	<EventTile {event} isOpen={false} />
+{/each}
+<h2>Past Events</h2>
+{#each pastEvents as event}
+	<EventTile {event} isOpen={false} />
 {/each}
 
 <style>
 	h2 {
 		font-size: 2rem;
 		font-weight: bold;
+		text-align: center;
 	}
 	.introduction {
 		font-size: 1.5rem;
