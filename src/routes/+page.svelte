@@ -2,10 +2,10 @@
 	import EventTile from './EventTile.svelte';
 	import events from '../data/events.json';
 
-	function compareEventDateString(a, b) {
+	function compareEventDateString(a, b, order = 1) {
 		const aUTC = Date.UTC(...a.startDate.split('.').reverse());
 		const bUTC = Date.UTC(...b.startDate.split('.').reverse());
-		return bUTC - aUTC;
+		return order * (aUTC - bUTC);
 	}
 	function getCurrentUTCDate() {
 		return Date.UTC(new Date().getFullYear(), new Date().getMonth() + 1, new Date().getDate());
@@ -26,10 +26,15 @@
 		const currentDate = getCurrentUTCDate();
 		return endDate < currentDate;
 	}
-	const sortedEvents = events.sort((a, b) => compareEventDateString(a, b));
-	const currentEvents = sortedEvents.filter((event) => isCurrentEvent(event));
-	const futureEvents = sortedEvents.filter((event) => isFutureEvent(event));
-	const pastEvents = sortedEvents.filter((event) => isPastEvent(event));
+	const currentEvents = events
+		.filter((event) => isCurrentEvent(event))
+		.sort((a, b) => compareEventDateString(a, b, -1));
+	const futureEvents = events
+		.filter((event) => isFutureEvent(event))
+		.sort((a, b) => compareEventDateString(a, b));
+	const pastEvents = events
+		.filter((event) => isPastEvent(event))
+		.sort((a, b) => compareEventDateString(a, b, -1));
 </script>
 
 <svelte:head>
