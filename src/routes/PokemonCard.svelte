@@ -1,23 +1,16 @@
 <script>
-	import { createEventDispatcher } from 'svelte';
 	export let pokemon;
 	export let affectedAmount;
 	export let isHighlighted;
 	export let highlightColor;
 	const { name, types, imgUrl } = pokemon;
-
-	const dispatch = createEventDispatcher();
-
-	function onClickHandler() {
-		dispatch('megaClicked', { types });
-	}
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <!-- svelte-ignore a11y-no-static-element-interactions -->
 <div
 	class="pokemon-card"
-	on:click={onClickHandler}
+	on:click
 	style={isHighlighted ? `filter: drop-shadow(0rem 0rem 1rem ${highlightColor})` : ''}
 >
 	<img src={imgUrl} alt="An image of the pokemon {name}" class="pokemon-image" />

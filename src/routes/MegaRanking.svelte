@@ -1,4 +1,6 @@
 <script>
+	import { createEventDispatcher } from 'svelte';
+
 	import allTypes from '../data/allTypes.json';
 	import megaEvolutions from '../data/megaEvolutions.json';
 
@@ -6,6 +8,7 @@
 	export let wildEncounters;
 	export let backgroundColor;
 	export let textColor;
+	const dispatch = createEventDispatcher();
 
 	const MEGA_PREVIEW_AMOUNT = 5;
 
@@ -45,6 +48,9 @@
 	function toggleShowCompleteRanking() {
 		megaAmountToShow = megaAmountToShow === MEGA_PREVIEW_AMOUNT ? -1 : MEGA_PREVIEW_AMOUNT;
 	}
+	function onClickHandler(boostedTypes) {
+		dispatch('megaClicked', { types: boostedTypes });
+	}
 </script>
 
 <div class="mega-ranking-wrapper" style="background-color:{backgroundColor}; color:{textColor};">
@@ -56,7 +62,7 @@
 				affectedAmount={megaEvolutionRanked.affectedAmount}
 				isHighlighted={false}
 				highlightColor={textColor}
-				on:megaClicked
+				on:click={() => onClickHandler(megaEvolutionRanked.boostedTypes)}
 			/>
 		{/each}
 	</div>
