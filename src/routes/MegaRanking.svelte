@@ -80,7 +80,7 @@
 		border: 2px solid;
 		font-size: 1.5rem;
 		border-radius: var(--border-radius);
-		height: 3rem;
+		min-height: 3rem;
 	}
 	.mega-ranking-wrapper {
 		background-color: backgroundColor;
