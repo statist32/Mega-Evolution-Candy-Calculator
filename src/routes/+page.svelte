@@ -14,7 +14,7 @@
 		const startDate = Date.UTC(...event.startDate.split('.').reverse());
 		const endDate = Date.UTC(...event.endDate.split('.').reverse());
 		const currentDate = getCurrentUTCDate();
-		return startDate <= currentDate && currentDate < endDate;
+		return startDate <= currentDate && currentDate <= endDate;
 	}
 	function isFutureEvent(event) {
 		const startDate = Date.UTC(...event.startDate.split('.').reverse());
