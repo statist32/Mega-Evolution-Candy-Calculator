@@ -463,7 +463,7 @@
 	{
 		"backgroundColor": "#CBE878",
 		"endDate": "08.08.2023",
-		"name": "Glittering Garden ",
+		"name": "Glittering Garden",
 		"startDate": "05.08.2023",
 		"textColor": "#1D5B03",
 		"tileBackgroundColor": "#1D5B03",
@@ -529,7 +529,7 @@
 	{
 		"backgroundColor": "#ea3413",
 		"endDate": "02.07.2023",
-		"name": "Dark Flames ",
+		"name": "Dark Flames",
 		"startDate": "29.06.2023",
 		"textColor": "#000000",
 		"tileBackgroundColor": "#000000",
@@ -595,7 +595,7 @@
 	{
 		"backgroundColor": "#a8abab",
 		"endDate": "02.08.2023",
-		"name": " Adventure Week ",
+		"name": "Adventure Week",
 		"startDate": "27.07.2023",
 		"textColor": "#ffffff",
 		"tileBackgroundColor": "#0d325f",
@@ -655,6 +655,297 @@
 				"imgUrl": "https://lh3.googleusercontent.com/OerHmvyS-jr3Ums_6JKX1LgW5KiP3GTRDevDkum8UmD80IJkpxrJQPb4yTMCxlkZy147JL0TxVJp1JCKjg0EkB4CkDx8IZnVjSe0qWxnFx6cyw=s0",
 				"name": "Amaura",
 				"types": ["Rock", "Ice"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "rgb(169, 121, 172)",
+		"endDate": "27.08.2023",
+		"name": "Go Fest - Sunday",
+		"startDate": "27.08.2023",
+		"textColor": "black",
+		"tileBackgroundColor": "rgb(41, 104, 206)",
+		"tileTextColor": "white",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/yTPYmsXIrZ6wPqhQUn0QoCkucvuqYa5sZutLAN7j8V4U6yXRQe35fzfOdr2zTHyb0gmOu2KKLOemK_ayFyM2eRtYMFojafAczp-iLyXVa5xN=e365-w125",
+				"name": "Pikachu-aquamarine crown",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/g8KOMsqoGirDuWDVIMhqG9Q89WnIP0oxNiy8GCRS9pMN-f2lNxAbca-HUhNV6nHV3czTMpsLOmqLtOth3nylF8Pwgdm4F9IvDsUoLkgk9Zv1=e365-w125",
+				"name": "Horsea",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/eZhrIWRGpslQL5n8pAsTvSovCWhrnlJ4Kmk4iGsW3nQJMjOr09gU6psR_3mbfa_FOsCYTnu4lCZ99V-ck4zKPj5ggWaUE00r6zfu9-g8TopM=e365-w125",
+				"name": "Lapras",
+				"types": ["Water", "Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NkYkpXJCpwd0MpScsr7lwV58ubGADEfihH1JXaoV9j7LrJDqzI51AnL_aAG8sDRi7qgz9c1IwtVFngO84wQC7tkrmji6OGh1PkScj9b3b8JHHYc=e365-w125",
+				"name": "Marill",
+				"types": ["Water", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/QxhWeeI9E4SP1-TCog4kSl_EdNeCMyGIGmOoFEFChVSjJI_rTbCsBMxNBvj69HxLTA3WYrT-Kc8mfY0vFVni_qW8aZgc7f42SaVzzinuQqCh=e365-w125",
+				"name": "Wobbuffet",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/g1n5s9RXHPiUt-iZbQGk6ZFkhoLHmCFaL5zcCKWtuccjOAyBR7xWYhdNjCWZx_t9k4ZHssiJ-gvfJ61G8lgJlga4Tgjvq3TLtfHG3WrPF8eC_w=e365-w125",
+				"name": "Carvanha",
+				"types": ["Water", "Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/xB_i9ma2z1LDp2W9ufrVEwGEayS1bVDi6ie1NL1h574_WL50lBbeiRw-T20xRpJ9cX8Hyrfvmx0N0hDzI4qNpIFFHoWV_ldroHYv51whn-hiDw=e365-w125",
+				"name": "Barboach",
+				"types": ["Water", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/g-nmuWg72ZUYa8OtFvRe6dP6gKFZ_UTaVSt1lvuOty7f82TYD52P2pYeQnlm2LZM9xCQVQxTNwcYypqrQ96FhTWAX2pO-bcQfxJ-xxXfeSfhbA=e365-w125",
+				"name": "Bagon",
+				"types": ["Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/rGT6ZGqK1NvGG3Xa-qoPweEtmJi1gxCpPo7WRtBMxhQpkC3MfOX-jZFOhYP1t2XQrKaggAse5uCqUWKS7JOIJv8Q9HFh3JfPH13_4Lj-4_tcQcQ=e365-w125",
+				"name": "Beldum",
+				"types": ["Steel", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/TekztkD1gLnkOQkjoZPtniAGPQOYao8YDXQBnJnI5rcVENeqpxp-8VKMF4HYn8FPc3Zg3M7gHA22JbqigSU7w2PWrzNenLimX8LirSt3Ges42g=e365-w125",
+				"name": "West Sea Shellos",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pFhAaXuy66NSYBciRksLRf97b79p0vtPgMW9QKp0D7-0UJ3kROIQK16iQZAapHrIYZa2AhUxbj1rfEHjP5BfBB7SbVK7T6Kr_X9jjo5JqZ8HTg=e365-w125",
+				"name": "Woobat",
+				"types": ["Psychic", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HjMKs_d0737puNTYQ4cqsn9z_cROfAcLCcMEORRwgwgmEjBm45htBY-_NAolVzYyl7RlyRP_BNyxnhND7U55I21pXrsduMAKUPoNrUthn6d1=e365-w125",
+				"name": "Tympole",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NnWh2Gm4DTqAaf83ZoOWu-wYgIWmuuehp_oQv0ppJDxzJb-n_HsCIw5X7aM04GFx6eK3uzB_Elb8jT8Ct4FizFe8mHOnfN5UFIokAHshY4EH=e365-w125",
+				"name": "Goomy",
+				"types": ["Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/he_mw6lc_1v83CJVoSB7j4mmMd2wdUn_mkD6P0oWw5mAT19ryAI1qsWkgWF5d-TnJd3H4y6ukXjSjwoUs4WLo2apN0At8FCs62eTLCKZ-aUQ=e365-w125",
+				"name": "Mareanie",
+				"types": ["Poison", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Wi9eqzJhuIiuhwmZfXkVfrMV2gpnBcbTfP8jx6wWhb-e2DibPMRHfRcjGzcPBOswoqIM2Fun4bXMMvIas1_LVfXivQopZ7XrlJPu8g7JTAvZww=e365-w125",
+				"name": "Caterpie",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bxs4PhSyXIzaSAM-3E-hdhwDl1HhsJt_l5jq0RzyJvAJZARcG1geFUhIS2tXWO_yskAFmgBxPTLmcWz0lIhKv4bOePwkS3WP5OCFTjSOcVrw1A=e365-w125",
+				"name": "Pikachu-malachite crown",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/f0pNMADdaZT59f_8rjJ_pTnTkayZkR6uS55OC218e6rMotmFXVCgNbxNXm8hZPC7iQUY715ozyYNvcG9sLQ0bcI9x17REBUqOVS7yb3CMyePA4I=e365-w125",
+				"name": "Bellsprout",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3Eq-gwchmUYpEKzspSrREGj_9tmrd6ALJnkl0_sKiCnPIr29hbdfE8-putRpyyG2oysyo1Uct-mAjA0CnMahcd2vprUnSvzivIZGJUn8wU_0=e365-w125",
+				"name": "Scyther",
+				"types": ["Bug", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Zg0er7S9NY0EEpIBOOjS0alCYb6HznVCw0fNUwzgiYVtf-cz3FGN5Sn1tCWGiSgl1OI__iIWG8f01xiIx1en-EbACGbrZqer24BKDANSHGgT=e365-w125",
+				"name": "Snorlax-cowboy hat",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/BvNyJsmVRgxH8CwyPewmFVbsWIG_o11BUkUQIbpH39Gtx8kr0JfuEFwDhBmrehTElmcribKxsF1ezwxjJEXtswIu_kg0VoLdYPxkcl8qZxriLnk=e365-w125",
+				"name": "Spinarak",
+				"types": ["Bug", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Kp9s2bTJA_67Yc9bhwMhaoTiNV2Ta5sbns8-DoJTLnvIR-F0MlgvwmhFdmftl78UHd6iNTIAvIu7gWCfNeDpJ2cgzLEv0Uq9ER5siPsZWlv0Ew=e365-w125",
+				"name": "Remoraid",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/LDWe27NGYVdkSoV3kiisw5FaMb_Yd7IZRphMX_z5QlK6jO4l0HtGrlFmMqpAvVOm68zRp1gJclkX5D0_5tcLI7UlY2XNOrrkXkvbSdpAowuktQ=e365-w125",
+				"name": "Roselia",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/IMoox-AkqVrB8Umv0Rl5ku8cOukfLwDkbjNwb7VCV83WZjw45bDYwBBLZdKcsRrHEk53Q__mf6iiLiFVWC3759gsPeGAFOChhJDGKKzwkLKhQw=e365-w125",
+				"name": "Snover",
+				"types": ["Grass", "Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HENocud_2_pM9fKM7--qLjRMn1zau2jBDKuUPbzigYmPvILYSkXp05B-qU0fQYzch28TG37O-uzqbastgWHHUeZGep2I2-YhQAvIR5zNaUEGxRo=e365-w125",
+				"name": "Cottonee",
+				"types": ["Grass", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/QKML7GmpwDF7oIGRt80WlhjXTWW1baN74_WQmwvE8rgaMMOowCoaLurXVQZQETO_akKZC9_XPobNQpSXkXApJmXngpoe2KEt639ciEZvaHe33CY=e365-w125",
+				"name": "Ferroseed",
+				"types": ["Grass", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/FbQcg3_vzrQ71j_me0hBMCCjew47syLnz-288ney4fCsZMqYiG_EwqFQ0aJXK41f8HhZhnUjUP5kVozy9RXiqyFA--8QG14PabNzMb7IGrsT=e365-w125",
+				"name": "Stunfisk",
+				"types": ["Ground", "Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ghrPcbx0Xjie0RT8DaLwSMvnjYP_KvI3ZbW66uPz3oABSYHsSn0MTYXji3Do5EaN3MngbUG5oQeyFR2CvQIhizpo7K9MwsU_Ie_hkUSDHvY_=e365-w125",
+				"name": "Fomantis",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/juXTuUe1JOCd_6ElEm8XZ_9zrS8YLtXiGUIzjB9gzNStNeSAFP2h1KWnmPVixmh8Am3Siz37_yDe7Afgn66tJ5WbqYuE97h-tD5aBU_2lzv2Ew=e365-w125",
+				"name": "Oranguru",
+				"types": ["Normal", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Uixod77pUkgSGpcSUDKeN8gmLKfc3Q9PHt-nYwCbSdVZAglEVSUPDB45ft2i8Tux4jTqFstf-WlAWZRlX_6WSLBQbvbiT5gfZQwOXrrD5UJp5g=e365-w125",
+				"name": "Pikachu-pyrite crown",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/N9zV0plKxkUir67LtZWVKUWgPMsrrus_FeacFMGFTvJZovLlzOTx23exgMfjDt7qyvl1uzTJNy9_ShXiJJKp7hnS3UNvbK0KpY3IaTgdpLSy=e365-w125",
+				"name": "Sandshrew",
+				"types": ["Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qngriWnlGQI_otMiyeQLry23hmnA50Epihajht8oSD8-ouob0tH9ji5-IQ_l-kY-5c3l_XlD1p-MiFpnOGTHrMLXI-mnBid-68QMqF5AJbO18t8=e365-w125",
+				"name": "Alolan Diglett",
+				"types": ["Ground", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/skEb0dZuM7imBLYUJzhNWR4y8nHk0mOtsswiqcpazAAJvgFAQ2zIUVRE20vmuzIzSCwzRK_HmbPj58dFZIbFvmy2yFzBz3F7hln7iADqFTCLAw=e365-w125",
+				"name": "Psyduck",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/l7A-2pMA9s1GWrt9z7Ep0Fgp15Dkau4UP8aaVvPzML6um7vnuwyjlf0PYjLG_m0K7W6rXO6ZfBp-UTh4buHhXLUmHrCOygi669uTB7f0zDMVM9s=e365-w125",
+				"name": "Girafarig",
+				"types": ["Normal", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/UABXK377Du_izorSYaee-MPW-VjxdRQYwW_6z4NmeNp-tv9hEhPjyQrL7_zNatWZ865n4mT6bY99YjYvVHtICvDeihnN58ijgIfLLRkqzDadqQ=e365-w125",
+				"name": "Shuckle",
+				"types": ["Bug", "Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/0Q2WBDEr_Wl9YIDmStkuSiUmwsO0AVWmGCB16G9BkUvRDCxfEquJQeilz-RaKOWD0OzKDstZvGDXTOEJzD1LbO9GHzcO7Ur1Nzxj9i1X61WyRw=e365-w125",
+				"name": "Trapinch",
+				"types": ["Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/02-j6BVXveDtbTffLmIiOFfySYtiPGKro2iOuVD-41UpmwCYVsMXI0_5UIdjOWGPAI_quQyvRtfT7qALay0yfyxXOVsOcuM5U5i3FeoXyY050R8=e365-w125",
+				"name": "Gible",
+				"types": ["Dragon", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/33qwdDPsZHfdWq61CxUGmM8tNmusaNe2u1myabVbT99g5U-IKPAg38g6jJqKNKpgJagEorrkIDCBP56niUW5WSGb8tuZFPywh6aQRAMry-bzdJg=e365-w125",
+				"name": "Hippopotas",
+				"types": ["Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fWCcJhq9ZTQvoTUY3baxSuMldHQINo5rKF-qh_XT8SkABV4E8JawCxUl26ehhqQbONxDevBaOsDcRhQyFV1JEs3fxJiklW6Tja5kM4vkzA-bXw=e365-w125",
+				"name": "Timburr",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/FWq0U4jm9BD-nNfucLPqCmKSQ_8jlu6O8W4sb0ZLR_XnHcWQVJwWXMkf-LkYcEds8Fp8B0xmd0wLDAa2jZV_HzxML6OQJCaxWTJAV6l6aQ6m=e365-w125",
+				"name": "Joltik",
+				"types": ["Bug", "Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/47rVXNqlLxkuUKH8rpPJ8dVEWMnkinDqwcFcuD7bJ8BsYDzaxWRf-HFABsy4IReKo-X7d7y2FG6aREnuoKub8UOdsBV2gx-LmgkrDgNHIq1W9xI=e365-w125",
+				"name": "Binacle",
+				"types": ["Rock", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qsyv54ry_4Lisxzs3fMgxyK7re03IzkfEEsBZV2razRviN2PMdFupOmfX8vLscECd16c_XZWV1avskGbK0efoR4hMY_3blhHxgYA6tNVEgK374Q=e365-w125",
+				"name": "Helioptile",
+				"types": ["Electric", "Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2YHkHZIbTWq3I8b5L2lizWF63aCNMU41H0ABos9LX12bCsMVr1F76oI1tqcnYGdKercSUE1Jt4d9UFdgonhBGjclGfjaeqvbLQz5Ysi2zZ3zkg=e365-w125",
+				"name": "Grubbin",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fwWgR0HFAsonH0xmi5LWanz0j1Fn0BbKoFGQJ_Y6XHZsq_HUo9byh6HFBJnE0UnrrbV89wXbDoi6aZhN6Ye0ASCGFCmoQwig-YNpRikUvSoJAw=e365-w125",
+				"name": "Pikachu-quartz crown",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/iTHj9v_-AP2SBhnK3TRBEKcW1DS68uPRInfJQ3zZT5lowVUW1YmsWTSF6yR-kNbhPAIy3-khUsRrfilvvohF6UmbEC7uBlSY1dGJ1wUdhrFi=e365-w125",
+				"name": "Clefairy",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VngnTJgdnQb9thbpVrCW-PT-RKK_5x735_X2jhWD4xpyiX2Dd339AnBYgnAnN4BH5jVPZo3gtjmhj9jUJbGwip6ZB-JLs5enLd0LuZ5Rk2O7HUo=e365-w125",
+				"name": "Lickitung",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fVIJtYaDzE4VvTmcPy8YwuGw6yOCNVVFn9j57t_R9hIfn6zPoF4ThCCYkey-olGtk0hvQxnJQDrtUIiVZCsIHlZWL4kVBwnY-xK45uIN16ycag=e365-w125",
+				"name": "Heracross",
+				"types": ["Bug", "Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3RbNfKXVRG3rHejEXUZjHQLkMhpgJsiur9CebFh7Aai-sUPNTjBLZkR5Yj0vsUqa3rtpnJNTviAOEzGLIH2JakjMOBpnha4yGMFCBJ9VUzEF4A=e365-w125",
+				"name": "Miltank",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/zV2IMimTxkBhvOHfIGYkSS31SWZMVJlfn7HKbM6KnsA7UUHXA887WTBI4rqvjqlfPI1VJY9ZS-UbO6dCZ1qF0Z8nXZX1iL9WQVuDgNQcZHjq4Q=e365-w125",
+				"name": "Wurmple",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/27DzmCdVjiWxRBz6RMvTxebhCjxmLETPpKDnqfWObtS2mtLFtQ7_TNtxFApaki3USzBu715tByzU3qJ3OhBrNwwcCEeKjP7bOlVL8B_TIfkvwPE=e365-w125",
+				"name": "Whismur",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/lGIiWr4bto9XArNm3H7ca4JOXwtgu9sBzl0qKj1-pOfKB1PocEDriiI5DTqZ6PtR79FHOZyK2MK5zHTm_0PDLJPJo1T1T1mrwGjFREhMde9LPg=e365-w125",
+				"name": "Skitty",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/kuESOjy0ZRxUD3l_0Sx3UP_ZlDIgNnlBgisT1u5KEypJTWKksfMrdJX4H5fUcfg3sGmH0DIpeoapgpgcvkYLm9O5pB1FUHEgkjczC9GH5gP0=e365-w125",
+				"name": "Luvdisc",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/io_r3QO4bcj3aF5lgI-hQQH5xxbCzIhJJCO4jalimvF4nXjccHH_iWh9snucCa-Xu_pwthfLdBhJbWYA4_ZUVkoJlkOjsiGnEERP1H-ZALb_9uU=e365-w125",
+				"name": "East Sea Shellos",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/dcwOyICOMarWnldLRIhn3SAjvVmZHxI1WerQKZjhAKT3roLvVY-rbD1Erw2qbHXR5aW4NTNwHlhxjSb_7hAzrtI5tKPXoXqEnMs9LII1Gn5L=e365-w125",
+				"name": "Buneary",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bRYwbbSpC5LfJCEg11mJmNA32M7xGtmOEV2cdRx-TMZCpPgXr2PXYUMzuEA67hoz6qidf8uAJ_I31VmzgO3BTiKBpwm_i89tB4w6edUNXRkC=e365-w125",
+				"name": "Audino",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ugGg2DJ7aInkYRFpXvz5lIsrM9fpymj2mwRzpzjdMqTnbxF6xr3xQK7PsK8vkzi3DOpt0R0OqiCACiQgzvgUpQOi8jQ4N6nSHw0fL8oVxvMT2w=e365-w125",
+				"name": "Foongus",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/jkdHOCYDkSO8yc6vI6RWFmNHymBdUIdGFE4IgpB1RnBiiFNQ3oLSX6SHaCZOuipZ0tNkChGgqmCXkEI6jEeuzzUxiSEuCK1bv6N1y2PgnruIqg=e365-w125",
+				"name": "Morelull",
+				"types": ["Grass", "Fairy"]
 			}
 		]
 	}
