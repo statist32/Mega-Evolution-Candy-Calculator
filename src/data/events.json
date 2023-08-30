@@ -948,5 +948,56 @@
 				"types": ["Grass", "Fairy"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#e51b4b",
+		"endDate": "10.09.2023",
+		"name": "A Paldean Adventure",
+		"startDate": "05.09.2023",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#e6d44c",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/cX6Q9lSZGyyOK11DLoNzLpEbN9LTikOvzdpQ350cBFMq2ynsnYYv-vUw9P4Fo59ZM2I7QywXdYSdeCo8ui37RHgKaMsT5ng12uLP4x7RwzBluQ=s0",
+				"name": "Hoppip",
+				"types": ["Grass", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Xj2AFZIjUieaTjeWx7iiwwG1WXQippLFF491t_yLl7On0gTVYcHzVali6UiX2NAPlhajMY-cogu0nLw_23zoq9S3WtxsgznimDwKOrJ13j2gEeY=s0",
+				"name": "Houndour",
+				"types": ["Dark", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Mt3Q5VfGwkXk495zdM6ShODnFjPL619l1BfNX8X5Z1L2Jcbk--7dEsIfHgwL1bwH4IqMPGc_Q2d7y6TrX96cHpbHhAOs08OH5aW2MqTBqy0Yll0=s0",
+				"name": "Buizel",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vEO7oodBMd_xuKh6aHFtLn7yU5epv-1O1FuJMct20U7fC8x_q1zlkq6yG918ubKZRceC2aOhTr_cTy4haLIsgpVeR0YZEWj4a7V8cOG6aXPO1cY=s0",
+				"name": "Fletchling",
+				"types": ["Normal", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1yFV5psgo4dsTJOuby4C_3E0XH3GsFnj7DYPkxJog3aULceWQVW0Rb0ErjWFIEzhO3FcTccUbWVNJzCjueXlDFUyfqWh-yUm3eP1e5T2YGrn=s0",
+				"name": "Sprigatito",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Etq4LpCCGI3sFzFb_IqSLIYMJ2E1UUC_gXHyiNRpukuZv9IDpidVjwOFj1a11wv7ILglcKFg_bSDI4zvptxTM72Dxrmz6zAPMDw9GeQOxTZE=s0",
+				"name": "Fuecoco",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bbCyCc7zYzgEqudZWM4fSYFp2wrQAI3XOwOhMpjN0hA4p743kAK0phZomXpw65lXN0kB03-y6LwkafG8Pf3mBsekMKuIWbeNor-0XnJ_1QIgCA=s0",
+				"name": "Quaxly",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/UNlv9wpKnhobm64SosFTOyz-fPZXRUG_c_Vp3g7CAWk2UzjhwqDF5FFnVwIKroow3lAyr63C7I3Znmu1ta8ai-dsZ9lHVJ8Ph9F05htgMfP2oMM=s0",
+				"name": "Lechonk",
+				"types": ["Normal"]
+			}
+		]
 	}
 ]

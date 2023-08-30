@@ -128,7 +128,7 @@ def get_go_fest(soup):
 
 
 if __name__ == "__main__":
-    url = "https://pokemongolive.com/post/adventure-week-2023?hl=de"
+    url = "https://pokemongolive.com/post/paldea-region-launch?hl=de"
     english_url = change_url_language_to_english(url)
     soup = BeautifulSoup(get_html(english_url), "html.parser")
     get_event(soup)
