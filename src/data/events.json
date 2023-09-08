@@ -999,5 +999,122 @@
 				"types": ["Normal"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#958271",
+		"endDate": "17.09.2023",
+		"name": "Oddish Research Day",
+		"startDate": "17.09.2023",
+		"textColor": "#bad76b",
+		"tileBackgroundColor": "#bad76b",
+		"tileTextColor": "#958271",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/jJ1eiTLqdZ4yPCCOh6_Cn5Aq641bppUyKN67KyFqN5h6EAmiIGsMlwQALrMSUkCSAztWMCuNGr7nwP_bBdGRW8ymXCOTvInnc3-F3qvkD5z_yQ=s0",
+				"name": "Paras",
+				"types": ["Bug", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/IF8cekZH9rFjI2VgWn3OzoB8AUYZFNC3sHGYlL3UJSE2SDbugSjLku0JwC6t9OVEV41d28v4Hnqd9UjoWsrRr8Y0HLptplzdvT0TEFVSUfBG=s0",
+				"name": "Venonat",
+				"types": ["Bug", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NCNToOiFJRv9ZaAldOhgHpmKpu3vSYpHU5f3jwM_lv8an0da1pe3syNzjv29sfYKywJ0MQ8iX8CQAUxfHMPlgKzAZSGZCpRT88oN-6y0qXZr=s0",
+				"name": "Bellsprout",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/-A_FwLDLuGYsE9I04LGPlYS2QzgjL9tu8SXrj7MW7GIhnWPHftAGYCYCuVN__3z1eqfFJrEn4LkMysdkmNmOQbGNyOajFfR0QzQbLbB7u_tj_A=s0",
+				"name": "Shroomish",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/G-fdNdGbhpHCSynNQbrMfWLSt3UJjLX_3UFZkVTCGu8MKa_gWqrl3_AsbeChOjQpIwpwL-2APB2eH8rKbmehB69d9ssUZDjNO-b5_s3zrePlbQ=s0",
+				"name": "Roselia",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/rzYOIUzU8305LrNf4L_fpg1zuqK0sH2ZfkkvlibB1i80pGri9uvZlLtUxLBEed3oqQn67F9j65q5p5tO8X7G-pdR4EWhgJkuHTs2rzlROEGLLg=s0",
+				"name": "Cacnea",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/YZ2MP8aRGc6ZK7MTmwcKaiuFMXf0UqHEBIfUXolw0jZ6LywE2qmxRxpC1KN2h41GG3_qje8MlZdXo36IAVk6h5Y7NqhTyfm9h4YuTchQKhBqkQ=s0",
+				"name": "Foongus",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3Hx4w-5C_DRIVxZrNlmvqCr7rfPX_7LTle6YEamu5JFYTkgbE6HkVMj16EVT5zsTnD2vpNLOtlkB2LKGqHbv94t3bf9GIKqLjFn40J7PCJXH=s0",
+				"name": "Bounsweet",
+				"types": ["Grass"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#e51b4b",
+		"endDate": "15.09.2023",
+		"name": "Ultra Unlock: Paldea",
+		"startDate": "10.09.2023",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#e6d44c",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/jTneUyqoBgiRqL7mQhLHCew92vKP-WAhX9QYQOEY6QpB9KDRb7Vz-0zzqhQlEG9o2srOpOtKwGZNIHX4TdaGJmOm51Dmal72s9hIUBy0eT9LtQ=s0",
+				"name": "Hoppip",
+				"types": ["Grass", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/XIHXt-g97Na3CKtKI5bQCc3zrxtp6uzCylZXYrZAEs5EOwJ3IoH6h8gPp9IYYolaTQA6461gbevrEFcWzzVx6zp8dOb311MYH5gTN9Owgeqj_A=s0",
+				"name": "Houndour",
+				"types": ["Dark", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/kvVn1TpbFmc3Qmxh1vF0PzGjajWIIucLTusIGpBkehk0FKejLin5BJqWJiip_I_PjwO1pD4OoSzixkiWMXsYRT5U2rKE8ITsBReAmyhvGdZIQw=s0",
+				"name": "Buizel",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Mp9FCq_ZPs8HOgjdEhLUivMsnffSFW-pRQNCwM777yoRmFL69NzWMUmmofBuZSM4pmDBlOJCLWCy9Q89dSy2vicwCj8AdgLQ70zdM48UP8U-og=s0",
+				"name": "Fletchling",
+				"types": ["Normal", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/AxXef846m0FSd_uC9X5z0wq6CupNJB5wEYqGtghcHfu2eQ5Zex3gLRO3jScNLSNIFV0cRWT6Di4qTpcKMXuVu1IgqUn3Z1JIaYzpQsv7s0Iw=s0",
+				"name": "Sprigatito",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/e--ZLFWcLjLw2Q7KjuMdf2h6ZgMsWbvOhujjycj_8_uYy338geFJGgVc55CzTi_VdlYODpL3Y70ZnVDh-MpLzdNI-y8FV4RNqKot-oE8QYE=s0",
+				"name": "Fuecoco",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6bpar03j9XjdAyOu1DNYizc96Bl1MmFQJeYzbUGTGQA66tI5a6vukd3N-JCBNIR9n3WhANmomgnnUpBuQowWxiKUegEYfxahhNnsaxUrYsDyLsc=s0",
+				"name": "Quaxly",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/XYfZQWlfzhDGkrFjYA5x2wuanSZhfL6Uap5X5pvNBoIP0c0feV4iWwQfdsDjJAaTBSMtA5-0v2H0Xj1dIYBdm8RzMDaTNHUazUv8bo2BZJPOcg=s0",
+				"name": "Lechonk",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qv8KLPEp7KJHmTYYbZxGQiOJyApSjhyb1xDaUpewedjW7Kz9_rDDerszn3AG5btQrKO4LGlMxffYm0mr48mqFwJY6QXXwjIg2wDdiesBY0ZB5Q=s0",
+				"name": "Nymble",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8mii2YqxyUzzqU6fQM89ZZdhVATk7TazW-cXxla3BT7b0ecORa2R8kYPeSiSS3cCjRkK3LHEO3_OLjbIaaNTAbLEKRUCWZsRmV5YmhGKVdROdA=s0",
+				"name": "Pawmi",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/OnbxQFpp5kdPFp50oMasDryUavi7ZNtwXMAqz2VXe3fhmSwz_EIoFnGX9DvcHPYS_Lv2Q_rfuGr8_8gJR-IAqAbGSM3IX5kBwgY4lyIvwEug=s0",
+				"name": "Frigibax",
+				"types": ["Dragon", "Ice"]
+			}
+		]
 	}
 ]
