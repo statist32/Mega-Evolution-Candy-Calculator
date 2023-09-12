@@ -1116,5 +1116,86 @@
 				"types": ["Dragon", "Ice"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#e51b4b",
+		"endDate": "24.09.2023",
+		"name": "Psychic Spectacular",
+		"startDate": "20.09.2023",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#e6d44c",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3QjY-zZUzQdVnSqqOeRNQgAWVUPTUGjiH5156Sv-w0257u7EMZTq5Nr2RXS4bMuH9U70-2o2Lma-G_US_ZeJtNnU4u2yngWyC7CJlxokrFM4qQ=s0",
+				"name": "Abra",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/w7iMjHp612bdeGtYCcEV1qheJOfanNIHznGbduqDhcwepLXM-yeWMQRJn8z5hWefwTeJWBho9GLBPVFkqyOguH2qMDyIg0VLPiMdZ6U14FTgUdk=s0",
+				"name": "Slowpoke",
+				"types": ["Water", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/4PXX6egIk-U8UC9-eF4njwQzl0y9yBs_MqPqexklqGubJAm3qT73bx2k9jKSwqQAQjKXwH5XR159DDZVGMh2FCKSTxbGcDFthov9xGmZJcIx3w=s0",
+				"name": "Drowzee",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/0tjpAizD3aWSx0JHm1TzXfD-6v0yi9FeJs0JFyyapZoxo0rSkR8MkMWabkgP0upGuqiGREnEnGOTpSoSTnTI4lJSyAuk4PJoOtztKDxrd2WWIw=s0",
+				"name": "Exeggcute",
+				"types": ["Grass", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/UUFsXXAt9A8p49oZh6yFs2TeNW7jJyby0xsLA2xRuVoDEDor-92IsDPh70jWqpuPYE3pmiHr2TSKbSMBnDqSewF1WUtxFxp3qd0A1VWCnIlwJPo=s0",
+				"name": "Girafarig",
+				"types": ["Normal", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/nPPfxz_KO7iLR_PurxvE8s6BLE2VrtJsBfPM-N3ApCeB0Dqk5pBuvTbbQvwl65jlYD0VXkVakHQQ9qlIclrL1ufs8avROyAi4Nolvg1p23EHRwM=s0",
+				"name": "Ralts",
+				"types": ["Psychic", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CB1biI6YykV_KdwLbdf50yroGnla_bG8PvsZ_hsJ3S45IJtEtfHtG7q_WLC8MSvVPpuEXYEnhfZMrgveWekHsncAJVxs_cWM5jOV8cO4HShdew=s0",
+				"name": "Meditite",
+				"types": ["Fighting", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6K31zGX87ZrYySaH5YyrCUiL_wi2hHbpmsypuyIWhoWTghW3-HxeN2lGazTUMiaW_S85V_r5psi9LhfOsdOPfis-OxAf-gKN628lIFQzdZKwrcs=s0",
+				"name": "Spoink",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/V583Fqivy00rENV3TehTisG9ylVbmKu_ZF_2IEhfzXFxDYAdX2N4JIBLe1knuIUbzcrHIAA7khKaXMkekqnvfNK8LoFPZAN5ibti7m9uuANbgA=s0",
+				"name": "Gothita",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1Jjkcr_R1rF9CnQFHpEGJ29S3-zh02ns_Ar_JlJXjB7pZyki_MzbXSx307OWzm28DGVzOYnCWkDiWtQ8xVIrTVLn6ZePkIFHWkOUga0EUO67aQ=s0",
+				"name": "Solosis",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/iq835ewURONyxPWg6s1yh3JlJPD5w6SkR5RXb80qQEe4I0DvhH0e6l3Rko_4m3MkjWB53I2teqiDZT4veIQy0IPdhWHibi0Gv23qjrLBhQNrkkI=s0",
+				"name": "Elgyem",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Sod0YO9duu__Qi0su8hOBJVFMU1XlN6vupKIlsoeQUmE6HwwYBED1ZTmhL-RqPw-AV0A_SfN9Q775-dhBIg_UoJ5axL4-CIdGtjVPZkEOK4W=s0",
+				"name": "Galarian Ponyta",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HU0u8FTjb5ztCypc-P38Mzd3Fm2nPuAjAeCqVC_sg3xnI54AgydCr_O4gV9MyTgrJpWnmeh576ZUaK7D-WJzn_WvHFcN6cqoawVUexBRF-ETKQ=s0",
+				"name": "Galarian Slowpoke",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/EQrsEiISJvKat_rio97feHUIB1Pqpv-oLoh5Xtdf7NCMXnLYBwLt0cnU3KYdzpVvILkRWsI2OFWglBr8dIBReJ_IoDI4yKXw3unZP89iblEq9cA=s0",
+				"name": "Bronzor",
+				"types": ["Steel", "Psychic"]
+			}
+		]
 	}
 ]
