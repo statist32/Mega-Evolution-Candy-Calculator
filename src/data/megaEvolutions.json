@@ -201,7 +201,7 @@
 		"types": ["Dragon", "Flying"],
 		"imgUrl": "https://lh3.googleusercontent.com/PRNQ7DGrgPsPAjOf4kRYiy0_XeO1MLmlpsgPwMrbIha1RWlrgH90t5a8knEVZuPGYOWXY6kvYcMH7sBjGbpaASjlv1f5wPbilFZ81iNCoXpLZg=s0",
 		"name": "Mega Rayquaza",
-		"boostedTypes": ["Dragon", "Flying"]
+		"boostedTypes": ["Dragon", "Flying", "Psychic"]
 	},
 	{
 		"types": ["Grass", "Ice"],
