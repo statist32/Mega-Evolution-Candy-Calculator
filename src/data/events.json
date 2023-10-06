@@ -1248,5 +1248,162 @@
 				"types": ["Fire"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#ffc505",
+		"endDate": "17.10.2023",
+		"name": " Harvest Festival ",
+		"startDate": "12.10.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#ed772c",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2rQbkaKTwFQVUTd9_JDNBjAoLhuvDZ04IqlWkdvCkHi7L6AYDybd47dRkujT_k6N4fAKDitGdXSaOMzIb0jzZMc_8wYCdC6MlXcFLrUVTmOm=s0",
+				"name": "Bellsprout",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8t6NbtF6duoMCcOOKUjQE_gLj3ddY58_4ReVkABzEuB5uRFWY_yVSqAC83ioOW9_EwXnWHpdRckMf3_ngKbtL1kREF8oW12AXDLOCbQ0w6Ej=s0",
+				"name": "Exeggcute",
+				"types": ["Grass", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/RKCc7ncYKDgd_87doxfLH7CjO_UQ-ErEILKhd2B-x3kXrDPvxDp_eM42QlP2on43hYhMMnoTlH2fnMhpIoL2AQ9cM-lpop6smsId3wo8hPH-vA=s0",
+				"name": "Sunkern",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VgmUdu8jPEfoShCqs0YMtNDvlw6p8F_kwWGqOeyz98GrXMjN4B4rhMZX7Fi9SMFlGIyxydrCeTJwR2TC3g9pQZGAK5LRbzlgD67_UHLIndGO=s0",
+				"name": "Wurmple",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hdHf3O8EQZ4kG7mOLD0txUpMQ8QC8VR5-C_98HGVQMvZyzNoPD4xnVk_OOa8T35dPwgNWOjXXWqqXqucrjUnlp2uV39UoHM-QJDkB5yDkBOw7g=s0",
+				"name": "Combee",
+				"types": ["Bug", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/QLjDkOny4XVpXpY9ZpH_2vNUwu2phCFGAGeOEq62wz9XKMARRn8oy0H5I6qhyOImXKQSD6eE5b85i8yUZsJrqhVMHLaykvxOQ00Xt91slO4a0tQ=s0",
+				"name": "Sewaddle",
+				"types": ["Bug", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Ek8wzwhWoDo9Zei98B7Kk11qmH1L848bmnEo-vkAMiYwBXGRWXIhTluNkR1sVPrdTiHhhDTg6EVWfjbpfg-ArrOl7NJ9h7OOtLfLaCQyM_9van8=s0",
+				"name": "Cottonee",
+				"types": ["Grass", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qCf_Dr_lfs0odBjVePELQaVuREi09-JmslAKLFzR3Iu0Y_v4R_Rakd7dMB6ZG0Suhk53VRrtSupASsAuisViL6q2QBGTOgMAF5o1YAdg-nAa_7c=s0",
+				"name": "Petilil",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fJpG-77jgvKp2RbkrV_3PlD_P0beiwvEO8I02gxw7W1eduV7W1EVXKjrQp0bV24SObLpcVbiGfwjTt9e7STLBTtTCS9suKaAI-g652W_Jrh0ASA=s0",
+				"name": "Red Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hf4Cdz5flw-4S9zkRhZ1KLkzQynzjfpnrdBAdRCC_Wk6lQ4V1HIGRfLgb5HV22yA-jyE1hD5NsXi-pkUuaP23iImsODXLd6ZWLIeXW39NDC5=s0",
+				"name": "Blue Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/DNHteHPsk_wbUQbgT2TIqOs-0JeCA-lTxvw3lKVbRRNQ7BGrt9soYWdsyrVip0MdCVyajBOQKOKsCyxDRzepORd2cSyUu-I4JAWkfKqd1zZP=s0",
+				"name": "Yellow Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3eJxoqufepL_SqNjOlbArLtJ7Xafimu6_ANMUf0-OpEzf94mJTkJQg6k5qPlTqo5-BxdWLUL7w52CRWw7A5u67VYqTV3znK2riklXTc3pfc-Iw=s0",
+				"name": "Pumpkaboo",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/AYwoJNOo38zQpj3ShSDECNQ5FKIvIHpiahcMk0PAkklQKCTlevRPmqQUz23ci2xnAuSzH8TPIHUWscNzNIBz42KicgwezzbBsBFf1btyxzPydw=s0",
+				"name": "Bounsweet",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Ex4qsREnUTR7eSy45r_fhmKaeU8nMGQGhSg1eMkcTztPJKcW3pbJ0p5vEQhOlIG-JTZuqTA9ykexz4VTkWUWgCVFpJS9w1sMy-qBzSs50ED8mw=s0",
+				"name": "Smoliv",
+				"types": ["Grass", "Normal"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#958271",
+		"endDate": "09.10.2023",
+		"name": "Detective Pikachu Returns Event",
+		"startDate": "05.10.2023",
+		"textColor": "#bad76b",
+		"tileBackgroundColor": "#bad76b",
+		"tileTextColor": "#958271",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Qgj5TM6z-LS2d4FyzmKiNDH8g6Pz3n8eU-lhdOfaDmBgA6oioJWS8NuHF4Wr8tzwsjfWbH_moYpuEOYpdqBoEqZddOzzyvRvRp86Cv3WZUKFIg=s0",
+				"name": "Pikachu wearing a detective hat",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Sywn_RUNo4IK-24-zkN9A7jTeyVKxAkyQrkIHIl_2p_WLheDDEKbhh60jS4bIekKxkwpZCVMVGMqb9uZgwctUDkhrVkubWNsmpVVDTN3BguIjBY=s0",
+				"name": "Growlithe",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8Oj1Fg66xYqdcf79nPpylMnMYnUFnYoD_z4-zRmAEFLLQGpIvEXc2B1TCENSLgTiT-AmThxgEATZdpKQaZpw_i3K0bYUlzCiDWPleDnKHQvxKw=s0",
+				"name": "Slowpoke wearing a hat",
+				"types": ["Water", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/tI2hCkpCF8NOwBDczUCQqBVYqz8FdpPYWKrR0zlpALVfE4peffUVcLJwCm_NlDT0rRkfNWadusBPIJyHMaPenr-nE4e4xOg-JK8JGJvzgQNwPA=s0",
+				"name": "Alolan Exeggutor",
+				"types": ["Grass", "Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/zhib-H7gFg95mk2K-gpfY5xwyd0NSJ3TOErAU9w9LTZmYYrjMzg_5Mp-VtkbQJ3iFIa1R7czZbqK80Q9mLUbZTJoEPRnLR2xJOTa2kOhShFdEQ=s0",
+				"name": "Magikarp",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/lX04kiNYGwFw9Ms0I6KqwOp0GHg-WJkxeBLlxgg5BjeJJC4guB9N8xK70A0qsMVzCj_9YyMZTpy90Giawu9_J7Yio8Z8p12fSEghJCABflir=s0",
+				"name": "Xatu",
+				"types": ["Psychic", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/gsghH-ihUXUVM0tMJkYrAKAuWipcuOt6NlJgclqM15M54UPVuZqbqgS9G_DDJkRpoS6MJFe3mCWikKREdNl_a5SS9013PDynOrCHKMFJQJyX=s0",
+				"name": "Bellossom",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/YOyZ2uZ_ANU902TV8M3kQIMeO_rTJz7f4NZMb1oQFdgVSIt1q0gvnuPi42DQxD-g_re0kw12-WJJs6iZR8ROitLB1eyTS3bDOMU69CBCDf4M4iA=s0",
+				"name": "Lotad",
+				"types": ["Water", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/uJhD-B-UddNfbOJLOrQW6YZ1Meabd1D3N5AbMXRq7cR8lAI2RTSBen1Jz-DoAtS-1zwYp587L8gqVpKBsDpZxiUSGdxWe0PH7ycJ6U4QYTjyioI=s0",
+				"name": "Chimecho",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8plDKVlswkSp3fDEO5V3ZNTiZ9DNKo0lBRHat3902oUZBQwyc12WRdD4KsxWUDJin1-E9eo2q5hmQDq2J5DxTMHthWqEBqG32Ad5dV9i32mzUeo=s0",
+				"name": "Bronzor",
+				"types": ["Steel", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/DLEMCpwvv-sqxv0vk50Yb7mZSxSSpNwH3jfuQAXjHl2T_hSwCTy4BGQxozgHMOZvSYCGbosaw5sSm9KD_xalVAoegmZ0NF03y9osJwKKADk9RA=s0",
+				"name": "Ducklett",
+				"types": ["Water", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/lHhEyr62V1aOmLYLPWPEizKNnZmcC8PKV7_vK8p8xCipLWX33qQEuy6CXABCHsPQ_1HUJIFc8Us1Vg5nnpA6ybkOCF8vi2YG1MqZ4bCy3ySNSro=s0",
+				"name": "Cutiefly",
+				"types": ["Bug", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/h4UYvrDzPuywfYTPyNbTu980gYq_pIUlSG4pZLOCdF-pbevfzea4bcTEz4k4Tu8_klS3rkl_2C9kPnHX7_NZRjvyxWhDswDZ9mlhDhU-TV-MXvc=s0",
+				"name": "Falinks",
+				"types": ["Fighting"]
+			}
+		]
 	}
 ]
