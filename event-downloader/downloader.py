@@ -17,7 +17,7 @@ def get_html(url):
 
 def get_wild_encounters_container(soup):
     wild_encounters_container = soup.find(
-        string="Wild encounters").parent.parent.parent
+        string=["Wild encounters", "Wild Encounters", "wild encounters"]).parent.parent.parent
     return wild_encounters_container
 
 
@@ -30,7 +30,7 @@ def find_all_wild_encounters(
     wild_encounters_html = container.findAll(class_=pokemon_grid_class)
     for wild_encounter in wild_encounters_html:
         pokemon = {}
-        pokemon["name"] = wild_encounter.find(class_=pokemon_name_class).text
+        pokemon["name"] = wild_encounter.find(class_=pokemon_name_class).text.replace('^', '').replace('*','')
         pokemon["imgUrl"] = wild_encounter.find("img")["src"]
         wild_encounters.append(pokemon)
     return wild_encounters
@@ -128,7 +128,7 @@ def get_go_fest(soup):
 
 
 if __name__ == "__main__":
-    url = "https://pokemongolive.com/post/paldea-region-launch?hl=de"
+    url = "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=en"
     english_url = change_url_language_to_english(url)
     soup = BeautifulSoup(get_html(english_url), "html.parser")
     get_event(soup)
