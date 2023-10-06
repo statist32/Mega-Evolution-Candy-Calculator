@@ -1,3 +1,7 @@
+# URL to the deployed site
+
+https://statist32.github.io/Mega-Evolution-Candy-Calculator/
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
