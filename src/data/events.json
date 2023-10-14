@@ -1405,5 +1405,81 @@
 				"types": ["Fighting"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#111832",
+		"endDate": "26.10.2023",
+		"name": "Pokémon GO Halloween 2023 Part I",
+		"startDate": "19.10.2023",
+		"textColor": "#bd99bc",
+		"tileBackgroundColor": "#bd99bc",
+		"tileTextColor": "#111832",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3wCOHc4xA--v1XWht6ZlIHvDT2FNsKlWmJcpz_KA6RBNALjxr0kVEThAPYgOalNuUd2G79vwKcIE7MByIpOI3HUvVFSGtqGp4wBvhWCAPucStB8=s0",
+				"name": "Ekans",
+				"types": ["Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/EpXosDk-pA73SqLZp9gYEOSlnt3Lnz0lrV8kONaybwKBArIFdvegdrW4H3pR9oY9wBPJcIGLY1nZmlEVmQcaN-IpTDiXrmfq45Kpvguo-TYY=s0",
+				"name": "Zubat",
+				"types": ["Poison", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vCgSiw9raWlZvuDG6gw1AZlQxlGx-zrDcAJzdDi7tjLkv9UrRhsoK1RDHmYU_SGSk1pC7Kwafe5D7qo88578qRjclB7CIbTHsoLtW9xSqKKmSA=s0",
+				"name": "Alolan Meowth",
+				"types": ["Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/L00b91ZjNsmUFqoaBvoeG-XemLCNTKuZFIvAyxaaUAyAh4Uydh-HBktT_x073zbId7t51BOo8W7MfL_Q2A1HHWmu03OgFN4RK0CSn69v7lSKyg=s0",
+				"name": "Gastly",
+				"types": ["Ghost", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ig-YtP8Ch5ni6LKshEKEt98U3eKUkddyczd7DYdDVO5loyt-FR-ihyndfzx7ndAj4_SyjvjQFaCBk0IqzpWg5YeeMSgbObQaY5l72WCJgJlxaog=s0",
+				"name": "Haunter",
+				"types": ["Ghost", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/PKuswgsjQc7pYwWgHFJYIhR74TJxL295TchinDTCFl8E3KTIw7dl0qBOLEMDUc5r2vk93ka5AGwjKtACPtaW5aragb7Q02K-mJ47-mLIGi-7vrI=s0",
+				"name": "Spinarak",
+				"types": ["Bug", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/_INTaoigt5y_URAeEvFCj6EsD5bjPwi6lKPQV-XOZSfRMIeyyY1u7FLYnVznX_QBNswV_NBuEdnYazMDpBhRZfnxOwHYXkjj1uDW37401dI8vg=s0",
+				"name": "Misdreavus",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/tAaYF2n3qxwHycWpfBwcEeFm3mbNj80Y4qC80nP-k-IKlIJ0q3vuYq9yM_NiJnwMRfpspRoG7gbXkn0D7I7SiW7ysk1CcUZfUEy-DeldaxWY=s0",
+				"name": "Poochyena",
+				"types": ["Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/jCSBPaAO6Jl4HL7Me7BgFHpphuOj9lKn_bngumzeb479d3KfTq3enVoeYbVGPnex9tuvxPAAGizWWKKOZMUqryhVVsWa-yuCF316mzxOb5OrbEg=s0",
+				"name": "Shuppet",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/MLEuwDcHFmM1kEZZE3t2W65HhOTKl_EhFoqOw7SQOUQQ3rLiYr-1zL1ZBhms3ypqEYQ80J-n14gw1ulQ_6Nk3_jnM_fM-bs2CqlQ0aJB5JpK=s0",
+				"name": "Drifloon",
+				"types": ["Ghost", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/c9sD4qNqklPllfNLrvxTUDKmm1wDNbbtUWYP7tiDOi6T60rM0mH7_xzqXSVfRWFegRkIGT4IUxRSO7WWGKwtCajkhUpnNOTbMRMksYMZqm1SZg=s0",
+				"name": "Litwick",
+				"types": ["Ghost", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/TYHoqhvin1xko9MVpd6A0JpL2ntvHOUYqP3T7KQ5Kjh2NYnHuFKthRpDO9njdCUYdB58dD516oIpBQKWfloonij82eWwVmVd-WP1v8Hw8-_9ZA=s0",
+				"name": "Phantump",
+				"types": ["Ghost", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HttI7TiS9DjLw7Ec53nBxYpcEB8rYLJGpN84yqvEssUBNllEo33Iw4t41S5tWsKdfAogaV0thbI6wj0RiiNnXLW4Y1YjuADBoHtJMqGDcnhjKw=s0",
+				"name": "Sandygast",
+				"types": ["Ghost", "Ground"]
+			}
+		]
 	}
 ]
