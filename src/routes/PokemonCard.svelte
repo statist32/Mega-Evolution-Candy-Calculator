@@ -15,15 +15,15 @@
 >
 	<img src={imgUrl} alt="An image of the pokemon {name}" class="pokemon-image" />
 	<div>
-		<div class="pokemon-name">
-			{name}
-		</div>
 		<div class="pokemon-types">
 			{#each types as type}
-				<div class="pokemon-type {type.toLowerCase()}">
-					{type}
-				</div>
+			<div class="pokemon-type {type.toLowerCase()}">
+				{type}
+			</div>
 			{/each}
+		</div>
+		<div class="pokemon-name">
+			{name}
 		</div>
 		{#if !isNaN(affectedAmount)}
 			<div class="affect-amount">{affectedAmount}</div>
