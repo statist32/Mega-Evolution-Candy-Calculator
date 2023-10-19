@@ -61,7 +61,7 @@
 		display: flex;
 		flex-flow: column;
 		align-items: center;
-		min-width: calc(2 * 3.9rem + 0.2rem);
+		width: calc(2 * 3.9rem + 0.2rem);
 	}
 
 	.pokemon-name {
