@@ -1481,5 +1481,86 @@
 				"types": ["Ghost", "Ground"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#111832",
+		"endDate": "31.10.2023",
+		"name": "Pokémon GO Halloween 2023 Part II",
+		"startDate": "26.10.2023",
+		"textColor": "#bd99bc",
+		"tileBackgroundColor": "#bd99bc",
+		"tileTextColor": "#111832",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/raj_sIzUM_ojTAQry3nVr3_n7YWT2l78dKy3-v5tGNOjDuC47Ertpf9MvJvlri2zt2zJs0zBslQl1-GbbFhjKhbyvG7xoXxeODnOFXWQsWsjkeM=s0",
+				"name": "Pikachu wearing a Tricks & Treats costume",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/4Fm60fsOaMGMDQqaC8o7XioIMfA1gYVy8i-a8tYKXIiQ_T3AH5KKk6aEmjpVqP95q3dJlojg-O4bUhh4h_DrzpeH7LWnbaXFvIbK1iYqbPsbuF4=s0",
+				"name": "Vulpix wearing a Spooky Festival costume",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hOA8_YXdtX6o0SBumLN0WJ1jmV9tjfQRDdudP6_VOg_ulltPbaUpAU0hC45Rrk7WXTw7Ktvtn_U6xXQt9VK8ExPBVt_3V-0Vg_SDTCndUJpmyks=s0",
+				"name": "Murkrow",
+				"types": ["Dark", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/KSX5tzGS9RquRms8hCVbo1wDQRO1LH0t5CKN7s_IDjjpKx1rVQRFR5rT65Ebo5hKtxG4RlMkujlxX629hPlc4sYgwkc5pO9yJmVu22nP2Icykg=s0",
+				"name": "Misdreavus",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Novdrw7VPvWxEET5dM_LVt8g_4jJkGOoyt0K46aTjJjP5wIEGMCyUMsMI7xDfturY8QwAfNe67Fczeuq590dMMe2_UXP72rrg5BYblIrlmeMEw=s0",
+				"name": "Sableye",
+				"types": ["Dark", "Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/0QUxuzlkFd0BQejeUh_V2zF0LNSUndakEfaxhVBxGuakzxYqG0Drig5UztN2xzHQRdmtLy-AKpS1tIZCHg_tU5tIPyMrbbL7TCmX6YYoCz7u8cE=s0",
+				"name": "Piplup wearing a Halloween Mischief costume",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6-MkpXyc1M9YN8AEzcYSKvt5NT5jDEDoZ42FkYVIc7UVsBEygJzBZ8iBj5wSQd5_4iHJv35ZSW13U5ks9YyeQGkPkra_gIAL1f1u6ZQUPvMQUA=s0",
+				"name": "Drifloon",
+				"types": ["Ghost", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fmkkAckTNSKrW5EBqk6YCm0PJGxONY_1jnUvNpcPa4svEeyOf21Luk9hK0VEMpjK9vWrraOVQwMzk6TOT0nK-RRpSXXy2jCBqS14sqUwOxyMUOw=s0",
+				"name": "Yamask",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/7PKhFkfHgBv23Q8FCPKfpbAa4bJhu1v4GaXey8EJ4HALomCaebd3w3pR455tPmISfBNHL8K2Pvwfz2LfPJ9WiagBNziJ1Sy1huPbg9nKEDWYwg=s0",
+				"name": "Zorua",
+				"types": ["Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/_9ojyoX4P-NadO3UrAHLviVOplxQn5OfBR08uvePMZIdUYT4l3E03iUbl_FeCuXEol7rk8tYITtMNpAhQU-MZzZ_XoR-1OKv0AKdIQ3H4ot6yA=s0",
+				"name": "Fennekin",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/wlvkxwhFmZKHxHzi4VLEqj9viUSWkWpm5Z00PmtR1LrJV8k_omvV3AWl18N7Y3Ol6oR-QE85HILjPKN5zs8yFEB5JDZODN-coE20HF6ncsRh=s0",
+				"name": "Phantump",
+				"types": ["Ghost", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/YP314-I8aWd9WGJm4XYIFkqfwlndkReM-dMT-KtwgKRlxAl8HRO8e61_PKMjtvkCLqAaQYCRVoBjggF8b9AJIZNMb-sbUzhUSbqJ-Nxrz0SGrkQ=s0",
+				"name": "Pumpkaboo wearing a Spooky Festival costume",
+				"types": ["Grass", "Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/mpLCYLKRnPLOcjNnH9AarTmR5pHSRW7GHCI7ROP0uwoMvGVYcArWwdjWCrFYzpZz22K8axwtlGO3lULCaq1qDpB8xkJUu3dV-WaDgCfp3agEVA=s0",
+				"name": "Noibat",
+				"types": ["Flying", "Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/IGIZxqDfsN_s4n5x-Td1jvjfvMxarq-m-cJxQkv6idyAgdD6q06ns79Jf7WL9JWriYI1odgtiVT5Ms0d0dY3Ks_uKHGqXFkPhD9IlVd42Q3PNg=s0",
+				"name": "Gengar wearing a Tricks & Treats costume",
+				"types": ["Ghost", "Poison"]
+			}
+		]
 	}
 ]
