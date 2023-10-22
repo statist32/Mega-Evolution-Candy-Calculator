@@ -61,7 +61,7 @@
 				pokemon={megaEvolutionRanked}
 				affectedAmount={megaEvolutionRanked.affectedAmount}
 				isHighlighted={false}
-				highlightColor={textColor}
+				textColor={textColor}
 				on:click={() => onClickHandler(megaEvolutionRanked.boostedTypes)}
 			/>
 		{/each}

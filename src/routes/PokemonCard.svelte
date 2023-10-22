@@ -2,7 +2,7 @@
 	export let pokemon;
 	export let affectedAmount;
 	export let isHighlighted;
-	export let highlightColor;
+	export let textColor;
 	const { name, types, imgUrl } = pokemon;
 </script>
 
@@ -11,7 +11,7 @@
 <div
 	class="pokemon-card"
 	on:click
-	style={isHighlighted ? `filter: drop-shadow(0rem 0rem 1rem ${highlightColor})` : ''}
+	style={isHighlighted ? `filter: drop-shadow(0rem 0rem 1rem ${textColor})` : ''}
 >
 	<img src={imgUrl} alt="An image of the pokemon {name}" class="pokemon-image" />
 	<div>
@@ -22,7 +22,7 @@
 			</div>
 			{/each}
 		</div>
-		<div class="pokemon-name">
+		<div class="pokemon-name" style={`color: ${textColor}`}>
 			{name}
 		</div>
 		{#if !isNaN(affectedAmount)}

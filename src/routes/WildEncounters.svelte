@@ -16,7 +16,7 @@
 				isHighlighted={boostedTypes?.filter((boostedType) =>
 					wildEncounter.types.includes(boostedType)
 				).length}
-				highlightColor={textColor}
+				textColor={textColor}
 			/>
 		{/each}
 	</div>
