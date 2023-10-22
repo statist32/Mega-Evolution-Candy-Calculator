@@ -1562,5 +1562,61 @@
 				"types": ["Ghost", "Poison"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#422890",
+		"endDate": "02.11.2023",
+		"name": "Día de Muertos 2023",
+		"startDate": "01.11.2023",
+		"textColor": "#ffaa0e",
+		"tileBackgroundColor": "#ffaa0e",
+		"tileTextColor": "#422890",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/YZkGp6sQLjuMa0QW9ddsBNSDmNpXrtNhxF-35VaA4uyPYzlrL11vD7TD7ZBYBtNZh48SMjj6x3sS7FTZESA4nEGTn4rfv4Q2oWJYU0enh_a96UY=s0",
+				"name": "Sunkern",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pbmRNTwU5-4NOgNpsBBe0KjiF8IeSKdtcjqAVLa1GbV5cgtD3hL6g1yi8jZuh6FPmez63Pu2tMcEFOq3jZh5YWvFVYOJmcrcOnOUmbSLRc6jPw=s0",
+				"name": "Sableye",
+				"types": ["Dark", "Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/kAImpvkRJ-q4WeXXvuODsdql5uP2bGl11v770kVU0-NVkDumwGNeUJB3h6hjpTPp9xMX66qtg_fW1HeG7neCTvhZ2GuVDge1NhKKOam0bJJZ9fE=s0",
+				"name": "Roselia",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/eKpMMXjECpJ2L12FgjUbKjIFhXeoF9GTqD1RJMytbV-bRV5tkriUkRI8JOLAzF8ukB167pXT8o3mdS0tBZL4US_quHuLDtFhNF4UT2ptneL6ww=s0",
+				"name": "Duskull wearing a cempasúchil crown",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/RRylEseF63nzkJu052GWqT7S3kNygG0zsXcjFrhxdDyjD0_dMmr8Ee_sRAycE68sMNzQJX2fu2np4OsQcFFwAXFvjxwqq2Hqvy62xayVSi_G=s0",
+				"name": "Drifloon",
+				"types": ["Ghost", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ydOp5hE5pipWcIu5-i8tmz5URvi7DeMeLclvJf7w7UjVl3NhLBXfgaeL1UwQnnRX9vACwedmuQ78D6veJTPhgpaLQaxBLxa83CUFT3F5cNBa9jc=s0",
+				"name": "Litwick",
+				"types": ["Ghost", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/YTJ_61Q1HrxIHLRmB3DM-4XakQTlTiLdrxPWesRI3em1ROiGHgZIZFCZ65d6-CtRmJ5aKIl0hD-mgTPbSryDaWabSL4L7AAM-FduIftWyEDPUA=s0",
+				"name": "Cubone wearing a cempasúchil crown",
+				"types": ["Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/WvnQ7kU17rBB-kmSm8zWfNon6iz21qxnL_cp58zEiGfS022oTRDa8LlrSF6nKLZ8oyW-_91_ILs4YSbXl-i8IxI09IAaLCNveBO2TrT_0Ho1yA=s0",
+				"name": "Yamask",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/TMUig1V1rQTGcPFybDJknvjI-nSIYLESI5QwCHoJeS3zv7lcqXhmmLdbf8fkhqtZHTZf5TAKa9q0a0yOjq_wE7NvRzkZneyQVWXpoP1LbwAw8A=s0",
+				"name": "Phantump",
+				"types": ["Ghost", "Grass"]
+			}
+		]
 	}
 ]
