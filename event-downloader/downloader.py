@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from pprint import pprint
-
+import sys
 
 def change_url_language_to_english(url):
     questionmark_index = url.index("?")
@@ -128,7 +128,13 @@ def get_go_fest(soup):
 
 
 if __name__ == "__main__":
-    url = "https://pokemongolive.com/post/halloween-part-1-2023?hl=en"
+    if len (sys.argv) != 2:
+        print("Too few arguments. python3 downloader.py 'URL'")
+        sys.exit()
+    url = sys.argv[1]
+    if not url.startswith("https://pokemongolive.com/post/"):
+        print("URL needs to start with https://pokemongolive.com/post/")
+        sys.exit()
     english_url = change_url_language_to_english(url)
     soup = BeautifulSoup(get_html(english_url), "html.parser")
     get_event(soup)
