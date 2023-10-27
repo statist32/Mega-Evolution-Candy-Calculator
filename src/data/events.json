@@ -1618,5 +1618,76 @@
 				"types": ["Ghost", "Grass"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#738CC0FF",
+		"endDate": "12.11.2023",
+		"name": "Festival of Lights",
+		"startDate": "07.11.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#EEDC9DFF",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/krgmmSk_yWvT8pXkQIGqi7F9GH2J_TP4yeI-zxJcviMWi_qx5Oc9fs0I1VGS3Y8z_CKA4VfuNOTWxjdVoiZ1gnuFgbwyyYx6SVD8okoQnPZ7oA=s0",
+				"name": "Pikachu",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/mieVr14DGvsTHNvyTx2hs8Fi8AJKa9n93sCQleapbRnjpAEfuUGaq2hhqlAG444MOj8dK0y81A2wyuwO_WdEAyezzhMOoSGRgDngSaeM9Hgd=s0",
+				"name": "Vulpix",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Eh1Wug738yVOWvGmwSj6Hl_1VaKLkhdBa2zH520bMbKpf-PGokWf0dxUkk44bwoQ7TqxC73xPLWU_EqQ2H7yXKfO7Hn9PuktPQtWdZx44T3C=s0",
+				"name": "Ponyta",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/7hsVsDyRpYuL-6dA-FSMUSvbKAxnoYE4KirwktF3FUD3ZY-V0Bi9Zh1dOVYR1CWojzlwqwBD1AREFJNDY_jrB_Clbq0tpCtQoQr-2McBm8y9=s0",
+				"name": "Magnemite",
+				"types": ["Electric", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/dfCugtyWujyEmUGO6B_Iir7PAbLXzCbepaCdxYvldD6Sp_2jrksBu-dbcPRn-31Zitop3WnBR5JoSUfCXyp2fInzosggC-W4Nv4vBl54MBRMeA=s0",
+				"name": "Voltorb",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/mTfXHA8XqhDla81ADPWX2KFpzvEDSN-euPZLq9tqqH_GH1kiMf-g6JWj0XMfO8ywjnSl6QHyQKMJI2zNqWqKVdt1MmH5TwvjgOmm4mKdQanZJsg=s0",
+				"name": "Chinchou",
+				"types": ["Water", "Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CL3ERdEsmZhRhXu3rx2CRx6FSyHFvP7iDNbg9tIEAaS455NyP5p7iYzDA9bqbHMrypyt1EAZ__uL2vfCWKP4ZyB1QJvvMHwOYJMFP3UIprXQ2w=s0",
+				"name": "Mareep",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/lGvxaXN3ugEwzG8qjITfjL49Qtla5Uf6SJOwrbbpKvnzlN59PKHMW7lryILsF96amRuZwSrYnxZHlk_KW5WlD-ZNudMSs_DP2K-3RKeZ2N2R_Q=s0",
+				"name": "Slugma",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/tk21QvVktwqBseSR4330FaS-d57mhE4pkdmeNK1mbHUn6b-hMH96vt5D2dspQyTH0AKn7Rg-pYPXkyWUKQhsYoPPZvqI0DaO7NM8enb7srYkV1c=s0",
+				"name": "Electrike",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/V0U0CmjxK2BA0EXe3ImbH7Rb3Sxm975B_6z5GIYsjOtywtNBQSbdDhHmFR7HJGcqdEAHuCSmF53g0VDuivZ89ojv9GTEw9js1Tpb53iPWRs1eOU=s0",
+				"name": "Litwick",
+				"types": ["Ghost", "Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/7hJjnSW9kXAf0Iply1BWRhRM-6cA6RZVGPd5WAvBkBE5RVSqtYSwlHlsn4P-Ik1C_NZLuhzGqYBfSicRSTfB1CxL4yZXO4mXAI4yZQTnXz-ffLc=s0",
+				"name": "Morelull",
+				"types": ["Grass", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/KbFnHEd5Brpnx3TyHYuyZd_WmoFVfeWpQVDhIL_2PJnoijxPmUUtnB0xLkdQxAOTnsuqKbJz2Hz4Nu-_KR1JQR8okjpIbSlTAWzvK2BQi4rRpDY=s0",
+				"name": "Tadbulb",
+				"types": ["Electric"]
+			}
+		]
 	}
 ]
