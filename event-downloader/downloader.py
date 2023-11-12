@@ -37,7 +37,7 @@ def find_all_wild_encounters(
 
 
 def get_pokemon_types(pokemon_name):
-    URL = f"https://pokeapi.co/api/v2/pokemon/{pokemon_name.lower()}/"
+    URL = f"https://pokeapi.co/api/v2/pokemon/{pokemon_name.lower().split(' ')[0]}/"
     response = requests.get(URL)
     if not response.ok:
         print(f"No types found for {pokemon_name}!\n")
