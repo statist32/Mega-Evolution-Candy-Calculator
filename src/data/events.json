@@ -1689,5 +1689,66 @@
 				"types": ["Electric"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#a5dce9",
+		"endDate": "19.11.2023",
+		"name": "Fashion Week 2023",
+		"startDate": "15.11.2023",
+		"textColor": "#a88dd1",
+		"tileBackgroundColor": "#a88dd1",
+		"tileTextColor": "#a5dce9",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hNBWb9OSB25pfmVh-F03pl7PjJq_98mtc1GCFEhkf5gQB1HzchHG2fhVNtG7B99nuG5LX1jnHRQmxR3dgCZaKFZYnyPjEXK6iVDs4Z8AZtWn5nI=s0",
+				"name": "Pikachu with summer flair",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/20PDB07jLeysGcWljDoXHI7w6BEfXfdO9dqWfq0R8n3lShat_iGXFg2HzkvXIcSpE6_ArvrkAxykU3KoSXG1dKu9wNOsUPIBOi7wLZAOklJy0Q=s0",
+				"name": "Diglett wearing a fashionable costume",
+				"types": ["Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/xk3WQMPQ45SHP3QimkSQ2V4HvQ3di6D_q1-YDBJd2iGdVAYsL2-o2KzLaZE6XfyOVE5NCiqkBbF16XbBwCsBkz-yRxSNumEvLRXIr4w4KLYOLA=s0",
+				"name": "Wooper wearing a fashionable costume",
+				"types": ["Water", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/O0o2na17v4mOXHaznaMg6YgrejUs_ctfN17E3uM_KLnxUlJnNsHDE1VrZP48rVKwcPYyG7HennzQbNsxp_E4AWYkbGx6EvhR7Bx-xWcKcjmspVI=s0",
+				"name": "Croagunk wearing a fashionable costume",
+				"types": ["Poison", "Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/LQZtZeHL_6djiF8gLKD6-nX2q937ifX9FukjbGpV6mRgVrtNreV0X2mBf6H2GzlDUoHs957U8Ad6C9CR5QumYpXAQDeCDhbVseEpLHTRad4AWA=s0",
+				"name": "Gothita",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/9deIHy3HrrtdLqsUNC1AbVLEiRzN08rEuuqcbpwTqDK4ri9iznex387FC_M2ayNjudpkB7Jz0t6jbyVr-zUeNCTwlcN8wqibtdQ5n6Ksv5sn6w=s0",
+				"name": "Frillish",
+				"types": ["Water", "Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/joTfyGf-rwQcBOl0_seQ7BfnR7BovsSh3KAXFqGk004oo0U8iUDdkmLbTxRC_DBEYezB9ruOHNVkygezSh2xGR04gOu8Y1VqOJjIXsDm0syKYIk=s0",
+				"name": "Furfrou",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/OfAg36OMqzOd2oLAxS1h3Y1-eH_sCMckrcT1DOyyIA0CnlzEQjRMT01CcFolxMkWFzCUoe4kEEAbeWqCDuiqivb-DFfaino87R_VpXRWdl_ubw=s0",
+				"name": "Mareanie",
+				"types": ["Poison", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/WfsO4eD2DbXcCXycziEXE85WdYmXYDcB4HK2RiGW73AUY3XuyNzLNoclHXoFxn13lCT170iesgXBiA_qC4OnP1la8QLsfOgGhJdff8fPw5UEdw=s0",
+				"name": "Absol wearing a fashionable costume",
+				"types": ["Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qaxbHuomi8868KRjaNuIEWzB9dCegEZpjuUe-DR7f7c57pLlfMJqZlpN3gDqnsx3jgvE_v_7LISV-YfvV8e-C-sJR1M1T8Zz08KWPEaZuIKReA=s0",
+				"name": "Frillish",
+				"types": ["Water", "Ghost"]
+			}
+		]
 	}
 ]
