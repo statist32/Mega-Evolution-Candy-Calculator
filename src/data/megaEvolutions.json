@@ -232,5 +232,11 @@
 		"imgUrl": "https://lh3.googleusercontent.com/_0zSb5KbmRAWep5LH8LiqZwk5brYq5wwbTuQuoigSh89qXQkTay-TO66x8yq6s1Gi2EMeiRA01o5M2drv5rYwHnlBxZRc1oAP6vls7cYme1dgQ=s0",
 		"name": "Mega Lopunny",
 		"boostedTypes": ["Normal", "Fighting"]
+	},
+	{
+		"types": ["Ground", "Dragon"],
+		"imgUrl": "https://lh3.googleusercontent.com/kguRlBpcLZOujnhMgYTgSjdYj8noxHAfFHKTdIDeRUvA90zwkfkA-DmI6ZN_FMUpYL-5hvgjBuSkVuXkZTRb-Z3uBt0tf1PDWn03fD8ILTJH=s0",
+		"name": "Mega Garchomp",
+		"boostedTypes": ["Ground", "Dragon"]
 	}
 ]
