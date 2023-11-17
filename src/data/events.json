@@ -1750,5 +1750,71 @@
 				"types": ["Water", "Ghost"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#a5dce9",
+		"endDate": "27.11.2023",
+		"name": "Party Up!",
+		"startDate": "22.11.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#a88dd1",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/LQZtZeHL_6djiF8gLKD6-nX2q937ifX9FukjbGpV6mRgVrtNreV0X2mBf6H2GzlDUoHs957U8Ad6C9CR5QumYpXAQDeCDhbVseEpLHTRad4AWA=s0",
+				"name": "Gothita",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1I68ck0OHOgkt-KW3VC-94RcJ5OFMYB7RYfI9Zz38CE39xT-73M1DjbSHNg-7FCJJ4o5j1svssjx8DU7bm1CM28_52BdTBs-hWRQKsvBH7ZawF0=s0",
+				"name": "Solosis",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/cjgkEj1Ns7UgDuwYNczEI6ylBb6xU8EdzBCQEdNOj4UZq8cisdqmYpl3NRqrv7MqXN8hXnXiqs6ayWPvjxQsaAh8aj2Wzl_R-saHkPOg6saS=s0",
+				"name": "Morelull",
+				"types": ["Grass", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/si06Nmk-AmyqjqOkzk7yxQefuLQ_e6U4vyJ-Qg0u3RgZ8FTFAVIPmnpyBxG-MVokMoMfCIuJKJb9E2UZ_a_jZhmiKRUPKdn-s_yz3PRvAjkSfA=s0",
+				"name": "Sprigatito",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/LRhCMfteCSOSOBSrHkElFNxHQnWJRRFX-e7KPqAV_D1newIzhUY67ExQiiMReyO8Rreo1skdZEsP1twqd-pl2T4zBUd01OTKpRj2MqP3_42I=s0",
+				"name": "Fuecoco",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/93bQNK2m4VcmR36CbwUj68VDcFfTdwmJEMyBcXful9KgpTUZlaeXrlRsZZltOQaf6QKhzgGQsteqvS5HyRqo27IUjIcTAlQUg2YOpX7CID9h=s0",
+				"name": "Quaxly",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8TSSrNLeUB7t-XSMxLRWRgYeh-fyw--W6izKtZ56fZzPWKZSsjcgUDojEP7ESRsIxallepUQJCtimnxEYwfqXCy0GS02L7vFydCibLxmqTr7_Q=s0",
+				"name": "Lechonk",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VpOgWScliQj6NYpSYYIS5PZj6yjaLZewD3Lvs58H1THTzCpvm9mGre1hLd7dgbzkIPj4gSDHnYiBs93e3jMYTMosIEuE8LC9Z9VrnnmCA4Zh=s0",
+				"name": "Nymble",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/4T1HByalmTgWMwhNUkBNbMNdj21GiN8dJ67VJoTk-l1n0kzKhjKr7CovK3iOz310cjsgTL0bmgDwpxleEO1TZ702ZUCulALVZBdHLr_fcRMnpw=s0",
+				"name": "Pawmi",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/jotryW2Dswm_tYaGvVnlCtD45xv9upvuyGums7u3sBkvzh7AGJ0o99Ge3jqmrTTVdtJpLthLDYtFbnVuWlN1CuhIpoJy2OguVj00nxdsgfA-Vw=s0",
+				"name": "Smoliv",
+				"types": ["Grass", "Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/JKgHcN63nxWcGc7jxKu0_zAXYZSVUvM3XLbp2pmeJ-oMNOQcAsUh1B-eNZJvR9SzX2Js8b4JgsXl8_QHTUK3jhEn4xiWaXNWzaBSQNIb0bkM-c8=s0",
+				"name": "Tadbulb",
+				"types": ["Electric"]
+			}
+		]
 	}
 ]
