@@ -1816,5 +1816,184 @@
 				"types": ["Electric"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#446281",
+		"endDate": "08.12.2023",
+		"name": "Along the Routes",
+		"startDate": "05.12.2023",
+		"textColor": "#FFFFFF",
+		"tileBackgroundColor": "#FFF8E1",
+		"tileTextColor": "#636363",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/l7fPj4U8bNgI6Z-Qe2A5qa4qonbVxFz-MCiuA6V3_bgYnsrjdSooc3XiIr3rDrBkv-LYKMsUxPxNh20OWDE_GDvfWsg875Sx0vKnqGGt9Uz59A=s0",
+				"name": "Slugma",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3F1yFSa0m4zScPz_XtowAf_Tznxv0KGkK1MnOP6Gazu6L4HPOFXibE7igST8gRxaPYNvvvz4OAx3w1ZLpq8OiQOzh1STXTXvdD_6DxFatxK5=s0",
+				"name": "Hitmontop",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fsjJB5r4a8N2gB4hMWYipvb26G_GvTKZQzr0AJWaf7Q3F9F7XWvYzU6U2Eri7sttNu-oTrYfFW4s10R5jHSK5ttci56u0_GqOyujmqdM-ajfhw=s0",
+				"name": "Spoink",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/e1BnsWv9IvAVeDj19beOose_Q3Ou_MjZf0nJNc586uDtkMfz1Nuo99_3c7rSV58zHPvG2G-kQKfwK0yaxDq24_eTIWLz-CitOgMTLd_yAfxiWA=s0",
+				"name": "Feebas",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/khWLucxB1JBJCmdytSW-I0NkfX43mmvtxMdLQqerseZNFqqibhjV-WO5vWGNAtufYPUBTRi62XRtCG9X0hdM84yHUcRv1YzOREqT7bpsKWcZ_w=s0",
+				"name": "Lillipup",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2Ah9UbVFUs3YKyU5WJe6XmiC8ByEzgeHdUhaO27EUTIB9EAU54oOJCKy6QpNGPnE_uq4rWqqkyJXBfEgO0HYamcKEKAyhwnHscyCBT-MQsnZ=s0",
+				"name": "Woobat",
+				"types": ["Psychic", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NBmst7nvzpAMzw30X-VZYafVrDyJmzMue9AgwqDE3IVAQgzO-ow90o4n7m8q478MOpTZZype7uqF3olyEFD6lkfYMX4eyrMDkSX0NppKlgJZ=s0",
+				"name": "Emolga",
+				"types": ["Electric", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/C4T81hG6xKbofnEUuiQtPRVsjqpo-QkjaFjs9uETdlRboN-W4bg7WX-krfKiPh9dwFirZCkvjZmCK3IyHOasej4b9Bu7PyE7ReKIai_pXQjtSA=s0",
+				"name": "Wooloo",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/q9l1BM28KpM6-8baOnmMYAmJP_lDpgE-11SS4jHmYR00igRsbk4h0GoPXrKQc15-3mzQKwS6FNQNoW8O7hfiXxk3UGZx9RZ34pJaZwRkWEUEVFI=s0",
+				"name": "Pawmi",
+				"types": ["Electric"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ECDEC0",
+		"endDate": "16.12.2023",
+		"name": "Community Day December - Saturday",
+		"startDate": "16.12.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#EAEAEA",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Neyplm4QY7hQFDS0uynUNyLxdyrexn7pPYGdKfBIgSIU-F0QwVZKg99VFNoHycjeifZgxUrLROtfJXQgbGkcGqb6eSDVhalq6y57t-zGQwqi=s0",
+				"name": "Slowpoke",
+				"types": ["Water", "Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/DdqsD9xoBD4EoaodmaxH-CuewHTiiA9NpqFCKS9GTCP7ma4iO77UG6Vyp8DoeRQAyTFlCf3jmvGig35A9FtB0kyEjDz9eUDtDWZY4tpovy-PFg=s0",
+				"name": "Galarian Slowpoke",
+				"types": ["Psychic"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/QzhBzE8X8mX4kyoxU5DQvXQf-rRIFujMFIgD6ebYJC1H-vB9VomDewPYvSj6_Dmb-aUkNEZWz6TlA8lYOx0Di_826nX8KwMynnv-PEcyz5PEBQ=s0",
+				"name": "Togetic",
+				"types": ["Fairy", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/rJbcoryHCe2eakXXkityidhBzomVniuhnTvsdjUExNa-789K5a0xXM1AmOTHn0GjPbAb2mJPb1YhW8rvwYQm1LZEMoIx83QqH0igquxSjxx0fQ=s0",
+				"name": "Chespin",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/rWru03_ENNreyEMo_ZIOyphJy3RfH-XBQHQgMvjl4NR73j9JK3FX-F91JZmcTMhlXnYNGdQNLkGczaJsDViLWEGWMfNbwOAV7jQ1ZLdsX8qkFA=s0",
+				"name": "Fennekin",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bo-4tY8iSLXlyA_em7ZhUnFhHHefk1LSbhtkGTa8-HBNLyXPwdWFwemGK4j-M1HWSE-u2EaqcQqdUFxle8U7sFe1tSNAsbKxLXrNNODgPnGTNA=s0",
+				"name": "Noibat",
+				"types": ["Flying", "Dragon"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ECDEC0",
+		"endDate": "17.12.2023",
+		"name": "Community Day December - Sunday",
+		"startDate": "17.12.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#EAEAEA",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/3OM0DYzROFD63119YrYk2qfgQWJrKs67jysCiQ2_e9Sb-Joe181mIYMlQqBbIrRgUv4I9Spbp2_LCkjfsOWCpwGQSg4vSrtTfnVwfffshSDXxg=s0",
+				"name": "Poliwag",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/4R-345gFVMK_Bcmf7FgEpaHsHb2T-r9VPPppneN3NYiorSSRylVJiUyA1QLvzCG_5u9XlM-QRl7pHBoGfPeHoj8wNNzqM35LKWxi9QAQ-tdy-g=s0",
+				"name": "Wooper",
+				"types": ["Water", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/T-hrSmm8W-j7F-Gg-ixogfoj0Us8ALDc-quKhHjRp0npUyqqTC9OrSUHBtJs53HywIwr6Iwd4wFvOzt2s8aehHMbeuxGdFLxjgACdzMZCl7P_EE=s0",
+				"name": "Paldean Wooper",
+				"types": ["Poison", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vGUG3baAPiDlM1f1G3vW3SzeWZ0OU8PTUuEiE2FZThJKuWOhe060DjYZhcKoGcNLe5elaGsb275EhxYLWFo8jTNyPBKvM18WZJgKdEE3ip0K=s0",
+				"name": "Timburr",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/QIqN0KxarmyWxdBXO7jdW4TcgzgCO_NyQWbrzy9v6LhXKvlgFE4huYvNBpP9FrFO_ORJV-Wyp26zQnGbSj0hhmIGNaaoXQOWuSWokrLcoCaG4Q=s0",
+				"name": "Axew",
+				"types": ["Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/mYD8qHZs5NUOUfsBUbmxqNSIw4TfBI-ujmQv1Jjd5C9FAMjlNyKJbPjqqC8Z8IG3Sz-W9-XLFJ4ft79s4KRbEX5oKA7Ynl5NeueYMHi8p-JQ=s0",
+				"name": "Froakie",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/GYcU5fasScIKE2KdEv_gwCYD74SVPb9LrvL2U6sJ8x5X9LxHZkR-si1u8AmO029S8qYxIsgf_DoMDuiim27rNMijb6WVpzpniTxuJzofal6-=s0",
+				"name": "Grubbin",
+				"types": ["Bug"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ECDEC0",
+		"endDate": "16.12.2023",
+		"name": "Community Day December - Classics",
+		"startDate": "17.12.2023",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#EAEAEA",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qASc3oh8pMVkFHy7xSPDbt3324OSG7GhaOqsA-ZcJio8i0nlWXqw2ocqibNCqU07fpgyXfQLPFAbwovYCpVEDG6Hvys2BD22sVXTzCd_CqMb3g=s0",
+				"name": "Charmander",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/cC9yW5QuKgVVF-iuCkudkgJSAVgaBT7d1En_glzqmlcdYikZxXEfMj-bApAkVUCKa_qA15faNfmtwy_L4UMKhRF4BbE41psxQdCc4boLuzQA6w=s0",
+				"name": "Squirtle",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/a3yjP43as3rg2A9l3pkTmXOJo5Rf-02ef8s6xUaIVGbomLiL572P37QPyXMFw9fFw2GufT0YVvJkx4mdNTL4cqS4azhS_H1I5ZaCWiJUhxx03g=s0",
+				"name": "Mareep",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/-CKpHaCc7StvPyfotMujDxe2xBusRAVT-ZVFQMIxNFnlx_Fp0BXKZUvZ4JrFaagaYabSO3whKS4ih-HLmicuQ-ZbyP6-DGxR0_Lan1IMYSPa=s0",
+				"name": "Swinub",
+				"types": ["Ice", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/mmTHTDf1Hj7u0mvawTeCcG5Kxi-s41nFenAs8ATJNcxodpDl-ZnnbysqWk0k67ex3qmCZTZnBerXbc2t3fX0f8AtLoohoG7aW_ByhISmmGAtrDs=s0",
+				"name": "Larvitar",
+				"types": ["Rock", "Ground"]
+			}
+		]
 	}
 ]
