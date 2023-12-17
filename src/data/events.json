@@ -1995,5 +1995,182 @@
 				"types": ["Rock", "Ground"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#6d6a9e",
+		"endDate": "31.12.2023",
+		"name": "Winter Holiday Part 2",
+		"startDate": "25.12.2023",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#ffffff",
+		"tileTextColor": "#6d6a9e",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/lJHI0QVtqr5L6fM9RxpmVrK-G3k9RBWs6YEPgoEGcSJJLniTb7UXOVz5yAC5uLS0XJJ_qKXw0uPk0qxo9HSirG_W-3vmlEsTQ8sdLpsCkgQKCA=s0",
+				"name": "Pikachu wearing holiday attire",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/GJ9xnJC0Kw-4ngkPAotDD3xEIUdK1vg2eJtHPaZzAfvTQ0GrQoGdfXADRmCIWi4QBr5c-8poxntgm1AROVQT7jXzDrtSu2qG-1psBZddO4tI=s0",
+				"name": "Alolan Vulpix",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/eCWIczE4Cuj_ETjfzWq4kLXaHynhW45ZiWet5DyD3DWFRGir3mf8j1M01MInnMFzZDbdYr0wFLLBJqBgB7NjZAIr_9zAM9cyhO_ObGc0de54kyI=s0",
+				"name": "Psyduck wearing holiday attire",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1FU3JRNBHwnMPyns3RTE-oR8wqImK1Rieuf8PUanKY1wy9QaXJaVx_EK-P4c0w6OlLbVL3I91mdVrqEqy3XDE7JZE74ZUBUVSE0AEWpCq8n-RA=s0",
+				"name": "Seel",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vRkVJ-z5_0VI8QBNAzOcMQK8VnqgfOMAPuzngnbmtN8PoWhj9nnZc-h-xrGmm6Jd61IJKhEHIn9kxU-kt06ke65crp2QtAy-MdxsWYuXkZ6omg=s0",
+				"name": "Eevee wearing a holiday hat",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Ha8BjRdU5Ud499ZvswytD2lUNH5mw3ZQfH54SIwVWMv1Ws7qGLvMN-uZbR_TwfndIDx1n8B4m7x9-SNMW86RoCvbOmr6-_SPrCs0AtddPCJ7fNI=s0",
+				"name": "Swinub",
+				"types": ["Ice", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ZYUvSXajDFCa0PNSnPZWbXSE9Q6pOKLB6UXpM4PR7Cx_N4LOTQpdxUjM5qsX3Hp4K74yTYDc0qOQsQhFim87HBqq-8IRCkHjgNmV5ZIOzxJ0w-4=s0",
+				"name": "Delibird wearing a holiday ribbon",
+				"types": ["Ice", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bSmAgldjMvG7V47tqZYnsqqwFX27WDGYx-M_LsQ-FffW8AWTSkPIl9taxaZXx1JFY1ARW4kEa_8A8JXPLhI5nZl3ufpy19byonRl4jqS4m8-zA=s0",
+				"name": "Snorunt",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/m4PEYyBOGfTGmNh56qsDhl7IY2gc0dsSqkXhvqXUOBXAMJ54B1YOJG4JQFGgqWaMji6OtLym6LlbD4HfgXmca-mtQQ9FGWRa7dvrhROwrSgZWA=s0",
+				"name": "Spheal",
+				"types": ["Ice", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CDimUeL2b77cnA__3Doo95EcPZq_xpz-lv77HlyNSG-dakhWotATFUyOssO8iIJMlJPHIgY_dExnrZI-fx46mTiODdU0ZhJFo7vUnzhIILUhKA=s0",
+				"name": "Galarian Darumaka",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bQsEi_nOcLok4-Y9FrEXrIX5ILkM7w4GDG51ElRSJRDw8H6tnPE1pVeJ60JujQ2NH1U2vPTDd2Whni6lyXv3g-qlQ4X_1Wl5X9g3KNcW-_Ji5g=s0",
+				"name": "Vanillite",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/yVPIIL3Ny8MpWkfCY500m6aL5189Vbh7Pd0V_EwcCCI1MEBirEA2sOCetLO2ORT_P-vPcvAQAyraFOmMR_oFxLVzWEm7w3kBf2JzBZChaCwuPQ=s0",
+				"name": "Cubchoo wearing a holiday ribbon",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/JuckdRW-mj5mVQytbyNZ0VC759pTip4Z2Nq3b0pAqa21SQHToCD7rdChJY3k891i-w5OYL5GikQj5JmvYF2BMhEjyS_FTOhuiG_k5Ie6rltO=s0",
+				"name": "Cryogonal",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/nZViYbSV9KiAzojhJ-6wLhAaoLck792KKlzLWnmVec2RyHLyF8QFohU82o8whQYMdvCJ1LT6UXyiREt_ELc0gVn3EAUwArifxMJdSFyU3wTmaw=s0",
+				"name": "Cetoddle",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Kc9DhGU04LRzlQSEmyDD1gx5ZMoi1DyzEjyIvAyT03pntg9QTkBsSfoQ-8zi27-8hXWjOTjN_4V1ulw-cZuPcMRQRs8qjYYnI098m2KndoMCZA=s0",
+				"name": "Sneasel",
+				"types": ["Dark", "Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/l5tAfOW-vJxOVGuKB2Hg4G6W6NPj8zoAXzqFfNCoMTqXuaYzIcYgg_cZEfZBIF_SbBJi_r4ncWXMWWS6yTqO-X1tNOKaUIYiGj_V_U8ZeLjL=s0",
+				"name": "Piloswine",
+				"types": ["Ice", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VMVWkmgdEFHUCipGiRncaM8YAvCL0KDP5tJPQPL40gf3Td9Q2gdlVRo545aCuMRibQnbnUAxAonFG2COMB-I7uX7sw08U9pMe_N08zk9Pb70Zg=s0",
+				"name": "Amaura",
+				"types": ["Rock", "Ice"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#567ac5",
+		"endDate": "25.12.2023",
+		"name": "Winter Holiday Part 1",
+		"startDate": "18.12.2023",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#ffffff",
+		"tileTextColor": "#567ac5",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NQTopkdj5wnr5bTZA6Bf5pfbiQiu9kYGYVZvmVm8mCKADyGQQcwjTA3umxYVMMci1x578zHftfCqTmAvStVysBt8QU-0E4XsXfL-Q-NvwDUvdQ0=s0",
+				"name": "Pikachu wearing holiday attire",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/U41OHAcNMKHDeJXn5m69VmGzPFAnDcfrwdmRoe2h7rCmIvf0zfFSjBI9GeLvujBJwLyb94iVX-k18Zfq-7rMIBoxGPXJMD0QkC-L4sVSUah0_VY=s0",
+				"name": "Alolan Sandshrew",
+				"types": ["Ice", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1FU3JRNBHwnMPyns3RTE-oR8wqImK1Rieuf8PUanKY1wy9QaXJaVx_EK-P4c0w6OlLbVL3I91mdVrqEqy3XDE7JZE74ZUBUVSE0AEWpCq8n-RA=s0",
+				"name": "Seel",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vRkVJ-z5_0VI8QBNAzOcMQK8VnqgfOMAPuzngnbmtN8PoWhj9nnZc-h-xrGmm6Jd61IJKhEHIn9kxU-kt06ke65crp2QtAy-MdxsWYuXkZ6omg=s0",
+				"name": "Eevee wearing a holiday hat",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Ha8BjRdU5Ud499ZvswytD2lUNH5mw3ZQfH54SIwVWMv1Ws7qGLvMN-uZbR_TwfndIDx1n8B4m7x9-SNMW86RoCvbOmr6-_SPrCs0AtddPCJ7fNI=s0",
+				"name": "Swinub",
+				"types": ["Ice", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/oQkpiorVm_THItBrBcD1rxE-fdTC68AADSLrn0xHDAcpCkIJZTbhrJdujgadKbxaBo2iq8lmP2_IGsGdsh9ULJCCFmLTRItHyv_ibDb1Inmj=s0",
+				"name": "Stantler wearing a holiday outfit",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/qu3Cz88m5NVAzlfD6zQlwc15QG-RIdLsi8v9cXkQ1c9aHsTg4QUim9Hz4RQGNCtEKvXsYkWGTkSy-e92vRRLRKVlSmQ9iHP5RnbmwAYut8WI0Q=s0",
+				"name": "Spheal wearing a holiday scarf",
+				"types": ["Ice", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CDimUeL2b77cnA__3Doo95EcPZq_xpz-lv77HlyNSG-dakhWotATFUyOssO8iIJMlJPHIgY_dExnrZI-fx46mTiODdU0ZhJFo7vUnzhIILUhKA=s0",
+				"name": "Galarian Darumaka",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6bA9tW0slo_KHjy2AQwCacR5MXwZpZ9ObT7M4CGDxRwoy2B5zvadiAZkgG_E4bJTQOv4Q8vQkNW68nnOZJSaPKUM6itqpYk4v64vQHRAI3A16g=s0",
+				"name": "Cryogonal",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/OXWUTSjy6Tk3ZajyjU-vItI96j1HSohgKTsgB1edhd3QpsZj8ITUhaPBUYp7rD3Wc56rtktBpJVsZ1k7q105_KJycnrzcqnVi4w9EFFe2WL7Bw=s0",
+				"name": "Bergmite",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/PgpHCmjJUyevj52VDhPVzudJ-YhHfkJ9ViCLQQI5D4XAlprf6URNoIlosgIx0v30y1Pa5Nq7rnNdtIipVm_s6BtcrWShLVuf5r-HhiHjWWVrUQ=s0",
+				"name": "Cetoddle",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Kc9DhGU04LRzlQSEmyDD1gx5ZMoi1DyzEjyIvAyT03pntg9QTkBsSfoQ-8zi27-8hXWjOTjN_4V1ulw-cZuPcMRQRs8qjYYnI098m2KndoMCZA=s0",
+				"name": "Sneasel",
+				"types": ["Dark", "Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/l5tAfOW-vJxOVGuKB2Hg4G6W6NPj8zoAXzqFfNCoMTqXuaYzIcYgg_cZEfZBIF_SbBJi_r4ncWXMWWS6yTqO-X1tNOKaUIYiGj_V_U8ZeLjL=s0",
+				"name": "Piloswine",
+				"types": ["Ice", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VMVWkmgdEFHUCipGiRncaM8YAvCL0KDP5tJPQPL40gf3Td9Q2gdlVRo545aCuMRibQnbnUAxAonFG2COMB-I7uX7sw08U9pMe_N08zk9Pb70Zg=s0",
+				"name": "Amaura",
+				"types": ["Rock", "Ice"]
+			}
+		]
 	}
 ]
