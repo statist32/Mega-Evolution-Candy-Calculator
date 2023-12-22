@@ -2172,5 +2172,36 @@
 				"types": ["Rock", "Ice"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#300750",
+		"endDate": "03.01.2024",
+		"name": "Pokémon GO New Year’s 2024",
+		"startDate": "01.12.2024",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#cb86bb",
+		"tileTextColor": "#ffffff",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/xGFxIDhVZRRj2nSWN-6wurtEnI7DrydALaXK8aWCF7jP6LSKp6mY2_aAagAL_1NvPL3-Bel6_3AdH9an3js4QYAAGUbrhx_i1VmXBuIAlhNktg=s0",
+				"name": "Jigglypuff wearing a ribbon",
+				"types": ["Normal", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/XcdiWZpKT0_msYVJdqQi1EE6jCVkrdYDY2PooEXBHN6JnPNGfPNmVjaYDIKKGG1qNFdp9SwV609hp_B1V7EhRbtxVBUvjL5b5lRs-qZFitXanmc=s0",
+				"name": "Hoothoot wearing a New Year’s outfit",
+				"types": ["Normal", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HMhF9IiWSvWi5NcxlVJou9-zEW410VEvW0xKyCxahw2tGEsUfwhA1j9a5TFY-95QGfHnAJKN5sDGyusI9N7VdR8g9jZJb7k-R986_xcaQ3Mt=s0",
+				"name": "Darumaka",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/rBf_Jp09MDbrLu0A4UtzlSbYfECnhGyv4fU7IIFOKM-DxivkK_EXl8tovDrYIaeDliMUM4p0BDxWLdE6HE7TI1k80BZPyPBYtckPnxpYzGxF=s0",
+				"name": "Bronzor",
+				"types": ["Steel", "Psychic"]
+			}
+		]
 	}
 ]
