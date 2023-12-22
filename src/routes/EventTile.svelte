@@ -12,6 +12,9 @@
 	function handleMegaClicked(event) {
 		boostedTypes = event.detail.types;
 	}
+	const startDate = new Date(Date.parse(event.startDate)).toDateString()
+	const endDate = new Date(Date.parse(event.endDate)).toDateString()
+
 </script>
 
 <section
@@ -21,8 +24,8 @@
 	<div class="general-event-information">
 		<h2>{event.name}</h2>
 		<div class="event-dates">
-			<h3>Starting: {event.startDate}</h3>
-			<h3>Ending: {event.endDate}</h3>
+			<h3>Starting: {startDate}</h3>
+			<h3>Ending: {endDate}</h3>
 		</div>
 	</div>
 	{#if showRankingAndEncounters}

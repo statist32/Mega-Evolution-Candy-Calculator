@@ -8,27 +8,27 @@
 	}
 
 	function compareEventDateString(a, b, order = 1) {
-		const aUTC = Date.UTC(...a.startDate.split('.').reverse());
-		const bUTC = Date.UTC(...b.startDate.split('.').reverse());
+		const aUTC = Date.parse(a.startDate);
+		const bUTC = Date.parse(b.startDate);
 		return order * (aUTC - bUTC);
 	}
-	function getCurrentUTCDate() {
-		return Date.UTC(new Date().getFullYear(), new Date().getMonth() + 1, new Date().getDate());
+	function getCurrentDate() {
+		return new Date();
 	}
 	function isCurrentEvent(event) {
-		const startDate = Date.UTC(...event.startDate.split('.').reverse());
-		const endDate = Date.UTC(...event.endDate.split('.').reverse());
-		const currentDate = getCurrentUTCDate();
+		const startDate = Date.parse(event.startDate);
+		const endDate = Date.parse(event.endDate);
+		const currentDate = getCurrentDate();
 		return startDate <= currentDate && currentDate <= endDate;
 	}
 	function isFutureEvent(event) {
-		const startDate = Date.UTC(...event.startDate.split('.').reverse());
-		const currentDate = getCurrentUTCDate();
+		const startDate = Date.parse(event.startDate);
+		const currentDate = getCurrentDate();
 		return startDate > currentDate;
 	}
 	function isPastEvent(event) {
-		const endDate = Date.UTC(...event.endDate.split('.').reverse());
-		const currentDate = getCurrentUTCDate();
+		const endDate = Date.parse(event.endDate);
+		const currentDate = getCurrentDate();
 		return endDate < currentDate;
 	}
 	const currentEvents = events
