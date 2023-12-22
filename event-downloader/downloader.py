@@ -85,13 +85,16 @@ def get_colors(soup):
     }
 
 
+def find_event_name(soup):
+    return soup.find_all(class_="ContainerBlock__headline")[0].text.strip()
+
 def get_event(soup):
     container = get_wild_encounters_container(soup)
     wild_encounters = find_all_wild_encounters(container)
     combined_wild_encounters = combine_website_and_api_data(wild_encounters)
     colors = get_colors(soup)
     event = dict(wildEncounters=combined_wild_encounters, **colors)
-    event["name"] = "TODO"
+    event["name"] = find_event_name(soup)
     event["startDate"] = "TODO"
     event["endDate"] = "TODO"
 
