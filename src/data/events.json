@@ -2203,5 +2203,96 @@
 				"types": ["Steel", "Psychic"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#EEDC9DFF",
+		"endDate": "2024-01-16T20:00:00",
+		"name": "Dazzling Dream",
+		"startDate": "2024-01-13T10:00:00",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#c65452",
+		"tileTextColor": "#ffffff",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/oFPtj346EpC3hXsBeK9mGdI-r2B7feZ45fV_gL81GiLDPyq7Qe992Z6olYlfXSS3OQ4t9o_xAu49Ckpy8W0J_wSw1IeCbXRbtLg05k83rTe18FU=s0",
+				"name": "Clefairy",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/IN2nAFrcbQFUmSRUmIdvmWTqsg_vTmlevY5PXGkSUcz0kOzY7SEedZqzE_N3ON_SFy1r40FyXY0MOYn7iv8qE_T2ki_8Mgr-l81t789dflF7FQ=s0",
+				"name": "Jigglypuff",
+				"types": ["Normal", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/gZKMBDJk8HV96yx1CY--7h--DKthluPRv7Rqugxx5fL2PemfHAoTguiZXqrJKXEyJkHys768g47hHQS6qOP9z0P3S-4A9QAdbmUqApar0k7wt6Y=s0",
+				"name": "Marill",
+				"types": ["Water", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Fc4ci-qgf7jcMremBUbifzqagnqQHKHk0FCM7iY2iLL7DjQZ0wiP_dQpAwjTms-QSl2-eMzxw1wxpthedXP1rPUTC8Dh2ZImHy8eVHCbGkOc=s0",
+				"name": "Snubbull",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/WRY4cx0AcELzonb4CdrZ5gR90Km0gn9uccQw68M-MlhFhCn9xGjAeAwHt_IqopWn_7C73sRTal5pT00_5GckAezKakk5x8bzrtbqNSZRIVn0yvk=s0",
+				"name": "Cottonee",
+				"types": ["Grass", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hENWTBc11igOWN-FQ9SwskN6PvOUsgAOvfZ13LOM278I30EouXKghNhf5LeiY5cvzfG4QfflOic_0gxL8v3jfsBwSUp6kAjqWIlUjIIWo8hgNA=s0",
+				"name": "Red Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/SHux8kpBcIsGUE4lWmCCABi7DUGFIo0fqTgodwRUELE2n0Euf-RwdlfMyy6HwHVe_yyp17HY-RIzySPPAXdfdnDzuOp-eAYRX3qXC46u2unR=s0",
+				"name": "Blue Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Yq-A_SNZucHbFqP7W3b08HQbyJpRIarCmZlJeAtlhyNLr-0nbQUyY-1P0UiY2m0oTkKqahSFwUuO2UKbQdNpNQPDdzGYYIZ88oAfWEljLwp5gFg=s0",
+				"name": "Yellow Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/MYge-IZW8mOnB6JOs8GEWy5OXRdyBAOHTa85-TYCTD2ATi8uREpqNDmgkdZuXZ6OJwtf5M7HJQiJOU5jyP89gsVjtjqRpQ1JBSXL5mRfLXxA=s0",
+				"name": "Spritzee",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/wLEqQkYR4XlHzKrD9aYcarohACrPhRwR54OMufA5715r6UB94x4OPzUyM3qimoTpOuslbn-L2BBUjxomi2caXEhJcxnPzqoMglMHyY8ob297=s0",
+				"name": "Swirlix",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VgZzZCrnApgZ0NdGwDnUkuCoFdzoLY7I_faO_OvSetYXblHvYfp_HcAe-0hu9X-zbML0niDvn6T6Ku_P2aCiRlPz3Faz2N8lGNR00TT-ypRMTu8=s0",
+				"name": "Dedenne",
+				"types": ["Electric", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6avxy70osFox9FhXGdXCphonH7X-FksH19DVCDmKa26kK7Z-ri8zbex6mrpUAP58qfdkjF2sBCGA0-re2IN6o5jL1fxRs9Ne-mfQs5MYqFCj=s0",
+				"name": "Cutiefly",
+				"types": ["Bug", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/9XuO4wKUhrngJujz37mPRq5i8UKEbRs9b2xdF4VjWToWCctP4ZBuszOSRBfzllEN3x0lmkM2KsXIpGaZD4o5xoW3EW-9yklmy9wxWaMGpkqWzQ=s0",
+				"name": "Morelull",
+				"types": ["Grass", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/XqyxvDVNAwLHJ_O9hC-qgCWxniBEnG6Hq3U0c1pAqREdIPdxvYDX0GVczolHOXtAU-YovZcQpUfWJ3xKZ1Yis3tYE5iuc2Y3mzPfTvs_MpBKzQ=s0",
+				"name": "Togetic",
+				"types": ["Fairy", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2fA4HNTqTLWXTcA8sOxt5MJapN7UBpaJqzJ_O_zCzaJIR8DTkIUJFWeq1eTEz-7jAi4FL6QBLmHt7LP3XeO6w7LgfFQXXFywUGz6hGi5QRUlrQ=s0",
+				"name": "White Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CCJw-dFKo3rh-IVkd16FNiAG02Gsyvn9LWpTyCtZGszHFHmRPtK30xOuOC6C-QUMLvo6YlR57_amBNTjnn9ZQWen569QKmfAr0SMJyCDY7HYSps=s0",
+				"name": "Orange Flower Flabébé",
+				"types": ["Fairy"]
+			}
+		]
 	}
 ]
