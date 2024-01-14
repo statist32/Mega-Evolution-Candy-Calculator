@@ -2294,5 +2294,56 @@
 				"types": ["Fairy"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#738CC0FF",
+		"endDate": "2024-01-24T20:00:00",
+		"name": "Raging Battles",
+		"startDate": "2024-01-19T10:00:00",
+		"textColor": "#000000",
+		"tileBackgroundColor": "#EEDC9DFF",
+		"tileTextColor": "#000000",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/0NyVXnrminwu4-hH5SQxNAdLMCkmf7Yqvgq1JAogwn9Hhbyp4oAGo61SfwlWlFkIh1ptSx4QbGWMVLxdxd0ibgzeJ5-VrEwIvbQqUhjK_dfWd9E=s0",
+				"name": "Mankey",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/cdBM7Ajnf96lAWCfwNZGO0wKqn-zN2AuL8GcT8-z6haDMs34tn6H8RSnM_1gdK-qNanIJReZrh92f3sCJMJaUdLELr1HUmHdlVAnO3N3rKhviQ=s0",
+				"name": "Machop",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/v0jinaQyfI-rH-LJAm_QvYAb6CJdZXEOH0om4zPFTQVtWhsK6zDl-XeE8fkoCpHYbkyR3qZexytH1WmcB2QA8GuiU9eMVuC6izPpjn2BpA6xUrE=s0",
+				"name": "Lickitung",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/GDFBHvenKlAnqT0XfknOj72RwSmjhqF1Oow8qxKqUOi-FFCrfXT3LzDqmT4GZzoUkTdSYBBBi0IYmV8z5y4dcp8eDRzUEB2fwBf0_OX5yjsJiQ=s0",
+				"name": "Gligar",
+				"types": ["Ground", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/S6Odsehj4wt2qF2DJHfON8m57ZR3IWn5Fj3GUWkA5vvE9L9IQe8IbcPuVcyCVhzfsGldCLpVPHo7LuAJ0wHW3LvLVT2wndIR06LIAUipMgiZNg=s0",
+				"name": "Sableye",
+				"types": ["Dark", "Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/p3LgQUb-mOM-TAicSpjd6mxWbtgDnti9mEjfIk2yWVQw8KthibjtsPkRQ_osGNC1h4DWznrSFrReXbBXV8AAGquk_f150ct3bJL6Z8CQ4ZmYTw=s0",
+				"name": "Throh",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/VgIS4EJcb3M5YpnhASd92zosP09gNHuFk-qrCOl0Xuce45f4IVSW7S9hOedhcNYcjHZAdr44HT2GezdAwwg86R7oJpeYrmNNHjbWm-5EfVpXOw=s0",
+				"name": "Sawk",
+				"types": ["Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/kGpxV3aO6LWNd-pi3gYJOZxMEAuxdZ-uAaXbJDeO3CkrNDLAIShOiume5KRfttkA1jXAfRDf1hxg-KlJTGUeUryNuGw3Yjq5dWezhUDhYwCqYQ=s0",
+				"name": "Scraggy",
+				"types": ["Dark", "Fighting"]
+			}
+		]
 	}
 ]
