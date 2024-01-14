@@ -1,42 +1,54 @@
-# URL to the deployed site
+# Mega Evolution Candy Calculator
 
-https://statist32.github.io/Mega-Evolution-Candy-Calculator/
+![GitHub last commit](https://img.shields.io/github/last-commit/statist32/mega-evolution-candy-calculator)
+![GitHub](https://img.shields.io/github/license/statist32/mega-evolution-candy-calculator)
 
-# create-svelte
+## Overview
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This repository contains the source code for a web application that helps Pokemon Go players quickly identify which mega evolution provides the most additional candy during events. The web application is hosted using GitHub Pages, and it is built using the SvelteKit framework.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+- **Candy Calculation:** The application calculates and displays the additional candy gained from each available mega evolution in Pokemon Go.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- **Event Integration:** Pokemon Go events are parsed and incorporated into the calculations using the `event-downloader` module.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- **Pokemon Types:** The application fetches Pokemon types from [PokeAPI](https://pokeapi.co/), enhancing the accuracy of candy calculations.
 
-## Developing
+## Usage
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Visit the [Mega Evolution Candy Calculator](https://your-username.github.io/mega-evolution-candy-calculator/) to use the tool. Simply select the relevant options, and the application will provide insights into the candy gain for each mega evolution.
 
-```bash
-npm run dev
+## Getting Started
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+To run the application locally, follow these steps:
 
-## Building
+1. Clone the repository:
 
-To create a production version of your app:
+    ```bash
+    git clone https://github.com/statist32/mega-evolution-candy-calculator.git
+    ```
 
-```bash
-npm run build
-```
+2. Install dependencies:
 
-You can preview the production build with `npm run preview`.
+    ```bash
+    cd mega-evolution-candy-calculator
+    npm install
+    ```
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+3. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+4. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to view the application.
+
+## Contributing
+
+Contributions are welcome!
+
+
+## Acknowledgments
+
+- Pokemon types data is fetched from [PokeAPI](https://pokeapi.co/).
