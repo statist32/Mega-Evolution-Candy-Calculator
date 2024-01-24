@@ -2345,5 +2345,46 @@
 				"types": ["Dark", "Fighting"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#4A2545",
+		"endDate": "2024-02-23T22:00:00",
+		"name": "Road to Sinnoh",
+		"startDate": "2024-02-19T10:00:00",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#3E6990",
+		"tileTextColor": "#ffffff",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2DJe6DrXqL3tLashXsPqw-bxFeY_bTy6isz41uv4HraopywUZxn7OVLRHY4mLLQJmiA9IyG90Kl2KM6J3xSOHmnFYECk_TvgzaJ6Sz6CYn7V5g=s0",
+				"name": "Turtwig",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/KLKBNgoE31OpOhO8XfRg8xiM9Al4EuUABMDFvUIGeRqvStFUfYBGqQcQogRhgQOWJpMo6fG3idso_CMt5_qix64-1hFMkbIB5J2LnCovczR3=s0",
+				"name": "Chimchar",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/JO_2CUiv-_Gmi_NWmzvquYtmNNI1uUZCZM8EEkHEY6kQrdmODhvKe_-g4fgrz7kto6uiFdjjN30jQiqCb_3fLXU7n7DrpvIRYG1ZCSXOuophZg=s0",
+				"name": "Piplup",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/MAJ45eyzw1-pQ2ijlJd1EIlGk1GkrztqBfVDCr2uFNbIgPTl-XSjvkWpQNF1Gd-UtQBsNKM3_CiHDJ3mgxNoYPJ6DWSOugf-dFQPNRFol4s3SHo=s0",
+				"name": "Grotle",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/58R_nON93QXQfbrWCGe1pon4QjT-meA_P74Xf5stqCpoAi6ev4Bpd4v8SuesD2LfaqT11O6C0UM8fX8QKM-wEK1P1X2Q6nQAe4d4Pg4svRxWxAo=s0",
+				"name": "Monferno",
+				"types": ["Fire", "Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/XZKb2IxaH9TQhOXHpOLG6SrZ2psMY3ulAvgnyQJgk57yDaP6Ger9IjQXpf5U8GwkkMjHtTh1SM8DaWdjMm00saw9huGLmUuanMCUCloL7OPQFP0=s0",
+				"name": "Prinplup",
+				"types": ["Water"]
+			}
+		]
 	}
 ]
