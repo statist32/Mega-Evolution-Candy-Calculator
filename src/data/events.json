@@ -2386,5 +2386,51 @@
 				"types": ["Water"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#94190b",
+		"endDate": "2024-02-11T20:00:00",
+		"name": "Lunar New Year: Dragons Unleashed",
+		"startDate": "2024-02-05T10:00:00",
+		"textColor": "#eac557",
+		"tileBackgroundColor": "#c82114",
+		"tileTextColor": "#eac557",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/7CFcOTG3_g9JJKmiHVV-Mwxb1LbYFefwZLqzJrKwRcWEW13_GlTL_Q7RaEGTS4o3QehzSLkOx09txKOd-DVeczkBqZNj9l9jn5U1VUz0olPV=s0",
+				"name": "Magikarp",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/xhaxqBqBqS-6m6_9RTHd8lbIqqOLmivBtNNbcHdSL4iFSbmOqoLqtaPidU4Sz6vjRjl9Zmf4RMpxZuFGuUHbFQIu7Q3Ld2tDSE--OtWbPdC-p9w=s0",
+				"name": "Dratini",
+				"types": ["Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/q6qcs_C2ECkPNkgVU4rRZPIwHVSOBnNfzMTOmfeYjKbXoIZtFxwwFgAr4E16lZzKf2drOQuRBkn9dw2xyejcOGhB7pqA-FQOFsbOGJIZ1eroiw=s0",
+				"name": "Shuckle",
+				"types": ["Bug", "Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/eMV2PdMNIfIHu4s7d698Y9RMeMQz8c-kF0VrO_f_kQ4F4sQGNeCLGOcYAuvqXeaqTO4uKRLm1-K5hVDxCtzo3q_S1KNiEXCU4A_iHVRqVI4T=s0",
+				"name": "Fennekin",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HwCS_ZonH-dXQ7aw3sLPfZ4-JwasvU8OLkNBAlliIPamafAiMVr8-FTbJLKrCjUO1ELcQy2o8wwgI8bo1OA2gHN501IFri8TcwgNNUsrz2OJUA=s0",
+				"name": "Skrelp",
+				"types": ["Poison", "Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/KT691elXYOtkh83wTB_drVwvUYJC1qhtTL2rpYUeseypKKODenmscf8OjmCNtW3c-gWyWAhAjWTR0IBeZAo7wMVGIH3s2Lzb-ZVN2-3Ox2Ar3gA=s0",
+				"name": "Noibat",
+				"types": ["Flying", "Dragon"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/cRsSthV1GJVEmVUH0f8ldUb-GUTljkJ6cCDRg8pcKNs0L6bKyILqMEuV1ip4l_OmIC2Td3tePS_k6IBUFCsb8ryu2XlCPgAooQWV0OBETg14GA=s0",
+				"name": "Jangmo-o",
+				"types": ["Dragon"]
+			}
+		]
 	}
 ]
