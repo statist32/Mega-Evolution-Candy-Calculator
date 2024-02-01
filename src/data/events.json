@@ -2432,5 +2432,359 @@
 				"types": ["Dragon"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#ffffff",
+		"endDate": "2024-02-25T10:00:00",
+		"name": "Go Tour - Bustling Boardwalk",
+		"startDate": "2024-02-24T18:00:00",
+		"textColor": "black",
+		"tileBackgroundColor": "#daeef8",
+		"tileTextColor": "#0f224a",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/EFOHeyl2pPEJ26Jz6NOSXNXkOT5MA1RKOvLc-4cM5uZRq05m0kHmNpeatRuJXweyIYq8ekea4hnpqAteSZaGnYODiLU8ysK4ufgPGVgfupa6=e365-w125",
+				"name": "Pikachu wearing Lucas’s hat",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/6Vp04KxxX4OPGF91KFga9jteKtaIQJTXPMAvonD0ffhMUCtXqxyVrTyKtW_wBwIXCcRrA9hFhLogTMfDhRmEi9XqoukkFE8DOJevCVqyjzZIbg=e365-w125",
+				"name": "Pikachu wearing Dawn’s hat",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/r_feu8I88ejeoZCTIZEb5B_pK1N3OToDz-Ug6GuhQiPsmxlkUMwSO9V8vKHRb0mi7KjhrPfJvk7i92qIsNt9P9g4MKXUV3fMxdcLjM2jXNM9=e365-w125",
+				"name": "Magnemite",
+				"types": ["Electric", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fs_jxXXu1dEFXoXTgE_-2fXYXBW0cfhNuySiNv2Bh_DnOoBxMtOVddMkpW_SciyxNffTkFxaHY26N-BjlxEQPntJE7DkUZeu37JGI87wyQi6=e365-w125",
+				"name": "Electabuzz",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pii8mL739TAhZjcaGxFb1LWU8CDaYfCA_fuVKRzOnMH9vdVKDRk_TTsUPPCxNDW836iCqJ4HMOd5thu4o9xgVenoAOikKhpc5tst3Dif78nOzMM=e365-w125",
+				"name": "Porygon",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/P4GSrM2xwEyP4uC1slcuLgTvg3otDcnri6JItho0OvI69Z_d9TVl2WyGVeagEbfX1a69oD7kmvfSD613FpWqcs2gdzN5Om21OCUrw7GZ1IIW4B0=e365-w125",
+				"name": "Ralts",
+				"types": ["Psychic", "Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/W7pFVYDqfBztrNWIxdKlV-iuxxs3SW0ZLM_2r5JrkGID4Wtu4SN8lWVu9aDkxZ4gK8NemTcT5JHvm_CF_zZreHo7ocbY3LgT1BSbcIqvr8vcpw=e365-w125",
+				"name": "Piplup",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/UJUNU8kenTSqR64hpgK_KbOTloID-hunKmG4bBekJCCG6JUpIEBJtlurRvOeDQ649JPO1JEhI6Q2J0clLxI6LyFdOdn-7wpkD5kCCoheReibEhc=e365-w125",
+				"name": "Starly",
+				"types": ["Normal", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/4Nwrxg19ftXl_nn8ZyjXaeatagBUi1oGKDqWLjnXRa237X4CbUu9OBu0JOb77YuVgY2ioIC_KRWBJVIRhpfXIRvNEUWOpFaAEGTGj1Ir-WAuLQ=e365-w125",
+				"name": "Bidoof",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/zSGIYdBtCw56nQg73PYe8bSJODP6dTLJ46TAlxPVmn1ou_razyCCXo3KwIELT2qU5BGL1GFr2K6u5bIup03dwaWd49VO3ZtfQ5lUhLX_n9y-=e365-w125",
+				"name": "Trash Cloak Burmy",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/K-yBfIQTuGYKUtYXhu7Pd4_XHm9WcDpqG86xUeL2yTV3Z1IqieU9TEJgIEdchUBPpP_y5gSMM0HSyy5ku27wc-UiApS3ujRByjC1Ix7AgmOJ=e365-w125",
+				"name": "Buizel",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/fvp54V88ZfMRLZLU_IUSNB9AM8DVxRD3NPQUw1YIZd0bMsJXb9GQXkMjN--wguBM23g8IobxIb3om7PwLDXV_CD0qAYTjZjo8duJF_QumP8K=e365-w125",
+				"name": "East Sea Shellos",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vO9eg-3GiFiALhlVLKkNaStLpSA0BzTvEstOu8p6zeZUNPiSX0C-eqQ1V2QONZfzmvxFEoEeFIWbG3OCoSv7R75WmENN7aZxd5X2mQd1qoOeLg=e365-w125",
+				"name": "West Sea Shellos",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/oNzyk5y2FD6BNcN3W9xKZ_oGnPPWZeLcZRHBBCVSOcHwryEjPHuNsf6RfYvNhqv5lakqw7rIUaKhKZHqFOrR4rBNCSyCEqby7Z3kRyzmrXDKHg=e365-w125",
+				"name": "Drifloon",
+				"types": ["Ghost", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/5a-0DC8F_1V1W1wN0_fMJ1_UsYOXv_QVWnxjxMS89vJSCG39DUU5dkQnGshPI1p8JVV92Qo1m43f37b-SIMFQ_5q3MTACpY2rM_Ry_LbvA0RTg=e365-w125",
+				"name": "Glameow",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NZ7lNwEm83i30WZK4Jpv-8lh69SZ-9U8U2mc47_haiR0xv-zdjvD5M-2ROkwQSYcS9RF6xyanichLGcCPJ9S0xht9ll0uxJMijvjCyMRyXs6Mw=e365-w125",
+				"name": "Finneon",
+				"types": ["Water"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ffffff",
+		"endDate": "2024-02-25T10:00:00",
+		"name": "Go Tour - Ancient Grove",
+		"startDate": "2024-02-24T18:00:00",
+		"textColor": "black",
+		"tileBackgroundColor": "#daeef8",
+		"tileTextColor": "#0f224a",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/sMxWYHhSHdRL7-WFoHbuecWAiMMJ1m68WADU2rYeN5e8s5WQfLV9bvQwAa0mhb6zuBr2-G804HpMv1p7eZeGsHrtJ-rTO7CPzEo-LNx2AUjr7g=e365-w125",
+				"name": "Pikachu wearing Rei’s cap",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/vdvJ0nmJHfm2XtQfzpctggEy-P-iJw7uO4igzKomXQICkVsI-9qjfoLItPHC5Q9LaPLHPsXbF00OFrXmXtjzIaVGS5hm61pjiVMFG42PYb7Z=e365-w125",
+				"name": "Pikachu wearing Akari’s kerchief",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/GplEP7u7nbv1bdjUZJEqKgRbKKP8fA9V2jTsJBRYeVTIY4qttQR_y8mcOQy0d3nVCEVc-50u7LWvf9-napMh-8vdRGPsW9r5mndCadoiz3o7tw=e365-w125",
+				"name": "Hisuian Growlithe",
+				"types": ["Fire", "Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/OyrsUDGXQOxwAIlgFo2IqhEHLcDf8zdvUP2clxoq1mEn0xwiCR1XQZzi3jprhDp-y7MHd-MNxYgTmrX7AaQ5R6oWMIJE_BcdpSmTV5SNb7Y3Bw=e365-w125",
+				"name": "Hisuian Voltorb",
+				"types": ["Electric", "Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/7VL8WvdQdRBFdy0axDK86o_4dt9SHiGsPusip5jqJwnt_VX37yGWp7m3beTJm2TtOz6RMaxcgMG2pHpgyRPTUYMX1yQT7K2u4VvQcxnn_oeulw=e365-w125",
+				"name": "Tangela",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/xxeeu_0Qs_u_7-gq_L5IcTAiK5HgfxV9qYO9eyv2ehL-I8_jhwxvXZ6MmiEYSDmVWNQKgzThk3eboqREKqZ8Imb2FRrrWmIAf-z_XfZYz7n_vg=e365-w125",
+				"name": "Eevee",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/GLcwJ6gj0U_YyBXx9Yscsh_xRRVRbAzEvvwP8U2TVYD8gXTs7HO9mLK8EDhKQ4sLk41TtT_ASkvEhx8oV9Xrn9yKAQzQyP-GcLJ4ieBN5B5o=e365-w125",
+				"name": "Misdreavus",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/c1lf0rwZ6C19y2L1KYyraj4ahU4lkoLzw5qDlPTVQdh3J5cyPwEyPDOAKK8DhZN1IGO25VH4HpHP9U5RMA6Bxze7eaSAwOKNHiHNgZHmvtBRKg=e365-w125",
+				"name": "Nosepass",
+				"types": ["Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/0q7eUTC4tlyY9iRvcilSvUcplBGHCYGDfT5fUFu_vrHi76r1e0Boa42NEWDde7uyo6skpaPREOtSf0YcsU8A65PpFAwpz9sNQcLF3Utgvryrcw=e365-w125",
+				"name": "Roselia",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/W654x7UWzU9LmmE0cbaunIEF7FU2fFVHgA3JaaU4x8GN3QS-LN4SsI71q1NGN9dLtSCXbXc35o6JXS9gdiwzdhhttciyzpmUhBcpk1QN53ZL4g=e365-w125",
+				"name": "Turtwig",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/clHtBLTvM2M58BRAXg2NvUeAw2eQHpZMEsDk9rRDwP9MrtSWY_GInzz7LSHejUx-GkH1g0LVkNwFEgRlG8Zir4WIQMcdy3CSbGoklWPNBfuI2w=e365-w125",
+				"name": "Kricketot",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/JB7Z9yiZWZV3DowTNPpsA6bb9O1kwUfEpVJOJrbcLScDt27XdH75w9-0cTj2gKb05CE9oQkQVJP_s0VDiM4DcHJD_GVJuDPS8n72HbsbK3Itfg=e365-w125",
+				"name": "Plant Cloak Burmy",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/o_VmAz5NfRHIJPdYIN2i05wUX4KlXUw-SqlmUmD-Fu_NEHx0cgzKuIaJhRvLBXWATBxinK-EKk6HneR_QZIx_oKE3thkbzwzJqwqbLsXwbucAA=e365-w125",
+				"name": "Combee",
+				"types": ["Bug", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/F4v87c0HklB_B-XE-qERiYvxB_VjCUskwvekBOhknKCLVZdcDaJ7QQdeKM_DU5yNR-xz-bdxpnR9OdCLIhTHu_29W4jntTXMWP8NvboHFHYWEg=e365-w125",
+				"name": "Cherubi",
+				"types": ["Grass"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/NTUmR5S1TQilkCbeiYqvDCRBLB47-BVeFX3GtQUUvEsPan4QkcId4EWMtkA7H5T6W0vPuZ6GAhF3PTYuxJIa39fZguK7O0par-AE-PjaJLT9bL4=e365-w125",
+				"name": "Bronzor",
+				"types": ["Steel", "Psychic"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ffffff",
+		"endDate": "2024-02-25T10:00:00",
+		"name": "Go Tour - Toxic Digs",
+		"startDate": "2024-02-24T18:00:00",
+		"textColor": "black",
+		"tileBackgroundColor": "#daeef8",
+		"tileTextColor": "#0f224a",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/p7t2FLq1c55OOhRSi2q2mwTle_21hDpaXqTuUOgAoLA752PjpKCCFtb7Q1bp7UYzZCqU96AAvlnhfwlD_o8rmNIIbHsZgP3rm-Pe0BrZU_t8VR0=e365-w125",
+				"name": "Pikachu wearing Lucas’s hat",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/9XxCNhs1gDsmu2bzcJIzaDff8yIAiPGsi1pVH91YK7jDguIvb8Ly-DHxB-5DvC4baOghNd2Mjn_H1Mm7tkMBeMdu1j9KU2P3WhJDHLbSWVYY5bE=e365-w125",
+				"name": "Pikachu wearing Dawn’s hat",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pTOX3UhYKwN_xnWkvNPRRDUo4QqjwT9rhPm8Nl2EjVJIcJk4yF9Xd2GLJX4YZdmYadwcCy3kYxGj_p6kkEX29LjnEOC2IgVQkNZiYwM06iDGGkw=e365-w125",
+				"name": "Aipom",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pyZwAxjaMDajpydK2pbG5ZPk9Eto7CnL8fl7ew2bP9Oa_oQvzMa2FmEbJkLUe-6B67ryXcIqQTbd6LGown9Xg6lXaaycRFfApsbB514RBfJGZxM=e365-w125",
+				"name": "Yanma",
+				"types": ["Bug", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2e_Nt4mrczt9IU5XaO9fb9I29KPO3coBtgQfQ-2WpWMhuW3_Mfarc_FNmBngD9pvOdClv2XXh3FbiMbqIukOVmulP9NMrhQUZ523LA-Hk2t8jw=e365-w125",
+				"name": "Gligar",
+				"types": ["Ground", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ZR3USVhMU7O1S_hxnsSZ-AAhY9W3zdNvO7mahKseJdFbqugXF1BY2QntqeYfb8AWLXyvcozI66JtNxpx4aCbrBs1BvIZTjaMPmurCTXrbQF65Q=e365-w125",
+				"name": "Sneasel",
+				"types": ["Dark", "Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Arb5M-xpqdF1G4eAN_FfJYKxArdV2GBaFXu2dex1DmiYYWdpi_xKv39-wzjic-oiFh1CM5sMDJ5VUha83uFJN5cXG3vG2JhaFzS_8JgSmqr6aA=e365-w125",
+				"name": "Duskull",
+				"types": ["Ghost"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/mITzGdy6eMuHbQ3kncwQFKaxfjinW2lx6VAlFsCorJ9N-pQfTcoffBbcWUIzqvHdZoYXyOYYpgzuX3n7SWze1o9C6p2yn80Cpzoe_64Cwzaepw=e365-w125",
+				"name": "Shinx",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/C3i1zYdSpPbvOAL27-Uy7fFiiOJjGZa6ScIiY7hYDGZbVFX833a8NyuGfGdtHQ4hyQaGn9vSwyF87diqI2l1Zqdcbk5Q2ZPSy3sRb3CuXItxKzg=e365-w125",
+				"name": "Cranidos",
+				"types": ["Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/ztVXSt8-LZ_PtN-28NvgONHL3DeYsyypwb-wT6N-SCR4QvGbSnZVfpCXx-28dmodcIp13-s4qjjMLSdvofklP5cCD9vyQ_aPgLRuKj49h6St=e365-w125",
+				"name": "Shieldon",
+				"types": ["Rock", "Steel"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/kHU3sAWrG_UKLwBzoE3J9-GIU5IvbMwf1LwrNIVvWwzavtCGIbdoAr0KNKqfYhtVz3bT16rP6lrJrYBj2eAAsnPHuwlxCQWSxnyob-FPSzTN=e365-w125",
+				"name": "Sandy Cloak Burmy",
+				"types": ["Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/8LjPu-Ie-04vlwjpgxqQBsOxx5bVeNKtlXPugDpt-mbYeRZg2rx__7XWyyMviQ9lP2BLVjruHW_aWy8cIuRMIGhC3AdK2ukYip5Bdoya9D7R=e365-w125",
+				"name": "Stunky",
+				"types": ["Poison", "Dark"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/KeZaGppA_6yf5S52vLmwHBBahI-Ly87BEGdrpaVUUGV2hfrrLfZQxh_bYfcUDos56Ks9N94f75M5XUq9Lj7qxnYF2L_-TDJ9mDV3S7ItVBVXcg=e365-w125",
+				"name": "Gible",
+				"types": ["Dragon", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/o3RSJyy55E9fe0bN0iAg-3H39izPupem-2-s7TPqq0fnBNfGPUeL71OEU9XFoIjtkFvBGV7lxVMN9lHFTv6RqpLqU82WO0N_9pSxGr7vMq4YIw=e365-w125",
+				"name": "Hippopotas",
+				"types": ["Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/2BMvyjnvvbWuIdf_fqNTfsOQNbm_ZlqvwoPylvFhwq6r4Be-gcB79Vr1k8KfhBLjuIGKiLAvjtKI1lgLdeK5gcl2JYY39AvUu46Z8lNS6iU78g=e365-w125",
+				"name": "Skorupi",
+				"types": ["Poison", "Bug"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/AJenGQ5ctFVxtxu8PeMJYAuLsZVVY4qQ5djBazYrg9QvFZzcg4mLDIT2Kew5GWSAbPYBuHuYP9krdGM41j9EoqYH3AWZ30C5LSAX5WzRPy-cUA=e365-w125",
+				"name": "Croagunk",
+				"types": ["Poison", "Fighting"]
+			}
+		]
+	},
+	{
+		"backgroundColor": "#ffffff",
+		"endDate": "2024-02-25T10:00:00",
+		"name": "Go Tour - Geothermal Lagoon",
+		"startDate": "2024-02-24T18:00:00",
+		"textColor": "black",
+		"tileBackgroundColor": "#daeef8",
+		"tileTextColor": "#0f224a",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/HpXf1v89mgGWOTMDWEmfUHNW3bIP0PMaPjthPg4xKLRx-KcRzxKGQwBOKpXnF8kj-z8mhS7iODCewNZ6AX7uf_r6ZkjdvFDiUTlO6N_1nIODmA=e365-w125",
+				"name": "Pikachu wearing Rei’s cap",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/9q23_YSpcz5oXkbesr7pJpE_TvXlSHOm9146SR22ffTEkcVQmc0HddE9BYhWyd15H0kbzpe9Wehx1P27pDNLkkGGFB1d4aLFMcENGaTuTwjY_g=e365-w125",
+				"name": "Pikachu wearing Akari’s kerchief",
+				"types": ["Electric"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/uKNT3q9F74Ui0NQATySz8lkqjrkoctBdsAy41cMzfBNXslWHGNUz5BtRWIhaGzVYRCmGWkWBQ81kT0vmXy49vEat4Z5cTVBkmQBVA5ydwM53jg=e365-w125",
+				"name": "Hisuian Qwilfish",
+				"types": ["Dark", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/AduMq1BsAsrpzuqDR9iaGqyEHf4MgfFpRFLOACgjBmPNyYEaVgyoPCqC2H0Rc1AX1nJbhYUBOahfbWDleXDwQ5wK33kUbqH6JccAkf6LnnT8gw=e365-w125",
+				"name": "Hisuian Sneasel",
+				"types": ["Fighting", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/O-P8wNYbd_T_MTzqFPq5mVyNr73jBv3fj8oLPA8q7qhkeWYvqUvd1vGuNGeEHF_AghshuwdS6dZBBGngEgv11F6YdKrGYRTDeX7uKRon8IRvw0w=e365-w125",
+				"name": "Lickitung",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1eI1J5E_no05q7WfBL8XDKpEow41NKYxTxdSfIamEMDgzmaVprz3ZPDJe2V6cd1qUUGOxuShkBIiijGeClMhB18zkYrguTWwFrnLBik5KWdKCHM=e365-w125",
+				"name": "Rhyhorn",
+				"types": ["Ground", "Rock"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/O3oVwyZh2BIybREOb8H-7Y721ALtcHjZeQNJNnIrrQajTKlSlCmaPF35KEbrw5f-XBGNJMoMgJ0sz5v97HPs1l4UuTy-hFk9cfFeTt1N1-aQ9HE=e365-w125",
+				"name": "Magmar",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/KtpAwSCK-Q-snFfISHIvkjJpTwOqLY-cU1dFs4lRKoijtpaueEXgokpCdj0kAPP_NVMxDkcpr4uFGkg2DOhA2Z-pzcN6eZn0RFNSTF6G70E28Q=e365-w125",
+				"name": "Eevee",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/AvBxdj6FGYqHqM4UZ6_yuYXdeQslm9oQHIjJqRmqee-uZgStbxeUh9NpEQv9xowhfjBjHyUUGcqPrTvQDnsUo_tOwl_L9Cp3GZT-U5FiK6nEiA=e365-w125",
+				"name": "Togetic",
+				"types": ["Fairy", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/pwne1GLp4rIX6M9AzGeyzYBsqT2RHjRlHrcnzO-2PLPj78m7-BCkwoQz25q5ydXiRZfdYdbKlI6zUmLZFKuTRle1yGNh2qlJvFm4-10P9Lx_sA=e365-w125",
+				"name": "Murkrow",
+				"types": ["Dark", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/wXIQLwdHKlsIvQNm0NmU-FO3oXXvzTqcPaKHHW_F_Tw-klqYdGkE5ujDRdzvWthl4QXdr-x9NAzWwToADcG_Fw_A7IAZQOJ-xR7dAaVFGDUJQA=e365-w125",
+				"name": "Swinub",
+				"types": ["Ice", "Ground"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/khBM6nHncLjHlmQFGFNtMxGWdU3PYdo-xePDdSHcvezmZftUIorhgJFwvmoB3wzBZtXXKhDUaFaqp2P23rqOHgIzADmKrvEmLpGan7Z47FCV=e365-w125",
+				"name": "Snorunt",
+				"types": ["Ice"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/U4yHR7wtaQFUPnZ4o14qavfQEJTG8qawL2GzsZ-duJmNtM79Q15-1-aRcdhYVgofywyUb_uIf8KXW5Re0kY2NDSM4pEx2XiG1jKFD9PxvYD3NJY=e365-w125",
+				"name": "Chimchar",
+				"types": ["Fire"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/EZJGa_oQbxos_QabZ8dTNdtJkam702Vwn28WahRCkMDLikp0qKLT2teW2u4xUUyR2sVFd6r6FxQDKA7wwVbhLytzMNAECnQSpL-AFMNWWZDvP-0=e365-w125",
+				"name": "Buneary",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/C4LDegzrpOsW_2KFHdz2WpupDbnR9KN-AMOVx6OKWzzablyhQAjQQnIranjb_fSUjuYb4BSgVLxlmqrdM3t_zM9ctlXxBNEvTUn8m4GLS0opKA=e365-w125",
+				"name": "Snover",
+				"types": ["Grass", "Ice"]
+			}
+		]
 	}
 ]
