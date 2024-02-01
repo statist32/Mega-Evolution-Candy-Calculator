@@ -140,10 +140,10 @@ def get_event(soup):
 
 def get_go_fest(soup):
     names = [
-        "Quartz Terrarium",
-        "Pyrite Sands",
-        "Malachite Wilderness",
-        "Aquamarine Shores",
+        "Bustling Boardwalk",
+        "Ancient Grove",
+        "Toxic Digs",
+        "Geothermal Lagoon",
     ]
     events = []
     for name in names:
