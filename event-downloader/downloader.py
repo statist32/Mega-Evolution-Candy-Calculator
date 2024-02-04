@@ -45,16 +45,28 @@ def find_all_wild_encounters(
 
 def get_pokemon_types(pokemon_name):
     if "Alolan" in pokemon_name:
-        query_pokemon_name = pokemon_name.replace("Alolan ","").split(' ')[0].lower()
-        query_pokemon_name +="-alola"
+        query_pokemon_name = pokemon_name.replace("Alolan ", "").split(" ")[0].lower()
+        query_pokemon_name += "-alola"
     elif "Galarian" in pokemon_name:
-        query_pokemon_name = pokemon_name.replace("Galarian ","").split(' ')[0].lower()
-        query_pokemon_name +="-galar"
+        query_pokemon_name = pokemon_name.replace("Galarian ", "").split(" ")[0].lower()
+        query_pokemon_name += "-galar"
     elif "Hisuian" in pokemon_name:
-        query_pokemon_name = pokemon_name.replace("Hisuian ","").split(' ')[0].lower()
-        query_pokemon_name +="-hisui"
+        query_pokemon_name = pokemon_name.replace("Hisuian ", "").split(" ")[0].lower()
+        query_pokemon_name += "-hisui"
+    if "Flabébé" in pokemon_name:
+        query_pokemon_name = "flabebe"
+    elif "Oricorio" in pokemon_name:
+        query_pokemon_name = "oricorio-"
+        if "Baile" in pokemon_name:
+            query_pokemon_name += "baile"
+        elif "Pom-Pom" in pokemon_name:
+            query_pokemon_name += "pom-pom"
+        elif "Pa’u " in pokemon_name:
+            query_pokemon_name += "pau"
+        elif "Sensu" in pokemon_name:
+            query_pokemon_name += "sensu"
     else:
-        query_pokemon_name = pokemon_name.lower().split(' ')[0]
+        query_pokemon_name = pokemon_name.lower().split(" ")[0]
 
     URL = f"https://pokeapi.co/api/v2/pokemon/{query_pokemon_name}/"
     response = requests.get(URL)
@@ -118,11 +130,19 @@ def find_event_name(soup):
 
 def find_event_dates(soup):
     start_date_str, end_date_str = (
-        soup.select_one(".ContainerBlock__body > p").text.strip().replace(".","").replace(" local time", "").split(" to ")
+        soup.select_one(".ContainerBlock__body > p")
+        .text.strip()
+        .replace(".", "")
+        .replace(" local time", "")
+        .split(" to ")
     )
 
-    start_date = str(datetime.strptime(start_date_str, "%A, %B %d, %Y, at %I:%M %p")).replace(" ", "T")
-    end_date = str(datetime.strptime(end_date_str, "%A, %B %d, %Y, at %I:%M %p")).replace(" ", "T")
+    start_date = str(
+        datetime.strptime(start_date_str, "%A, %B %d, %Y, at %I:%M %p")
+    ).replace(" ", "T")
+    end_date = str(
+        datetime.strptime(end_date_str, "%A, %B %d, %Y, at %I:%M %p")
+    ).replace(" ", "T")
 
     return start_date, end_date
 
@@ -134,7 +154,7 @@ def get_event(soup):
     colors = get_colors(soup)
     event = dict(wildEncounters=combined_wild_encounters, **colors)
     event["name"] = find_event_name(soup)
-    event["startDate"],  event["endDate"] = find_event_dates(soup)
+    event["startDate"], event["endDate"] = find_event_dates(soup)
     pprint(event)
 
 
