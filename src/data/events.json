@@ -2786,5 +2786,96 @@
 				"types": ["Grass", "Ice"]
 			}
 		]
+	},
+	{
+		"backgroundColor": "#f8a3a3",
+		"endDate": "2024-02-15T20:00:00",
+		"name": "Carnival of Love",
+		"startDate": "2024-02-13T10:00:00",
+		"textColor": "#ffffff",
+		"tileBackgroundColor": "#ffffff",
+		"tileTextColor": "#f8a3a3",
+		"wildEncounters": [
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/CeKPNeHOMp5GS3vynP8mHTf53jLsZl7MKf9QnRC2qY_6qFnH8dKsK_yVIULxwlDLsJm7NDORl890biHh3vFmK-SuGj5zJipkh9l9H7UEC0y_EQ=s0",
+				"name": "Snubbull",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/B4ehoZ0gG-I912DHnoF73UfLHnYrn61Q0gAxB8GqEiDyrdLn40nCXuQHQ20FFJgMxHGZQI3qE6WHt-BJDNJkeeSJON1kNAFyrnJFXC1MQ7yIR7Q=s0",
+				"name": "Skitty",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/4j6xpyW7BXoKBZu3XEgone3FtLjSFYlsSXFbMjW12YtrDEFUaF2zexZ0S9M-nTcisErrDMOuMNjClUzjp7SHXZJRFdmw78WVsvRx6ENca5z1nA=s0",
+				"name": "Luvdisc",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/nfdVDWeHT-RfMUr0MSbUwGM31AKMosjr9qu3yme13rVXx3CjroA1ZSvF9tn0zA--d-DPG43OMqip8vGPMG1rnj4-uGZ1wj9pQXnOQMXMsVqW=s0",
+				"name": "Red Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/V8LGK0Bp1lmjJns88I4SbPrgpuGsMoXN_pVEJOzYCSWU4CocmrJA4vFn1rb58RVzWGi1jkZH54PhPfZ4i_m01BQuztV5ioq22_KiNDETPeVsOQ=s0",
+				"name": "Blue Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/-Rz2UEZO9TgnPc-fvJ2lHGZ22DeMOTPswasHAAzbcQrIk7pUY04yCg1BPluDzzL62pNpz0ZU9tOxW4ZAa41MpvdOfrYb29Svfka5gyu-E-XkvQ=s0",
+				"name": "Yellow Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/GKWMiVKegyvrQmL6R8feyQ7ibmvO8WT2kQVpbBiiKT0jVMYW1znU-geC6jsoNeepm-Ahxu36cLUtDD7ASjFYU_aByy5fvMyeFPEki6Hhd1jTTg=s0",
+				"name": "Furfrou",
+				"types": ["Normal"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/xtDQxzYnox-s5hpcTFstU8cuWqCWRXM3BHkjdZWLT6QL4nbdQCuV34Ljo6zgdoZt8bFLEnF16IwAaLNGeeCGz4Bafl0YGXw2yVJ0Mir1Jlzg=s0",
+				"name": "Baile Style Oricorio",
+				"types": ["Fire", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/MmiUse1Qk-nyWeneI0dI1YG_dxKc_QrXkq5qPu4XFNcxUKf-xe3nVUKDcKDjeMAH8jZRpowrhIlIYD4vUkTz0Rhu9zODiNGoMsjAHIJXZaRvXg=s0",
+				"name": "Pom-Pom Style Oricorio",
+				"types": ["Electric", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/hzyjFuTdn3ijU90w6miEnSxkzMadBM9niBjWt0KLuryRzpsYO7NdCYDCq3DQONSm3NvR2wnN8QClovrRx_oCh1-DoGFGJBUR2yYzeN0_cuJE=s0",
+				"name": "Pa’u Style Oricorio",
+				"types": ["Psychic", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/Hk3RfOckW1zUQEVV_dwC6tyMqgV_TJG1HbP6WrdqkwBHKf4CmDxaWGJdc-48S_qbbR1YXiiKBFu39yyjpJfmXcA3djh6q5gnx8yJNiI-lbw5QA=s0",
+				"name": "Sensu Style Oricorio",
+				"types": ["Ghost", "Flying"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/bcb30ph0sgCRKyzRdlYI32EtWL-TMLDyLdZEuK3L_nDTR1Q9CqwAqKysQGyY4WjrhXiP6WehXogU9BShuHQS3fLqG9xdXLStmjMsfGaLb_2l=s0",
+				"name": "Stufful",
+				"types": ["Normal", "Fighting"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/UffmqXbC6rew1lDj0cLYw0tOVOy38WlkPYJjYX6vw81IRMzHYm0CfjdaJA-SPGvbQcDiVLjFNV8A89N7bhvzAFC6OP4QYuRvzSzeADeaIrRG=s0",
+				"name": "Quaxly",
+				"types": ["Water"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/1WV7VPyUDDpqW0a5YpME7iNHPMOwa7cm4frSZazTVRY13nU-xIVfYmmX5PakbB_JyYfjzM5T4Be-q_LTmyPkYYUVTOtUyMKzt2_EvHhnl3aRdQ=s0",
+				"name": "Roselia",
+				"types": ["Grass", "Poison"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/zwWdjy4obtgomlFF8KgMS_qt3wE_LzmoB4C-m6-UHV0JWJ077KmxUAPDy4krApwKah7Aj4EHlDPjSdJBo0jzm6uXMsqfrnq6u5Sy0dobOrs0=s0",
+				"name": "White Flower Flabébé",
+				"types": ["Fairy"]
+			},
+			{
+				"imgUrl": "https://lh3.googleusercontent.com/EWQlu4CYybxqDdUKDvVaRKO-91Cxhngd52IU7wVtlXmTlwmTy2yk0bxMp-Z0J065ikojes26RDY8ckBmhnyPd4eujDCTXfMTUF-N6lel7AzIels=s0",
+				"name": "Orange Flower Flabébé",
+				"types": ["Fairy"]
+			}
+		]
 	}
 ]
